@@ -25,12 +25,10 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies  
-      working-directory: Files  
-      run: pip install -r requirements.txt
+      run: pip install -r requirements.txt  # Removed working-directory
 
     - name: Run Python scripts  
-      working-directory: Files  
-      run: |
+      run: |  # Removed working-directory
         python app.py
         python sort.py
 
@@ -45,4 +43,3 @@ jobs:
         push: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
