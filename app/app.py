@@ -15,6 +15,19 @@ fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 """
 
+# Create the Splitted-By-Protocol directory if it doesn't exist
+ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
+splitted_dir = os.path.join(ptt, 'Splitted-By-Protocol')
+if not os.path.exists(splitted_dir):
+    os.makedirs(splitted_dir)
+
+vmess_file = os.path.join(splitted_dir, 'vmess.txt')
+vless_file = os.path.join(splitted_dir, 'vless.txt')
+trojan_file = os.path.join(splitted_dir, 'trojan.txt')
+ss_file = os.path.join(splitted_dir, 'ss.txt')
+ssr_file = os.path.join(splitted_dir, 'ssr.txt')
+
+
 # Base64 decoding function
 def decode_base64(encoded):
     decoded = ""
