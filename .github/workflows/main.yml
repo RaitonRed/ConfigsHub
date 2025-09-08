@@ -25,7 +25,7 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies  
-      run: pip install -r requirements.txt  # Removed working-directory
+      run: pip install -r requirements.txt # Removed working-directory
 
     - name: Run Python scripts  
       run: |  # Removed working-directory
