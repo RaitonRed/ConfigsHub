@@ -3,7 +3,7 @@ import os
 import base64
 
 # Define the fixed text for the initial configuration
-fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
+fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBSYWl0b25SZWQg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
