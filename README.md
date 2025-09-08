@@ -11,36 +11,13 @@
 Just Copy these links to your client to use :
 
 Subscription 1: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub1.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub1.txt" />
-
 Subscription 2: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub2.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub2.txt" />
-
 Subscription 3: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub3.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub3.txt" />
-
 Subscription 4: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub4.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub4.txt" />
-
 Subscription 5: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub5.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub5.txt" />
-
 Subscription 6: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub6.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub6.txt" />
-
 Subscription 7: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub7.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub7.txt" />
-
 Subscription 8: https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub8.txt
-
-<img width="200" height="200" alt="frame" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/Sub8.txt" />
 
 🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
 
