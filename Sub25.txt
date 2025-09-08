@@ -3,4 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5OiIEBYaWxpVnBOQk9UIOKAjOKAjOKAjC3igIwgIFsgRnJlZSBdIOKAjOKAjOKAjCIsCiAgImFkZCI6ICIxNTcuMTgwLjExOS4xNCIsCiAgInBvcnQiOiAyMDI2LAogICJpZCI6ICIzYTcxYmQyYS1jY2JlLTQ0MzMtOTUzNS0yNTBjYTQ0MjBhZWUiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIKfQ==```
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@185.200.190.159:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%40v2FreeHub%20%7C%20%F0%9F%87%AB%F0%9F%87%AE
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%40v2FreeHub%20%7C%20%F0%9F%87%B7%F0%9F%87%BA
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@william-siasookhte.info:27774?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5OiIEBYaWxpVnBOQk9UIOKAjOKAjOKAjC3igIwgIFsgRnJlZSBdIOKAjCIsCiAgImFkZCI6ICIxNTcuMTgwLjExOS4xNCIsCiAgInBvcnQiOiAyMDI2LAogICJpZCI6ICJmNTFmOWU5NS1jOGFlLTQ5ZTAtYTI0Mi1lNDU0NDI3MjMxMTciLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIKfQ==```
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
