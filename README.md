@@ -62,6 +62,14 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 ## Contributing
 ✍️ If you have a V2ray configuration file that you would like to contribute to this repository, simply create a new pull request and we will review it.
 
+## Donate
+you can donate by this wallets:
+
+- TON: ``UQAyVhowpAHuH-WexQZ1zqPYGzul70Qovg508a8uhw3-BgCj``
+- BTC: ``bc1qay7knee8dww3a4cqjfdlt4qk42kf97vhe7cq75``
+- ETH: ``0x7905f78cE79f8A951B92909A24ee55f0fB154C06``
+- TRX: ``TM4HtaVunB2VNoZ19hfzTnXgpPpDsvMbd2``
+
 ## License
 📝 This repository is licensed under the MIT license. See LICENSE for more information.
 
