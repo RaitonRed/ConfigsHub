@@ -1,0 +1,6 @@
+#profile-title: base64:8J+GkyBHaXQ6UmFpdG9uUmVkIHwgU3ViMjUg8J+UpQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/RaitonRed/ConfigsHub
+#profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
