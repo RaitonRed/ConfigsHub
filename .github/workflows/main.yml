@@ -25,10 +25,12 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies  
-      run: pip install -r requirements.txt # Removed working-directory
+      working-directory: ./app  # Changed to app directory
+      run: pip install -r requirements.txt
 
     - name: Run Python scripts  
-      run: |  # Removed working-directory
+      working-directory: ./app  # Changed to app directory
+      run: |
         python app.py
         python sort.py
 
