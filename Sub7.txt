@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.113.215:38644?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Daily_Configs
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.113.215:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @singbox1 🇩🇪
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.116.180:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.125.216:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -480,6 +479,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&securit
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🇺🇲@FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#🚀کانال تلگرام : @InjastVpn
 vless://401374e6-df77-41fb-f638-dad8184f175b@164.38.155.97:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#@Mrconfig_Channel 🩵
+vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#t.me/entryNET/config=1842751611896274
 vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.18:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#@Selinc
 vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.18:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#🇺🇲@FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?encryption=none&security=tls&sni=vp38.hiddendom.shop&alpn=h2&type=grpc#@Daily_Configs

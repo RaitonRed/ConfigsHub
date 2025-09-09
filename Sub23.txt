@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#%3E%3E%40VmessProtocol%3A%3AXX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=%2FTELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
@@ -499,6 +498,7 @@ vless://f599eb06-508a-4e24-9d59-4c50bf0332b7@91.98.79.239:443?security=tls&sni=p
 
 
 hysteria2://1sbtkLK7F3@195.22.157.104:39279?obfs=salamander&obfs-password=yukugikguitlbgl&sni=joon.arshiacomplus.dpdns.org#@Rayan_Config%203
+
 
 
 
