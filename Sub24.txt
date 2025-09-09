@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2095
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2096
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&sni=pqh25v7.vetrkot.com&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20141
