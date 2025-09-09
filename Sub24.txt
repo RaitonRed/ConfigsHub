@@ -4,44 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2096
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&sni=pqh25v7.vetrkot.com&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20141
-
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b7@91.98.79.239:443?security=reality&sni=tempail.com&alpn=http/1.1&fp=chrome&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&sid=f47f400cc96a4e&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2075
-
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b7@91.98.79.239:443?security=tls&sni=plaza.ir&alpn=h2&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&encryption=none#@Rayan_Config%2074
-
-vless://f599eb06-508a-4e24-9d59-4c50bf0332b7@91.98.79.239:443?security=tls&sni=plaza.ir&alpn=http/1.1&fp=chrome&type=ws&path=/JCG7HcKpCWxijB2IADOUXiAjgsQ6&host=plaza.ir&encryption=none#@Rayan_Config%2028
-
-
-
-
-
-hysteria2://1sbtkLK7F3@195.22.157.104:39279?obfs=salamander&obfs-password=yukugikguitlbgl&sni=joon.arshiacomplus.dpdns.org#@Rayan_Config%203
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%208
-
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%206
-
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%204
-
-hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%2010
-
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%207
 
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%205
@@ -59,11 +21,11 @@ hysteria2://dailyconfigs:NK5xdQde54Pwj47idBVOI3JrAkDrnVyg@[2a0b:4140:b17f::2]:44
 
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%204
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%201
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%202
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%203
 
