@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@IRAN_V2RAY1
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@V2ray1_Ng
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇩🇪@FreakConfig
@@ -503,3 +501,5 @@ vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@EVAY_VPN.fast.hosting-ip.com:80?typ
 vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&mode=auto&host=lake5.global.ssl.fastly.net&path=/rddeserfgg?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇺🇸 @Evay_vpn
 vless://c988e2e4-3e72-48e0-894f-c458f03246a7@178.212.35.210:8080?security=reality&encryption=none&pbk=raES8OUSF_bmOvcHfuPIm-Fu-hlpd-9SLWCWmrRCW2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=89a6e02cde6cea#🧭85
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.142:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.142:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.142:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#@Daily_Configs
