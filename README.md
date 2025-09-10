@@ -72,6 +72,3 @@ you can donate by this wallets:
 
 ## License
 📝 This repository is licensed under the MIT license. See LICENSE for more information.
-
-## Contact
-🙋‍♀️ If you have any questions or concerns, please feel free to reach out to us via our discussions tracker.
