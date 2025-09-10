@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#@V2ray1_Ng ALL
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#All_@IRAN_V2RAY1
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#Telegram : @Alfa_v2ray_ng 🔥
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#خرید کانفیگ نیم بها از @Silver_v2ray
@@ -484,7 +483,6 @@ vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.7.237:443?mode=stream-one&pat
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.7.237:443?mode=stream-one&path=/rf?ed=2048JOIN---PLANB_PROXY&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir/?@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&headerType=http&type=tcp#r♡yaッ
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇵🇱@FreakConfig
-vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 💛
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🩵💛
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇵🇱@FreakConfig
 vless://c9bd82f0-bd38-48b3-8ea9-afca79e024e9@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?type=ws&path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&host=eng.vinamarketcenter.ir&security=none#@FASTSHOVPN عضو شو
@@ -503,3 +501,5 @@ vless://ca9fc94c-8ffc-4fb0-8cfa-a21bab6fcddf@speedtest.net:80?encryption=none&se
 vless://ca9fc94c-8ffc-4fb0-8cfa-a21bab6fcddf@speedtest.net:80?mode=auto&path=/mohamadbash?ed&security=none&encryption=none&host=taracpuyour-name.global.ssl.fastly.net&type=xhttp#@AblNet7 🇮🇷 نت ملی
 vless://ca9fc94c-8ffc-4fb0-8cfa-a21bab6fcddf@speedtest.net:80?mode=auto&path=/mohamadbash?ed=2560&security=none&encryption=none&host=taracpuyour-name.global.ssl.fastly.net&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://ca9fc94c-8ffc-4fb0-8cfa-a21bab6fcddf@speedtest.net:80?mode=auto&path=/mohamadbash?ed=2560&security=none&encryption=none&host=taracpuyour-name.global.ssl.fastly.net&type=xhttp#🇹🇷@FreakConfig
+vless://caaf0e88-9139-48c2-b712-fcacde7a3a45@85.133.240.49:31086?security=none&encryption=none&host=fast.com&headerType=http&fp=chrome&type=tcp#@Geek_Spot
+vless://cab74092-fcab-4960-b14c-00da24a70830@172.66.40.99:8080?encryption=none&security=none&type=ws&host=www.speedtest.net.2.jey.cloudns.pro&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
