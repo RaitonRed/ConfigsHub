@@ -47,7 +47,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024910159.lisbon-drc-dcrab
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=&encryption=none&type=grpc#🇱🇹[Telegram:NetifyVPN]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#t.me/entryNET/config=1842902165385161
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=&encryption=none&type=grpc#🇲🇾[Telegram:NetifyVPN]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇳🇱[Telegram:NetifyVPN]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
@@ -224,7 +226,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇺🇸[🔐 @AblNet7 ] vless-US
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸] @Hddify
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.157:8880?mode=gun&security=&encryption=none&type=grpc#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.157:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
@@ -382,7 +383,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=&encryption=none&type=grpc#singbox1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=&encryption=none&type=grpc#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@Daily_Configs
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
