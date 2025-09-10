@@ -4,34 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.52:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20122
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.53:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20120
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.56:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20121
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.63:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20126
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.65:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20125
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.66:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20119
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.68:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20116
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20137
-
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.72:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20117
-
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2086
-
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2084
-
-vless://ca2ce370-3dab-4420-80bf-5b7dd9b1181b@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20106
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20113
-
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?security=tls&fp=chrome&type=ws&path=/cdfighws&encryption=none#@Rayan_Config%2099
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2094
