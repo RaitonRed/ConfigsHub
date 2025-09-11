@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:8443?path=/&security=tls&encryption=none&type=ws#🇫🇷 MCI - @FREEV2RNG 12
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.3:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.3:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.86:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.86:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
@@ -225,6 +222,7 @@ vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?mode=gun&secur
 vless://ad7666ba-a2f0-4bc0-a591-c2b5c71defc8@login.dayhostpro.com:25685?security=reality&encryption=none&pbk=mh8q2kQofhOY1y0L2UWOiJ8OedYKb0G7jD0GK_A0YRs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hoteltonight-test.com&sid=80e33dd85656c7#Telegram: @FergalVpnMod 🇩🇪
 vless://adb21e18-c07c-4c3f-a1c0-dff5667bd69c@germosh.babakphotographi.ir:21184?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@V2rayN5 / @mhmdreza_it-🇩🇪
 vless://adb21e18-c07c-4c3f-a1c0-dff5667bd69c@germosh.babakphotographi.ir:21184?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@v2ray313 کانالمون 💖
+vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#t.me/entryNET/config=1842943500831115
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@dropcube
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎 @AblNet7 💎
@@ -503,3 +501,5 @@ vless://bbacaf6d-292c-463a-ac31-98b02685e6b5@m78a.vip784.com:33801?security=none
 vless://bbacaf6d-292c-463a-ac31-98b02685e6b5@m78a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#me
 vless://bbb3686b-a450-4c9e-b98a-34d4bcdbe4d0@62.60.247.164:443?mode=gun&security=reality&encryption=none&pbk=Q5wQ-CFit2wmpY4ACfqdZI8CClmPn4sfLXXdpW73PS0&fp=chrome&spx=/&type=grpc&serviceName=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=tgju.org&sid=d5c5c558ee0132#@v2rayng_fars
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@CaV2ray ⚡️
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.99.37:80?path=/?ed=2560&security=&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=chrome&type=ws&sni=barayeiran.nastaranh.dpdns.org#@Mrconfig_Channel 🩵
+vless://bbd32725-822d-430f-b2b1-de06a72f7333@parsvds.com.ir-outline.click:443?security=reality&encryption=none&pbk=4MdpN5vUjbOa5FwB6j9hyvii52ndc8Wq_NAg0iuuMnQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=zhaket.com&sid=66fff32920#🇩🇪 | @External_Net
