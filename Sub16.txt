@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@Daily_Configs
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
 vless://d25456d9-eaad-4546-96a3-288410d2a09f@ru-0017.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#@V2RAYNG_1378
 vless://d2965257-0536-4811-a0d5-cdce54e90326@154.211.8.47:2096?path=/&security=tls&encryption=none&host=fei.634676.xyz&type=ws&sni=fei.634676.xyz#[🇺🇸]
@@ -35,7 +34,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?encryption=none
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@CaV2ray ⚡️
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@pardazeshVPN
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&sni=a.mifeng.us.kg&type=ws&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048&host=a.mifeng.us.kg&encryption=none#@awlix_ir
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.146.66:2095?encryption=none&security=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed=2560#t.me/entryNET/config=1842927280607463
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&fp=chrome&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&sni=worker-little-frost-1b1c.cataben844.workers.Dev#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.145:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇫🇷[Telegram:NetifyVPN]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=none&encryption=none&type=grpc#VayNora
