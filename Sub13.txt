@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://992ebc9b-ea29-47b8-b120-c786d093b2a1@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌲 Telegram | @Green_WPN
 vless://993c636b-19d8-4d20-8961-e8f4b4755df5@80.74.29.212:8443?security=reality&encryption=none&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://9953991f-eebe-4140-ce8b-e824adc87436@binex.tv.sedanor.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=chess.com&security=none#BinexTify 🌟-qg0dbhlxv
 vless://995855df-a67e-4306-bb2a-a9c5a7bf6431@91.98.73.65:4060?security=reality&encryption=none&pbk=4wqVP925fSFsWZnvk6xAmPi3r2d4M8G9aEAdyHFSMHw&headerType=none&fp=chrome&type=tcp&sni=connectivitycheck.gstatic.com&sid=3052b534d7eb28ec#@Selinc
@@ -503,3 +502,4 @@ vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇳🇱@FreakConfig
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
+vless://a24481eb-0496-4ab9-9bd0-af1d530df91d@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#@CaV2ray ⚡️
