@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#@ata_connect
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://70f8697b-f9f3-4692-8e0a-3d1834fd76dc@ip.sb:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=0fd5019a.fl-8hb.pages.dev&fp=chrome&type=ws&sni=0fD5019a.FL-8hB.paGEs.deV#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:@EXPRESSVPN_420🏂¹⁰
@@ -503,3 +502,4 @@ vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.147.22:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=JJANgesn.sbs&fp=chrome&type=ws&sni=JJANGEsN.sbs#Telegram : @Alfa_v2ray_ng 🔥
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.148.22:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=jaegbsem36.cfd&fp=chrome&type=ws&sni=jaegbsem36.cfd#Telegram : @Alfa_v2ray_ng 🔥
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.148.22:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&host=jaegbsem36.cfd&fp=chrome&type=ws&sni=jaegbsem36.cfd#t.me/iProxy_Channel 5

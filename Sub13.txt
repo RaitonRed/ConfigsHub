@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://9b546843-a984-4a3d-b91d-c360cd6b3a13@83.147.18.179:443?security=reality&encryption=none&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=snapp.ir&sid=5bef46444e87#Telegram : @Alfa_v2ray_ng 🔥
 vless://9bd063f6-6870-4e94-a76a-d71ec9de50d0@94.156.232.187:8880?security=none&encryption=none&headerType=none&type=tcp#@confegraigan <= کانفیگ رایگان
 vless://9bd063f6-6870-4e94-a76a-d71ec9de50d0@94.156.232.187:8880?security=none&encryption=none&headerType=none&type=tcp#✅ @vistav2ray  👈👈کانال ما
 vless://9bd063f6-6870-4e94-a76a-d71ec9de50d0@94.156.232.187:8880?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?path=/jzonrlws?ed
 vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?path=/jzonrlws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?path=/jzonrlws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN
 vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#@CaV2ray ⚡️
+vless://a4192042-8787-44a2-a43f-a133e71bc1d3@188.245.126.149:55100?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#@NETMelliAnti

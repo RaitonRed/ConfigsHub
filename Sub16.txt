@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://caaf0e88-9139-48c2-b712-fcacde7a3a45@85.133.240.49:31086?security=none&encryption=none&host=fast.com&headerType=http&fp=chrome&type=tcp#@Geek_Spot
 vless://cab74092-fcab-4960-b14c-00da24a70830@172.66.40.99:8080?encryption=none&security=none&type=ws&host=www.speedtest.net.2.jey.cloudns.pro&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
 vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=/?ed=2560&security=none&encryption=none&type=ws#فیلترشکن رایگان👈Prime_Verse@
 vless://cadabee9-d354-4ce7-f77c-99388c746574@www.speedtest.net:2087?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&security=tls&alpn=http/1.1&encryption=none&host=amin.amin-app.ir&fp=chrome&type=ws&sni=amin.amin-app.ir#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠همه اپراتورها
@@ -503,3 +502,4 @@ vless://da7010f4-0ac9-48f4-ac5c-a4a561450036@54.36.114.253:25366?mode=gun&securi
 vless://da7010f4-0ac9-48f4-ac5c-a4a561450036@54.36.114.253:25366?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@mehrosaboran
 vless://da86fa0e-7d99-4ef4-bffc-cc7d114748ef@193.3.182.246:443?type=tcp&security=none#𝒃𝒐𝒍𝒃𝒐𝒍𝒗𝒑𝒏-@bolbolvpn  👈 چنل ما2
 vless://dab74092-fcab-4960-b14c-00da24a70830@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.2.jey.cloudns.pro&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
+vless://dab94092-fcab-4960-b14c-00da24a70830@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.2.jey.cloudns.pro&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
