@@ -1,6 +1,7 @@
 # 🔒 Free V2ray Config 🌐
 💻 This repository contains a collection of free V2ray configuration files that you can use with your V2ray client to access the internet securely and anonymously.
 
+[نسخه فارسی](https://github.com/RaitonRed/ConfigsHub/blob/main/README-fa.md)
 
 ## Usage
 👉 To use one of these configurations, simply open the configs.txt file located in the root directory. This file contains a list of links to various 2ray configuration files that you can use with your V2ray client. Copy [THIS LINK](https://raw.githubusercontent.com/RaitonRed/ConfigsHub/main/All_Configs_Sub.txt) link of the configuration file you want to use from the configs.txt file and import it into your V2ray client. Refer to your client's documentation for more information on how to do this.
