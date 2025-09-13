@@ -312,7 +312,6 @@ vless://3c1d4f53-a6ba-407b-911a-ea195f4201c2@172.67.73.216:80?encryption=none&se
 vless://3c6f7783-e1e4-40b0-b227-1dede937d7b5@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=he10.motorbazan.cOm&type=ws#[🇺🇸]@configLINE(3)
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:443?security=reality&encryption=none&pbk=Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@178.20.215.10:1443?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇷🇺@FreakConfig
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.202.12.10:443?security=reality&encryption=none&pbk=BqPcbcS0agCOmW5xem5nQldi_2oGariVJdJZ6Q57810&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@193.31.127.10:443?security=reality&encryption=none&pbk=ehRbIcN9HhqjhReY1pjqIBGqHCbdY26Kq70_w7k4jgY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:1443?security=reality&encryption=none&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:443?security=reality&encryption=none&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&
@@ -445,7 +444,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&securit
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#Telegram : @Alfa_v2ray_ng 🔥
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#All-@IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#Telegram : @Alfa_v2ray_ng 🔥
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#[🏁]
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🇺🇲@FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@147.185.161.234:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#[🇺🇸]
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#[🏁]
@@ -476,10 +474,8 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#[🇨🇦]
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.140.0.141:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#[🇦🇪]
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@Mrconfig_Channel 🩵
-vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#[🇬🇧]
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🇺🇲@FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#MCI--@IRAN_V2RAY1
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v5.hiddendom.shop#[🇨🇦]
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh25v1.hiddendom.shop#[🇨🇦]
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v2.hiddendom.shop#[🇨🇦]
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.hiddendom.shop#MCI--@IRAN_V2RAY1
@@ -503,3 +499,7 @@ vless://40c41ed5-ede6-4b40-a611-d07c3544cc17@172.66.40.99:8080?type=ws&path=/@Ma
 vless://40cb7d82-5599-4c75-9fe3-2de4de2c1fe7@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=mastokhiar.com&type=xhttp#[🇩🇪]@configLINE
 vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?security=reality&encryption=none&pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4662ad#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://40da1cf7-f3bc-4b2e-95d8-b392a154ee23@159.65.29.233:57864?path=/&security=none&encryption=none&type=ws#[🇬🇧]
+vless://40da1cf7-f3bc-4b2e-95d8-b392a154ee23@159.65.29.233:57864?path=/&security=none&encryption=none&type=ws#r♡yaッ
+vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:1530?type=xhttp&mode=auto&host=EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#1🇫🇮 | @Evay_vpn
+vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=Evay_vpn.heloisfood.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048&security=none#2🇫🇮 | @Evay_vpn
+vless://410615dc-8a83-e7ca-6d1e-52bddd8d3c23@143.244.56.54:80?mode=auto&path=/&security=none&encryption=none&host=fastspeed.b-cdn.net&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
