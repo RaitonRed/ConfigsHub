@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://def9f760-61e8-2646-2a24-42973e96c041@146.19.143.150:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇪🇪@EVAY_VPN
-vless://def9f760-61e8-2646-2a24-42973e96c041@51.195.35.2:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇫🇷@EVAY_VPN
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@bad_raqs
@@ -503,3 +500,6 @@ vless://ea03f531-04d8-402b-b95f-598ab9934933@159.203.65.250:4918?security=realit
 vless://ea03f531-04d8-402b-b95f-598ab9934933@91.107.178.1:4918?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=reality&encryption=none&pbk=9x8pWtP9-IziwcCbi5ecBlWQasNRvcvUze1wmEtWkww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5297dc1dbb9e1a4b#AZADIV2RAYY  جوین بده 🇩🇪
 vless://ea03f531-04d8-402b-b95f-598ab9934933@91.107.178.1:6684?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#AZADIV2RAYY   👈🏻 بیا 🇩🇪
 vless://ea03f531-04d8-402b-b95f-598ab9934933@khareg.azaddm.ir:6684?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇺🇲@FreakConfig
+vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#@AblNet7 🇷🇺
+vless://ea6320c2-67f9-40c0-9e58-95641d2ffbfd@2.189.59.2:443?security=tls&encryption=none&type=grpc&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&serviceName=Channel:@UnlimitedDev#Awlix_ir
+vless://eacdd4fc-718c-40e3-bab1-40fe822fda2d@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🚀کانال تلگرام : injastvpn@ جوین بدید
