@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://slch2024@192.0.63.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#US_speednode_0094
-trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#US_speednode_0095
-trojan://slch2024@199.68.156.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#US_speednode_0096
-trojan://slch2024@198.62.62.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#US_speednode_0097
-trojan://slch2024@199.181.197.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#US_speednode_0098
-trojan://slch2024@192.0.54.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#US_speednode_0099
 vless://6035325d-399a-5148-9126-29cedfd5966a@92.118.112.83:443?allowInsecure=0&sni=outlook.office.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0100
 trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷@ShadowProxy66#US_speednode_0101
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@85.239.56.10:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0102
@@ -503,3 +497,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjYyY2FjYi01NjM3LTRlYTktYWQ2YS1mYTlmOTU4ZTU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@1.165.87.170:10036#🇹🇼[🔐 @AblNet7 ] ss-TW
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@1.170.31.68:10117#🇹🇼[🔐 @AblNet7 ] ss-TW
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@125.231.78.25:10076#🇹🇼[🔐 @AblNet7 ] ss-TW
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplaGMzUzJpUXFCa25Gckw2SWVjQXAy@213.111.128.57:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#[🏁]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#[🇺🇸]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#[🏁]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#[🏁]
