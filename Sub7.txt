@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#All-@IRAN_V2RAY1
-vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#🇨🇵@FreakConfig
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#🇳🇱@FreakConfig
 vless://4ab4fc4a-855d-4aef-870b-1cf4314cbfb7@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
 vless://4ab4fc4a-855d-4aef-870b-1cf4314cbfb7@speedtest.net:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
@@ -503,3 +501,5 @@ vless://6475e370-b6fb-45de-b377-5796ba96e645@maralhost.com:2053?path=vless-ws/?e
 vless://648e7315-a314-4f2b-9d01-0c63bf1b99be@gertest8.nekosocks.com:443?security=reality&encryption=none&pbk=WHt55vddBMD1GycpotWV2LlBELwnCOrbiD5M7bAmhGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gertest8.nekosocks.com&sid=02794d08c8d69a7c#@Selinc
 vless://64ac5b5a-15a7-45df-8b49-100556ff7771@Free.Connection.rptmsvmvm.top:8080?security=reality&encryption=none&pbk=sndKZYSOQJq4o3NQjZzNwQl8AceoqVWKTcgTmKkLego&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=3a#یه سرور اختصاصی بخر راحت شو
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@vpnserverrr
+vless://6529058d-710b-4c77-8d21-9cbfab6511a6@speedtest.net:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-reza.global.ssl.fastly.net.&type=xhttp#🇩🇪@FreakConfig
+vless://6529058d-710b-4c77-8d21-9cbfab6511a6@yde1.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇩🇪@FreakConfig
