@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@1.170.31.68:10117#🇹🇼[🔐 @AblNet7 ] ss-TW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZDU4YjMyMC1hOWM1LTRjYTUtYjA4Ni0xOTIzYTM0N2ZjMTc=@125.231.78.25:10076#🇹🇼[🔐 @AblNet7 ] ss-TW
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplaGMzUzJpUXFCa25Gckw2SWVjQXAy@213.111.128.57:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#[🏁]
@@ -503,3 +501,5 @@ vless://0878df61-09ac-4c68-af57-db1523e9fd3b@46.31.76.33:868?security=none&encry
 vless://0878df61-09ac-4c68-af57-db1523e9fd3b@filmoi.rtpxc.com:1786?security=none&encryption=none&headerType=none&type=tcp#telegram-@ISVvpn
 vless://087f8a66-f19a-4822-ba2f-a55debb29d94@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://0882a150-746a-4ba7-81b8-7922511894c5@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://08a54858-fe85-46cd-8a17-96deaa34f67f@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg&fp=chrome&type=ws&sni=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg#@bored_vpn
+vless://08a54858-fe85-46cd-8a17-96deaa34f67f@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg&fp=chrome&type=ws&sni=azzz111.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg#🇩🇪@FreakConfig
