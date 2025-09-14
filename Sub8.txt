@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram : @Alfa_v2ray_ng 🔥
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&host=Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@azadiiivpn💕
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@i10VPN 🚀| با ما متصل بمون⚡
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@Dropcube
@@ -503,3 +502,4 @@ vless://8b4fdac3-2b99-4cd6-a7ce-05ca693779ef@209.38.42.122:2027?security=none&en
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/?@Selinc?ed=512&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@Selinc
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=512&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@i10VPN 🚀| با ما متصل بمون⚡
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#Telegram : @Alfa_v2ray_ng 🔥
+vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none=&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@bored_vpn
