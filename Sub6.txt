@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2052?security=none&encryption=none&type=ws&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&path=/#[Awlix_ir]
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&encryption=none&type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#Awlix_ir
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?security=none&encryption=none&type=ws&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&path=/#[Awlix_ir]
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?security=none&encryption=none&type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#Awlix_ir
@@ -503,3 +502,4 @@ vless://57eac5b9-2aa1-449f-b1a9-f7a544f3e0a1@65.109.178.12:8080?security=reality
 vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🇫🇷 FR - Telegram : @FergalVpnMod
 vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🇬🇧 UK - Telegram : @FergalVpnMod
 vless://58137fe1-635c-c05a-ed3c-5b386cbe95f7@www.de.w.com.yas-baaq.ir:46942?security=reality&encryption=none&pbk=omg0dIfTHQbMADo5g6COKn73nEFoSYC1X5lV-goPBEg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1709fe47a82c202e#@HiByeVPNN👈⚡❤️‍🔥
+vless://58186ddc-be2e-4148-a680-ccd546994988@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
