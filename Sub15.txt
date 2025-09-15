@@ -4,6 +4,14 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
+vless://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313?security=&fp=chrome&type=ws&path=/&encryption=none#@Rayan_Config%2091
+
+vless://e74a22b6-2a0c-4d60-b93d-9c6e966cfa96@188.114.97.113:443?security=tls&sni=m237.inaonehorseopensleigh.com&fp=chrome&type=ws&path=/v8490110014&host=m237.inaonehorseopensleigh.com&encryption=none#@Rayan_Config%2072
+
+vless://ef7316a9-f531-40f8-9f13-d2f1dcb46e83@142.93.238.52:14045?security=&fp=chrome&type=ws&path=/&encryption=none#@Rayan_Config%2095
+
+vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@195.201.32.169:24199?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2068
+
 
 
 
