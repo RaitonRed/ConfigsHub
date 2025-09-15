@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://719164a6-50f1-4485-a79b-2fbd9dc7bbb4@par.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&host=/@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG-@TAKV2RAY_ORG&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=44103f58#🇨🇵@FreakConfig
 vless://71b8d670-cffd-4156-bc32-178fa366df7e@51.89.116.49:8080?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://71ee66e6-57b6-4d06-a89f-322fa65c718e@51.75.155.84:80?mode=gun&security=reality&encryption=none&pbk=gqU-OZJ8VtvpUsHyfS3qYe30gskO36uetcjBLZOd8g0&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=808863e2d27b6c#🚀کانال تلگرام : injastvpn@
 vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@AblNet7 🇺🇲
@@ -502,4 +503,3 @@ vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.u
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#All_@IRAN_V2RAY1
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://936698ea-58bf-4b19-8cd5-ffd73cc44c91@csgo-news.film2serial.cloud:443?flow=&type=grpc&mode=gun&serviceName=6k9LhPdmkFyy7eL4dZlhBC&security=tls&fp=chrome&sni=csgo-news.film2serial.cloud&alpn=h2&allowInsecure=false#Helix
-vless://936698ea-58bf-4b19-8cd5-ffd73cc44c91@csgo-news.film2serial.cloud:443?flow=&type=grpc&mode=gun&serviceName=6k9LhPdmkFyy7eL4dZlhBC&security=tls&fp=chrome&sni=csgo-news.film2serial.cloud&alpn=h2&allowInsecure=false#Helix-Free | 300GB | @Helix_Servers

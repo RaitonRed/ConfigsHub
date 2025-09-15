@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://3bba9a08-157f-442b-b814-313e3ec7f350@54.36.117.130:25369?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
+vless://3bba9a08-157f-442b-b814-313e3ec7f350@54.36.117.130:25369?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#wi-fi-@iran_v2ray1 🇩🇪
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@ir238.cdnscloud.org:7777?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@FergalVpnMod All
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@FergalVpnMod All
 vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zilor.ir&type=ws#@CaV2ray ⚡️
@@ -179,7 +181,6 @@ vless://42795c1c-acab-46f5-8c10-a86de801411b@104.17.147.22:443?path=/Telegram@V2
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?encryption=none&security=tls&sni=s3.mAIN-2.WorKeRs.Dev&fp=chrome&type=ws&host=s3.main-2.workers.dev&path=/iTCBmrOFrKpdwUWZ?ed#@CaV2ray ⚡️
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=/iTCBmrOFrKpdwUWZ?ed&security=tls&alpn=http/1.1&encryption=none&host=s3.main-2.workers.dev&fp=chrome&type=ws&sni=s3.mAIN-2.WorKeRs.Dev#@CaV2ray ⚡️
 vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#@vmesskhodam
-vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?path=/&security=none&encryption=none&host=tgju.org&type=ws#@AYMH19+کانال+تلگرام
@@ -502,4 +503,3 @@ vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?securit
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Selinc
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Allـ@Iran_v2ray1
