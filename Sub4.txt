@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://1a714fa1-247b-4755-87d0-32c46d3fdc14@94.141.123.233:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=bc97736f81817c41#@i10VPN 🚀| با ما متصل بمون⚡
 vless://1a9755e3-84a3-46b0-9d7b-e864d68214e6@azadnett1.set7.site:35420?type=tcp&security=none#hedyeh.azadnet100G
 vless://1a9e235e-d08f-480a-bbaa-1c0c8305d7b8@biapin.isvcloud.ir:54135?mode=auto&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=reality&encryption=none&pbk=r7oB_ziu6Tcx_C7mB3-0mdGb_DHeHcjnvF3oo9zddmc&fp=chrome&type=xhttp&sni=211.ir#telegram@ISVvpn
 vless://1aaf960c-a970-4d57-e5a5-235ca11c5c27@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-k7o6dhdk
@@ -503,3 +502,4 @@ vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.75.120:2087?path=/Telegram@V
 vless://376734bc-4db8-4317-b451-af0262cb01c7@172.66.132.196:443?path=/Tel-@V2ray_Alpha=?ed=2560&security=tls&encryption=none&host=INviNCIBle.fAfa20.shOP&type=ws&sni=INviNCIBle.fAfa20.shOP#@Mrconfig_Channel 🩵
 vless://376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2087?path=/FnxOCItzWpgMrgmD/NzguNDYuNTYuNDI=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=invincible.fafa20.shop&fp=chrome&type=ws&sni=invINCIBLE.FAfa20.SHOp#@Mrconfig_Channel 🩵
 vless://378b8e58-6a23-4fc6-b227-67665a78033d@hajimamadvpn.fast.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#سرور رایگان EXPRESSVPN_420-1@
+vless://378b8e58-6a23-4fc6-b227-67665a78033d@hajimamadvpn.fast.hosting-ip.com:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-1
