@@ -4,6 +4,8 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
+vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%2050
+
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?security=tls&fp=chrome&type=ws&path=/lkjdasws&encryption=none#@Rayan_Config%2049
 
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@188.225.80.183:443?security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2046
@@ -501,5 +503,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%81%20TelegramID%20%E2%8C%B2Express_freevpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://5fda29b6-0688-44e3-afdf-df533c800109@51.89.118.126:25369?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85`
-vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
-vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
