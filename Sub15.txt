@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.194:443#%40v2FreeHub%20%7C%20United%20Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#%40v2FreeHub%20%7C%20Switzerland
 vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?path=%2F&security=none&encryption=none&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://1f142c19-9d8e-4424-a653-4a5187f69dd2@209.38.110.63:57259?path=%2F&security=none&encryption=none&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://4c600df7-b464-4f01-8d61-85fc3c068215@159.65.194.42:55512?encryption=none&security=none&type=ws&path=%2F#%40Daily_Configs
