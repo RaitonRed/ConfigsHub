@@ -390,7 +390,6 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&p
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&mode=auto&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#3🇩🇪@Evay_vpn
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@vmesskhodam
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel-@vmesskhodam
-vless://bbacaf6d-292c-463a-ac31-98b02685e6b5@m78a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://bbb1ce8e-684b-427f-89a0-42b8980f85f3@164.92.157.143:37677?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.99.37:80?path=/?ed=2560&security=&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=chrome&type=ws&sni=barayeiran.nastaranh.dpdns.org#@Mrconfig_Channel 🩵
@@ -503,3 +502,4 @@ vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/&security=t
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#MCI-@IRAN_V2RAY1
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#@CaV2ray ⚡️
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
