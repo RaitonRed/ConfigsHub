@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://c185d3d9-4263-440c-8d89-2888efddd45a@195.201.32.169:57276?type=grpc&serviceName=FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
+vless://c1c15aa0-f5ce-4e1e-c9af-8eb80852166a@99.199.73.53:18716?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://c1d2e3f4-a5b6-1234-7890-0123456789ab@104.20.158.25:443?type=ws&encryption=none&host=iran.aslivpn.ir&path=/Telegram@V2rayNG&security=tls&sni=iran.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
 vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?security=none&encryption=none&type=ws&host=44-rEFaQaT.yArAyaragAHi12.info&path=/df38fGe9tgDG0dkg84LsdfOdjg8.#Awlix_ir
 vless://c2174355-eca6-4be5-91e9-0be20ef6ff1b@93.127.180.92:8443?security=none&encryption=none&headerType=none&type=tcp#r♡yaッ
@@ -501,5 +503,3 @@ vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@89.47.201.163:23737?mode=gun&securi
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?type=grpc&mode=gun&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=varzesh3.com&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c&spx=/#🇫🇮 | @Evay_vpn
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://decd275b-407b-470a-a95a-d7411348d7f9@91.99.81.146:8443?security=reality&encryption=none&pbk=X1ZcgEvOoRWwMQHDd4VOVUsVc0clHdcRKwVgjV9VvWs&fp=chrome&spx=/&type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&sni=www.cloudflare.com#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?security=&type=grpc&encryption=none#@awlix_ir
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?security=&type=grpc&encryption=none#@awlix_ir

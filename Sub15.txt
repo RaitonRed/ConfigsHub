@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?security=tls&fp=chrome&type=ws&path=/hxwdnrws&encryption=none#@Rayan_Config%2034
 
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@176.126.111.10:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=QHkMTl1hdagEIqAb-o0UubqxctDrBUUYKQ2jawa6oX4&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20117
 
@@ -503,3 +502,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?encryption=non
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?encryption=none&security=tls&sni=ula347.tiri-viri.com&type=ws&host=ula347.tiri-viri.com&path=%2F#%40skypro_vpn
 vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBWMnJheTFfTmciLA0KICAiYWRkIjogImxhbW1hbGFuZC5vcmciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogImxhbW1hbGFuZC5vcmciLA0KICAicGF0aCI6ICJsaW5rdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImxhbW1hbGFuZC5vcmciLA0KICAiYWxwbiI6ICIiDQp9
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh28v5.vetrkot.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%9E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
