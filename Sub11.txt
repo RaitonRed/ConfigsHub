@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://efdbbe04-38e0-46f3-a1c2-8c0c5604c636@199.34.230.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 322
 vless://efdbbe04-38e0-46f3-a1c2-8c0c5604c636@89.116.46.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 119
 vless://efe1c1fa-896d-4ea5-9a57-ebb56aebe165@de.cartfunshop.com:47193?security=reality&encryption=none&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com&sid=82bf76bf5e1008d8#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
@@ -503,3 +502,4 @@ vless://60f5612f-4861-4162-eaba-fd1c178437e0@91.98.89.62:443?mode=stream-one&pat
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40free1_vpn%20%5B6%5D
 vless://9f2b6ca9-f369-4ec3-8228-968339c39c94@192.81.132.174:443?security=reality&encryption=none&pbk=-DL-0iFbjVHMFW9Skumiyr3ViIViDZwtKCTEFHCQM3s&headerType=none&fp=ios&spx=%2F&type=tcp&sni=waze.com&sid=ccda#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40free4allvpn%20%5B15%5D
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgREUgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAZnJlZTRhbGx2cG4gWzE2XSJ9
+vless://ad0a2850-bb1d-4787-bfb7-d4c7edc2be9c@70.36.60.28:465?security=reality&encryption=none&pbk=S-XCLvD0xpDRUyXllXksYqRXxP0HvLarEfrRQSZDAAE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=gmail.com&sid=f6951a66dbca861c#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40free4allvpn%20%5B17%5D
