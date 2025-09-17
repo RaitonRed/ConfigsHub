@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=&encryption=none&headerType=none&type=tcp#%40Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Kia_Net%20862939
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F%3FPLANB_PROXY%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_Proxy%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20Kia_Net%F0%9F%91%88%20874497```
 vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
