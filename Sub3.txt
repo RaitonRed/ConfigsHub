@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.31:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
 vless://00fb88f7-b50c-4f04-b2c3-f7633b1ca95c@54.36.114.253:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Hddify
 vless://01232cb4-ceab-43c1-f384-09f698db6c19@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
@@ -503,3 +502,4 @@ vless://20f9a609-f802-4301-91d5-7e28cbe23be0@138.68.129.37:16268?path=/&security
 vless://210c860d-a893-451e-9bbd-130c76d08e6c@www.speedtest.net:8443?type=httpupgrade&host=de3.penubit.com&path=/VLSDECF&security=tls&fp=chrome&sni=de3.penubit.com&alpn=http/1.1&mux=8#AKLISvpn 🇺🇸vip🕊️
 vless://2175948a-0716-44a7-a1c1-ee90ebd9f4e9@91.99.144.18:2002?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#@Selinc
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
+vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@104.21.72.109:80?path=/JOIN---PLANB_PROXY?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=dfgopee-workers.dev.&fp=chrome&type=ws&sni=dfgopee-workers.dev#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy  🆔
