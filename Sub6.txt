@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=smn2.gerlemondns.info&type=ws&sni=smn2.gerlemondns.info#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@65.109.214.71:80?path=/hjgfdws&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@91.107.255.211:80?path=/hjgfdws&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://598cb690-b398-40a9-be9d-9c629c32f613@Zula.iR:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🪸-sy8knn0q
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
@@ -503,3 +501,5 @@ vless://78e3cff7-75e1-4418-9db0-b3a00aece703@numberland.ir:2052?flow=&type=ws&ho
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://79265bcd-e650-42de-ab50-83fbc9089a18@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
 vless://79265bcd-e650-42de-ab50-83fbc9089a18@63.141.128.35:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
+vless://79383067-8a2b-415e-84a0-799443b04a77@104.17.147.22:2087?path=/Telegram_configMs_Telegram_configMs_Telegram_configMs&security=tls&alpn=http/1.1&encryption=none&host=mango1.mangoap.org&fp=chrome&type=ws&sni=mango1.mangoap.org#@bored_vpn
+vless://7970c470-080a-4221-a72a-3166d933bd9a@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46186-1

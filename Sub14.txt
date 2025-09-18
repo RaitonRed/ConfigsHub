@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?security=&fp=chrome&type=ws&path=/hjgfdws&encryption=none#@Rayan_Config%2059
-
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Rayan_Config%2065
 
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Rayan_Config%2024
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930133854419945.bandar-drc-tusab
 vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiQ2hhbm5lbCBJRDogQHYycmF5X2NvbmZpZ25ldCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207611953.kish-drc-dcrabj.info:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%94%A5
 vless://c3001ca6-96f6-4c60-833c-4495c0c6951e@54.36.114.253:25369?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40best_program1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Kia_Net%20862939
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206clczL2ljVjc0ei9nTk4xVmNwZ3IvRFgvVUxGcDh3OE9aZytoUFdHb2hodz06ZmxUcTB3OUQ3RzFqN2lUd2JXTVlDRDRhVDFMRlVKYmd2V0prenpjQ3ZHZz0%3D@195.22.157.104:24754#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
