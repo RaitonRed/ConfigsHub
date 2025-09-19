@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://275791c2-2fcd-477e-aa34-5fd4aabc0e16@zula.ir:443?security=tls&encryption=none&type=ws&host=foOd.piNoBin.iR.&path=/YwIG9FgZvsHrfa2f?ed=2560&sni=FOod.pinobIN.Ir.&fp=chrome&alpn=h2,http/1.1#Awlix_ir
 vless://276a6072-3b0c-4ddb-bb33-ce14fabc1534@91.99.236.124:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM 🇩🇪
 vless://280539b0-05e1-4192-b37d-e647c4fca511@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=end.dr-mojtaba.ir&type=ws#@bored_vpn
 vless://280539b0-05e1-4192-b37d-e647c4fca511@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=end.dr-mojtaba.ir&type=ws#[🇩🇪]@configLINE(5)
@@ -46,7 +47,6 @@ vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&s
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#@Selinc
-vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#@V2RAYNG_1378
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2acc68da-e15b-49f1-bfee-fa957c3b1001@49.13.138.252:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
