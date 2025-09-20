@@ -149,7 +149,6 @@ vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&se
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#@Selinc
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&fp=chrome&type=ws#@Dropcube
 vless://094af2f8-b421-4d0c-a96c-00625147a30c@63.141.128.13:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#@IRAN_V2RAY1
-vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://0976702b-b96f-4265-a855-e22d1e3365b4@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.xero-network.ir&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://0976702b-b96f-4265-a855-e22d1e3365b4@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.xero-network.ir&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://09c23aca-e8a3-4b09-e034-80c429d90e34@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-bb2apu9g
@@ -503,3 +502,4 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encr
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.98.17.31:2020?security=none&encryption=none&headerType=none&type=tcp#@Maznet-46190-3
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.98.17.31:2020?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@95.217.158.184:2020?flow=&type=tcp&headerType=none&security=none#Channel : @vmessorg🏴🏳
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@95.217.158.184:2020?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
