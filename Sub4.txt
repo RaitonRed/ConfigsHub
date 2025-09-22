@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.98.17.31:2020?security=none&encryption=none&headerType=none&type=tcp#@Maznet-46190-3
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.98.17.31:2020?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -502,4 +503,3 @@ vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?encryption=none&se
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=/iTCBmrOFrKpdwUWZ?ed&security=tls&alpn=http/1.1&encryption=none&host=s3.main-2.workers.dev&fp=chrome&type=ws&sni=s3.mAIN-2.WorKeRs.Dev#@CaV2ray ⚡️
 vless://42872a28-fdb0-49de-8ea4-a093b0042cec@188.166.150.199:443?path=/ws&security=tls&encryption=none&host=188.166.150.199&fp=chrome&type=ws&sni=zula.ir#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#@vmesskhodam
-vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
