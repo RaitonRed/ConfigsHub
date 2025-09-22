@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://89de2797-c1b1-4e7d-93b1-3735343d544d@172.66.40.99:80?type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.js.elmahstyle.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇳🇱@Shh_Proxy | All¹
 vless://89f5b64b-4ef3-4a51-9b9d-55a41c463055@141.227.134.150:45649?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://8a059bef-4395-4fdd-973e-fbe626cff94f@104.31.16.104:2053?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ir.arsalak.ir&fp=chrome&type=ws&sni=ir.arsalak.ir#All_@IRAN_V2RAY1
 vless://8a059bef-4395-4fdd-973e-fbe626cff94f@Www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ftp.arsalak.ir&fp=chrome&type=ws&sni=ftp.arsalak.ir#All_@IRAN_V2RAY1
@@ -503,3 +502,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:443/?type=ws&encrypti
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.3:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.86:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
