@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#ᴬᴸᴸ⁴🇩🇪➣@JKVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
@@ -503,3 +502,4 @@ vless://edd9414d-acbb-4d5a-90e2-52449dfbf430@172.66.40.99:2052?type=ws&path=/@Ma
 vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?path=/Telegram-V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-4.sahel.filegear-sg.me#@CaV2ray ⚡️
 vless://ee2a2581-ac81-4a3d-9650-c2f03d6cb3ab@yuae.amiraizo.com:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=e41865e506628f44#@EXPRESSVPN_420 [🇦🇪] ⌁ 𝙐𝘼𝙀
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.77:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.238:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
