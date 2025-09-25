@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇳🇱@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?mode=gun&security=none&encryption=none&type=grpc#→@Hddify 🍥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn 🫧
@@ -503,3 +501,5 @@ vless://f1dfc9dc-6376-49af-b016-7f41ee23ae69@www.speedtest.net:2086/?type=ws&pat
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#MCI-@IRAN_V2RAY1
+vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇨🇵@FreakConfig
+vless://f23b820b-b88f-4c40-8b20-b4b36629f6b1@sss15894.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@vmesskhodam
