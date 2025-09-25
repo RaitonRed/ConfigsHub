@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@162.55.191.57:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=miro.com&type=ws#@bored_vpn
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@172.66.40.99:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=speeeDeio.xpnvip.ir.&type=ws#@bored_vpn
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@172.66.40.99:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=speeeDeio.xpnvip.ir.&security=none#BinexTiFy🪸-oub56dna
 vless://afea8fb8-1b5b-42bb-ea18-22bdcef1bcee@binex.tc.azinpsn.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=miro.com&security=none#BinexTiFy🪸-oub56dna
@@ -503,3 +502,4 @@ vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupg
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#MCI-_@IRAN_V2RAY1
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#@Selinc
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#MCI_@IRAN_V2RAY1
