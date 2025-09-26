@@ -116,8 +116,6 @@ vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&fp=ch
 
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2020
 
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&encryption=none#@Rayan_Config%2084
-
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Rayan_Config%2068
 
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?security=tls&fp=chrome&type=ws&path=/pfrlouws&encryption=none#@Rayan_Config%2039
@@ -135,12 +133,6 @@ vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?security=tls&fp=c
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/teqalfws&encryption=none#@Rayan_Config%2071
 
 vless://87664dc2-1ee0-4452-9895-bdeff5a9818d@159.223.38.173:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20SG%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=6389113402676776505.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776505.rtxiran.info&encryption=none#@Rayan_Config%207
-
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Rayan_Config%206
-
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.148.22:443?security=tls&sni=6389113402676776506.rtxiran.info&fp=chrome&type=ws&path=/&host=6389113402676776506.rtxiran.info&encryption=none#@Rayan_Config%2085
 
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2019
 
@@ -226,9 +218,43 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&fp=chro
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%205
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
+
+
+
+
+
+
+
+
 
 
 
@@ -286,8 +312,6 @@ vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmci
 vmess://eyJhZGQiOiIxNS4yMDQuMTAzLjciLCJhaWQiOiIwIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDExMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxNS4yMDQuNjQuMjExIiwiYWlkIjoiMSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgODkiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwiYWlkIjoiMCIsImhvc3QiOiJiYXJhZGloYS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiYmFyYWRpaGEuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI3IiwiYWlkIjoiMCIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxMDkiLCJzY3kiOiJhdXRvIiwic25pIjoibGFtbWFsYW5kLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
@@ -479,27 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0316
 vmess://ewogICAgImFkZCI6ICI0Ny43Ni4yMzMuMiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTMwNzBlYWEtYjU1My00NGQ5LWIyMzktOTk0ZTQ2MjM5YzljIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDU2MzQsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny43Ni4yMzMuMi01MDgzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1NL-103.104.247.47-4894
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-3554
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.15:989#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.15-4160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.58-0347
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.122:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.122-0292
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-4931
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.240-5024
-trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.66-0564
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.66-4953
-trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0560
-trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0559
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.122-0302
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0565
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-4903
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:2520#%F0%9F%87%B0%F0%9F%87%B7KR-121.170.203.147-5019
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-0310
-vmess://ewogICAgImFkZCI6ICI4LjIxOC44Ljg0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4NzFkMDRkZi1mYzU4LTQ3MGEtYmFjYS1kYWFlMjg4NjkxNjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogMjMzMjYsCiAgICAicHMiOiAi8J+HrfCfh7BISy04LjIxOC44Ljg0LTUwMzkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-4807
-vmess://ewogICAgImFkZCI6ICI0Ny44My4xNjIuNCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiM2ZkMjY2YmMtNzY5MS00M2NmLWE4MmYtMGM5NzYxYTY5YmYwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDQwODczLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuODMuMTYyLjQtNTA1NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:3296?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0567
-vmess://ewogICAgImFkZCI6ICI4LjIxNy4yMjAuMzAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjJjMjU4M2I2LWVjZTAtNGQzZC1hN2Y1LWNmMzdjNGE2ZmE4ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiAzOTY0OCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE3LjIyMC4zMC01MDM0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-4863
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-4910
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.69-0333
-vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
