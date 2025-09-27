@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn 🎀
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#me
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇦@FreakConfig
@@ -503,3 +502,4 @@ vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&secu
 vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://f65006fc-2fa4-4860-b036-0cdb11a10e24@172.66.40.99:80?path=/telegram-v2ray_configs_pools,telegram-v2ray_configs_,telegram-v2ray_conf?ed=80&security=none&encryption=none&host=ab.shangoli5.motorphrotan.ir.&type=ws#telegram ⚡️ v2ray_configs_pools
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@IRAN_V2RAY1
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
