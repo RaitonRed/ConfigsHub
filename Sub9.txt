@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=/Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools?ed=2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#@v2ray_configs_pools👈⚡❤️‍🔥
-vless://b0e55a84-681e-4bf8-96be-a7f617dd5afc@152.89.12.77:443?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=&encryption=none&host=q6.19kalA.co&type=ws#@Geek_Spot
 vless://b12eb9b3-b54b-4c87-95c9-3dd41bc20458@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=aCadeMIC-ExPerT.onEEAt.co&type=ws#telegram 🌺 v2ray_configs_pools
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#✅ @v2ray_configs_pools (تلگرام)
@@ -503,3 +501,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#@V2RAYROZ
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#@i10VPN 🚀| با ما متصل بمون⚡
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#IR-@IRAN_V2RAY1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#r♡ya
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#🇦🇿Telegram:tik7net_vpn
