@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://1a845c08-9e71-4f24-9b74-c6a6e1ea2be0@ardagulerturk.gojustore.site:7035?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=none&encryption=none&host=filimo.com&type=ws#🇹🇷[Telegram:NetifyVPN]
 vless://1a845c08-9e71-4f24-9b74-c6a6e1ea2be0@ardagulerturk.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://1a845c08-9e71-4f24-9b74-c6a6e1ea2be0@holnether.gojustore.site:7035?path=/&security=&encryption=none&host=filimo.com&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 vless://1a9755e3-84a3-46b0-9d7b-e864d68214e6@azadnett1.set7.site:35420?type=tcp&security=none#hedyeh.azadnet100G
@@ -503,3 +502,4 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&enc
 vless://3718b82b-a334-433f-a826-c36d06234353@91.107.176.168:2086/?type=tcp&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn2
 vless://371c3285-f15a-4a64-b8e1-1ad8a5d8f01d@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=crazyofferzzshopp.com&path=/FASTSHOVPN?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸 @Evay_vpn
 vless://371c3285-f15a-4a64-b8e1-1ad8a5d8f01d@v2ray_configs_pools.fast.hosting-ip.com:80?mode=auto&path=/v2ray_configs_pools?ed=2048@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools&security=none&encryption=none&host=crazyofferzzshopp.com&type=xhttp#✅ @v2ray_configs_pools (تلگرام)
+vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.75.120:2087?path=/Telegram@V2ray_Alpha/=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=invincible.fafa20.shop&fp=chrome&type=ws&sni=InvInciBLe.FAFa20.sHop#@CaV2ray ⚡️

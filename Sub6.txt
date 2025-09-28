@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&type=ws&sni=cfn09.aLAnHIAHo.com#🇩🇪[Telegram:NetifyVpn]
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&host=Cfn01.aLanHiAHo.CoM&type=ws&sni=Cfn01.aLanHiAHo.CoM#🇫🇮@FreakConfig
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&host=Cfn13.aLAnhIahO.COM&type=ws&sni=Cfn13.aLAnhIahO.COM#🇩🇪@FreakConfig
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&host=gFN06.alanHiAho.Com&type=ws&sni=gFN06.alanHiAho.Com#🇫🇮@FreakConfig
@@ -503,3 +502,4 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?security=realit
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#All-@IRAN_V2RAY1
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#MCI--@IRAN_V2RAY1
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@arv.vipmehspd.ir:981?encryption=none&security=none&type=tcp&headerType=none#@CaV2ray ⚡️
+vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=/ajnexnws&security=tls&encryption=none&type=ws#@v2ray_configs_pools
