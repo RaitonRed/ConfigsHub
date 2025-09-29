@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxygrizzly%20%5B1%5D
 vless://d2900c83-c946-4022-91cc-662b808ee186@proxysudochannel.ddns.net:8443?mode=gun&security=reality&encryption=none&pbk=QIYQ18dVZZ4H3sseAPw34I2glJNfXTwM9OHRUSm-Uxw&fp=safari&spx=%2Fabout&type=grpc&serviceName=&sni=instructure.com&sid=b6b63505#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxysudo%20%5B1%5D
 vless://bcf8c65a-ed44-4b40-b7f3-752115b20662@proxysudochannel.ddns.net:8080?type=tcp&security=reality&fp=safari&pbk=blF2p2FE_fexB29-tmU9HfVs6TwqsSQVxWAHIiP2KTk&sni=instructure.com&flow=xtls-rprx-vision&sid=b28a0dd8&spx=%2Fabout#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxysudo%20%5B2%5D
@@ -502,4 +503,3 @@ vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?mode=gun&security=none&encryption=none&authority=%2F&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%3E%3E%40FreakConfig%3A%3AFI
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%3E%3E%40shadowproxy66%3A%3AXX
