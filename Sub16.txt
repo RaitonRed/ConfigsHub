@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://fd0e8d0d-d968-4538-8e51-5c86beb62d8c@91.107.255.101:18621?type=tcp&encryption=none&security=reality&pbk=jlo13i4gYNmRwvwYXtQy2giBqx9ZPvi5Q0eGCxdKxzA&fp=chrome&sni=google.com&sid=bc&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpnplusee_free%20%5B12%5D
-vless://3ebf2ed0-a81e-45a6-959d-c8b378d0afcb@188.132.183.15:8443?security=reality&encryption=none&pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=b44cea83b91a143a#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpnplusee_free%20%5B13%5D
+vless://6261b90d-3268-4a3d-b02a-16329e0a4a9a@dl.nl.azarbanou.ir:5055?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B13%5D
 vless://ba775821-d47b-4669-8ff0-91edf718a162@46.36.103.71:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnpopular2023%20%5B1%5D
 vless://0f2e0501-5a4f-45b7-bd5e-209169cd34f9@37.152.173.139:8464?security=none&encryption=none&host=2picrszy.divarcdn.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnpopular2023%20%5B2%5D
 vmess://eyJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwMWQxM2M0LTRjYWEtNGJiNy05MzNmLWUwYmViNmQ4NzJjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI0NzAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQHZwbnYycmF5dG9wIFsxXSJ9
@@ -382,6 +381,8 @@ vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626?security=&fp=ch
 
 vless://5342a980-50a4-4daa-9c45-e83f2ebab024@141.227.174.221:18409?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2083
 
+vless://568db765-6970-40c8-8087-83ea9ba2429e@bitpay.com:443?security=tls&sni=rAyAn-007.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.pArAsToO.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?security=&fp=chrome&type=ws&path=/&host=crazy-identity.oneeat.co&encryption=none#@Rayan_Config%2076
 
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%20108
@@ -397,6 +398,8 @@ vless://7d810ea1-7b3c-41f3-a8f1-fa72355ffdd5@104.16.1.106:2082?security=&fp=chro
 vless://7d810ea1-7b3c-41f3-a8f1-fa72355ffdd5@104.16.1.106:2082?security=&fp=chrome&type=ws&path=/?ed%3D2052&host=germany.svnteam-vip-fast.ip-ddns.com&encryption=none#@Rayan_Config%2098
 
 vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+
+vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20100
 
@@ -500,6 +503,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?security=&fp=c
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?security=&sni=pqh30v8.waipdirect.shop&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2067
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2065
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.139:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2063
