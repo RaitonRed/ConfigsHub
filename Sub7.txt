@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/??ed/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&type=ws#🇩🇪 | @External_Net
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@mixed-luci-mmrknight-5f66680b.koyeb.app:443?path=/v2ray&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@mixed-luci-mmrknight-5f66680b.koyeb.app:443?type=ws&path=/v2ray?ed=2047@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=mixed-luci-mmrknight-5f66680b.koyeb.app#🇳🇱 | @Evay_vpn
@@ -502,4 +503,3 @@ vless://7d265652-cacf-4b9a-aee6-f20ba4dbfe04@185.148.106.255:80?path=/Telegram�
 vless://7d265652-cacf-4b9a-aee6-f20ba4dbfe04@194.152.44.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 299
 vless://7d265652-cacf-4b9a-aee6-f20ba4dbfe04@63.141.128.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 96
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@vmesskhodam)تلگراممون
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
