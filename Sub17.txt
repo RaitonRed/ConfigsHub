@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 vless://850129c2-ac2d-4e0a-b169-a23c1398f1a3@192.99.219.120:40031?type=tcp&encryption=none&security=reality&pbk=s-USVtDmGcodwPKA0nxUNIZu00EvHQcuKmRuXAHFcQg&fp=firefox&sni=sourceforge.net&sid=b50961503a702b&spx=%2F#%3E%3E%40v2ray_configs_pool%3A%3ACA
@@ -503,3 +500,6 @@ vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?security=&fp=chr
 
 
 
+
+
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&mport=50000-60000&insecure=1&sni=Ab.ac#@Rayan_Config%208
