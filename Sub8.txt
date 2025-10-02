@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://787979c0-3691-4612-86a1-e0f1101d5eb2@141.227.170.131:39113?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://787979c0-3691-4612-86a1-e0f1101d5eb2@141.227.170.131:39113?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://787979c0-3691-4612-86a1-e0f1101d5eb2@141.227.170.131:39113?mode=gun&security=none&encryption=none&authority=@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#r♡ya
 vless://787979c0-3691-4612-86a1-e0f1101d5eb2@141.227.170.131:39113?mode=gun&security=none&encryption=none&authority=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMOD%4#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:31.32ms
@@ -502,4 +503,3 @@ vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tl
 vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#🇩🇪@FreakConfig
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@104.248.173.95:443?security=reality&encryption=none&type=xhttp#telegram 🍊 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@157.180.88.25:443?security=reality&encryption=none&type=xhttp#telegram 🌈 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?security=reality&encryption=none&type=xhttp#telegram ⚡️ v2ray_configs_pools
