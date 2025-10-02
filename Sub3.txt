@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.218.228.243:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.168.96:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.251.195:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.1.125:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#@awlix_ir
@@ -37,7 +39,6 @@ ss://YWVzLTI1Ni1nY206blI1RDJaWk9Mcg==@67.230.161.36:57753#@vpnserverrr جوین 
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://a1f51e2b-cc02-4eb6-938c-ba3d147d6bef@31.6.1.186:48900?security=reality&encryption=none&pbk=Jw3O-jHc_8zh0MBeIoodZZr8f6zCBDRlm4MU56WkWmg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=45a64f6db317adcd¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#👉🆔@freenettir📡🇷🇴®️Romania©️Bucharest🅿️ping:58.16ms
 ss://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443/?type=ws&encryption=none&path=/&security=tls&sni=nkang2replace.airlineshoma.com#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:27.66ms
-ss://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#👉🆔@freenettir📡🇮🇸®️Iceland©️Reykjavik🅿️ping:90.92ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#@awlix_ir
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.245:8880?security=&encryption=none&type=grpc#👉🆔@freenettir📡🇲🇾®️Malaysia©️Kuala Pilah🅿️ping:180.04ms
@@ -93,7 +94,6 @@ trojan://NISHIKUITAN222@104.24.254.117:443?allowInsecure=1&ws=1&wspath=/#t.me/en
 trojan://NISHIKUITAN222@104.25.100.134:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844850629792690
 trojan://NISHIKUITAN222@104.25.160.173:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:27.39ms
 trojan://NISHIKUITAN222@104.25.171.225:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844844967584493
-trojan://NISHIKUITAN222@104.25.215.64:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844840438023663
 trojan://NISHIKUITAN222@104.25.229.250:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:27.58ms
 trojan://NISHIKUITAN222@104.27.88.3:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844851951415785
 trojan://NISHIKUITAN222@141.101.123.151:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇵🇱®️Poland©️Warsaw🅿️ping:28.16ms
@@ -174,6 +174,7 @@ trojan://tunnel-astrovpn_official928@206.206.126.109:8441?security=tls&sni=zula.
 trojan://tunnel-astrovpn_official929@188.208.110.58:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=188.208.110.58#@AstroVPN_Official 🇦🇪
 trojan://tunnel-astrovpn_official92@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#AstroVPN_Official 🇩🇪
 trojan://tunnel-astrovpn_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#[TrojanVPN] astrovpn_official-🇦🇪
+trojan://tunnel-astrovpn_official_pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official 🇵🇱
 trojan://tunnel-astrovpnofficial-8@57.129.15.177:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=57.129.15.177#AstroVPN_Official 🇩🇪
 trojan://tunnel-astrovpnofficial1828@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#AstroVPN_Official 🇩🇪
 trojan://tunnel-astrovpnvpn_official@fr-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=fr-1.stunnel.cc#AstroVPN_Official 🇫🇷
@@ -502,4 +503,3 @@ vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@zula.ir:443?path=/Free-CF-Proxy-AD1
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@zula.ir:443?path=/v2ray_configs_pools-AD192.3.113.4-19318?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://0fc64b29-50d1-4c71-ab10-a6d7321aab80@31.57.108.206:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#telegram 🍊 v2ray_configs_pools
-vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
