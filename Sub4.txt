@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?security=reality&encryption=none&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=03e60665#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -19,7 +18,6 @@ vless://12345678-1234-1234-1234-123456789123@194.36.55.54:2096?path=/snippets&se
 vless://12345678-1234-1234-1234-123456789123@198.71.232.44:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@198.71.232.44:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@45.67.215.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱@FreakConfig
-vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#t.me/entryNET/config=1844918577009923
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇩🇪[Telegram:NetifyVpn]
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
@@ -27,6 +25,7 @@ vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&se
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#✅سرورهایبیشتردرکانال:freenettir@✅
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com@V2rayNGVPN <= کانفیگ رایگان
 vless://12345678-1234-1234-1234-123456789123@46.254.93.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱@FreakConfig
+vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096/?type=ws&encryption=none&flow=&host=sni.aizrf.com&path=/snippets&security=tls&sni=sni.aizrf.com#t.me/entryNET/config=1844950663024411
 vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
 vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#✅سرورهایبیشتردرکانال:freenettir@✅
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#Channel : @Mrsoulb 🏴🏳
@@ -503,3 +502,4 @@ vless://2b2219ab-707a-4773-af6c-539de4a76c89@217.144.186.49:38231?security=none&
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@v2ray_configs_pools&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@v2ray_configs_pools&security=tls&v2ray_configs_pools

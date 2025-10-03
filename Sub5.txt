@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@v2ray_configs_pools&security=tls&v2ray_configs_pools
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?encryption=none&security=&sni=&type=ws&alpn=&host=NoDE16.VtNEt.InFO&path=/?ed=2048#telegram 🍊 v2ray_configs_pools
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?encryption=none&security=&sni=&type=ws&alpn=&host=SeRvER07.VtNEt.InFO&path=/?ed=2048#telegram 🚀 v2ray_configs_pools
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#All--@IRAN_V2RAY1
@@ -503,3 +502,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh25v2.hiddendom.shop#@v2ray_configs_pool❤️‍🔥⚡
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh28v5.hiddendom.shop#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh28v6.hiddendom.shop#Channel : @Mrsoulb 🏴🏳
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v3.hiddendom.shop#@v2ray_configs_pools👈⚡❤️‍🔥
