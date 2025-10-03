@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?encryption=none&security=&sni=&type=ws&alpn=&host=SeRvER07.VtNEt.InFO&path=/?ed=2048#telegram 🚀 v2ray_configs_pools
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#All--@IRAN_V2RAY1
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=1af22e9c44f798bc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,4 +503,3 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?security=none&en
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?security=none&encryption=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=/#Awlix_ir
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?security=none&encryption=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=/#Awlix_ir
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=/?ed=2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#@CaV2ray ⚡️
-vless://417dab4b-f2e0-4baf-94d0-6bfbcb1e43a8@51.91.139.99:34309?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
