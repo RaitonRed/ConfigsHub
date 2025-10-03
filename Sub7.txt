@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638895063452643248.paris-prx-dnraaay.info&type=ws&alpn=&host=638895063452643248.paris-prx-dnraaay.info&path=/urdpjvws#telegram 🍊 v2ray_configs_pools
+vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638901504444939106.esfahan-prx-dnraabg.info&type=ws&alpn=&host=638901504444939106.esfahan-prx-dnraabg.info&path=/urdpjvws#telegram 🌟 v2ray_configs_pools
 vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🇫🇷 FR - Telegram : @FergalVpnMod
 vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🇬🇧 UK - Telegram : @FergalVpnMod
 vless://58186ddc-be2e-4148-a680-ccd546994988@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
@@ -501,5 +503,3 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?note=JOIN----AZAD
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.189.149:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Daily_Configs
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss32513.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss32513.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Selinc
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
