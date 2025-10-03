@@ -6997,7 +6997,6 @@ vless://7d810ea1-7b3c-41f3-a8f1-fa72355ffdd5@104.16.1.106:2082?security=&fp=chro
 vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20100
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2051
 vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 vless://bbb7af93-94f1-4ad7-8a4d-2b674bea8922@135.125.88.66:37612?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2090
@@ -7041,34 +7040,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2019
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2018
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?security=tls&fp=chrome&type=ws&path=/cdfighws&encryption=none#@Rayan_Config%20126
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.108:8880?security=&sni=pqh29v1.vetrkot.com&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2071
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2070
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2069
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2068
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2066
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?security=&sni=pqh30v8.waipdirect.shop&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2067
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2065
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.139:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2063
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.139:8880?security=&sni=pqh23v2.vetrkot.com&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2064
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.141:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2062
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2060
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?security=&sni=pqh24v2.vetrkot.com&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2061
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2059
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2058
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.221:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2057
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2056
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2055
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2050
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2031
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?security=&sni=pqh28v5.vetrkot.com&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2030
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20107
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20106
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20105
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20104
 vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2081
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Rayan_Config%2053
-vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?security=&fp=chrome&type=ws&path=/vpnjantit&encryption=none#@Rayan_Config%2096
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
 vless://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN | 01 🇩🇪⚡️
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
