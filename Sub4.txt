@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#🇵🇱𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://114a977e-78b3-4a25-a05b-8efbeefbafb2@103.249.133.79:8443?mode=gun&security=reality&encryption=none&pbk=qssOHeb6gzAAQrKJzweFZ7_aFpkGLnF7O9S-b9Tz9RM&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2056&sni=ubuntu.com&sid=d7#@Daily_Configs
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel : @vmessorg🏴🏳
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Maznet-46196-4
@@ -503,3 +502,4 @@ vless://2bd0f024-b0e5-43cf-98a3-bde98705d808@v72.kiabiaa.ir:443?security=reality
 vless://2c03c627-edd2-408c-856d-9f0024dda971@de.iostops.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=de.iostops.com&fp=chrome&type=xhttp&sni=de.iostops.com#@Daily_Configs
 vless://2c03c627-edd2-408c-856d-9f0024dda971@de.iostops.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=de.iostops.com&fp=chrome&type=xhttp&sni=de.iostops.com#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@104.26.11.194:80?flow=&type=ws&host=joinbdebe.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN
+vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
