@@ -66,10 +66,8 @@ You can also use these apps : [Foxray](https://apps.apple.com/us/app/foxray/id64
 ## Donate
 you can donate by this wallets:
 
-- TON: ``UQAyVhowpAHuH-WexQZ1zqPYGzul70Qovg508a8uhw3-BgCj``
-- BTC: ``bc1qay7knee8dww3a4cqjfdlt4qk42kf97vhe7cq75``
-- ETH: ``0x7905f78cE79f8A951B92909A24ee55f0fB154C06``
-- TRX: ``TM4HtaVunB2VNoZ19hfzTnXgpPpDsvMbd2``
+- **TON (The Open Network)**: ``UQDNzsrF32TWBl_dFhtWam-Q-2VO5mZgis0m9W0ilm4Meb4B``
+- **TRX (TRON)**: ``TBx7YczrqMhHokNVWf87zrWUe8sQkwTqwh``
 
 ## License
 📝 This repository is licensed under the MIT license. See LICENSE for more information.
