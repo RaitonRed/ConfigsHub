@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱@FreakConfig
 vless://12345678-1234-1234-1234-123456789123@185.221.160.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱@FreakConfig
 vless://12345678-1234-1234-1234-123456789123@185.225.195.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@185.251.80.54:2096?path=/snippets#/?@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#r♡ya
@@ -502,4 +503,3 @@ vless://2ESKE--COPE-AZ--JKVPN--JKVPN@www.speedtest.net:80?path=/TELEGRAM-KANAL-J
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#🇷🇺 MCI - @FREEV2RNG 4
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Channel-@vmesskhodam
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net

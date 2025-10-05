@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#All-@IRAN_V2RAY1
+vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#MCI--@IRAN_V2RAY1
 vless://6fc198d0-0689-4f28-9c11-d2b2d5252e66@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-OpOp
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@arv.vipmehspd.ir:981?encryption=none&security=none&type=tcp&headerType=none#@CaV2ray ⚡️
 vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=/ajnexnws&security=tls&encryption=none&type=ws#@v2ray_configs_pools
@@ -74,7 +76,6 @@ vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧@FreakConfig
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇬🇧@FreakConfig
-vless://74c9822e-4f19-4a95-a3db-3fa041c63aae@65.109.219.157:38464?type=ws&path=/Telegram---armanstore2----armanstore2-----armanstore2&host=&security=none#@armanstore2-Telegram---armanstore2
 vless://74e7c336-abf1-44ea-bffa-8a419224ee7a@91.107.245.212:33140?security=reality&encryption=none&pbk=BTsXykRA0mUv-PP6ncIQqjBMz_HRueLob9CNHT9QpGM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=addons.mozilla.org&sid=53#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://74e96ccd-d0c2-45f9-8dd4-486b6a93fa5b@91.107.170.231:2053?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Channel-@vmesskhodam
 vless://750c5087-ca8d-4878-a30a-15bc8bbadfac@m21a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Selinc
@@ -502,4 +503,3 @@ vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052?pa
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&host=dl5-de4-cdn.fastfilecdn.org&fp=chrome&type=ws#@HiByeVPNN👈❤️‍🔥⚡
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-fr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fr4-cdn.fastfilecdn.org&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uae4-cdn.fastfilecdn.org&fp=chrome&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-us4-cdn.fastfilecdn.org:2052?security=none&encryption=none&host=dl5-us4-cdn.fastfilecdn.org&type=ws&sni=dl5-us4-cdn.fastfilecdn.org#🇺🇸 | @External_Net
