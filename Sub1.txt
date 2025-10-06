@@ -51,11 +51,11 @@ vless://58e596b3-e7e6-43c5-9c03-b1e90db428a9@www.speedtest.net:80?path=/Mosiv2--
 vless://680eb606-0a50-4758-a75f-7d17ddeaf28a@aturka.alcatelindan.com:32986?security=reality&encryption=none&pbk=KrdEQtEeVwMSTt908vzHL9cmB6thztbEAHzEk3M3IS8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=f6818397#%40v2Meli
 vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?path=%2Fdsjh5tGfRgUy789-jU%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=sport-shop-online-02.cyberscaler.com&fp=chrome&type=ws&sni=sport-shop-online-02.cyberscaler.com#%40v2Meli
 vless://78ca9bfd-8920-423c-a6a9-9e9a3afe84df@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#VPNKEY-Netherlands
+vless://78ca9bfd-8920-423c-a6a9-9e9a3afe84df@95.164.68.37:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY&sni=google.com#VPNKEY-Germany
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@51.44.208.42:443?security=reality&encryption=none&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zula.ir&sid=7a2b#%40v2Meli
 vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@62.60.164.192:927?path=%2FPoshtiban&security=none&encryption=none&type=ws#%40v2Meli
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560%2F%3F%40V2ray_Alpha&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#%40v2Meli
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.5.57:443?path=%2FegFIvRfuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560%2F%3F%40V2ray_Alpha&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#%40v2Meli
-vless://9345fed6-0849-4ccc-a394-3f494862171c@103.253.43.210:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=5hKDqL2dBu7jbCfC_xW5omNEGUzPme8qF4mJOrXuHGY&sni=google.com#VPNKEY-Hong
 vless://95635fc6-3fe8-40f5-bb7b-a5ed8e83efb2@customers.tele-shop-too.studio:44?security=reality&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&encryption=none&headerType=none&spx=%2F&type=tcp&sni=refersion.com&sid=f289871208&fp=chrome#%40v2Meli
 vless://Parsashonam-254@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%40v2Meli
 vless://Parsashonam-254@iP.BadZat.Space:443?security=reality&encryption=none&pbk=LvhboN12zGLBdlvVLEhSbl0ad_lijW1-D_TTP5n9UlE&headerType=&fp=chrome&spx=%2F&type=tcp&sni=miro.com&sid=360557aa#%40v2Meli
@@ -304,11 +304,8 @@ vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@84.22.150.195:8080?allowInsecure=0&
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@66.90.90.10:443?allowInsecure=0&sni=wa.sfasti.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0029
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#SC_speednode_0030
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-®^mav)(ÈÐ7d%¡ã­Ç®¬`
-ó« Ài¹sT`q
-Hïi~HUë¢¯y-Þ#¹l[8^)°QöÎæ®t6|SL%x=õ³9¬R=Ï8 d}ßl-`Õqj¿æwkMfZsp¾¶±fÆ"A{«	;ÝýÈ¹8Kæ±\'ïÈQ×âô|G^ÎAn¹5<þ9iáþ!oïDj9»;ýµè=ò2*hÇss½ÐµhÓä9ÏulnÅdâªÛ|$QcD¾{k$cÃÖcÀnÜËêxc´ñFîmSºADÒzøVrÕ!.e·Å¶60'W8EhÛÁÚ¦Ès§äL»ÙÖ[ãze?i<Øé±÷Í/ñC/ÛÀÕ¶ÑU±­Ë&±3éó'»fÕ{¡Ks}£V ©ñ
-up²«e?  ¹c|þT_º1yÚÆ¥+´n{@Üê æ`_Þãl×Ô]çNh­:Ã¿8$¶(¹÷÷qmÙ3ÁºÌàÄe=0È
 vless://98b988ba-fe55-402e-824a-6f7bb3436f22@141.227.136.11:11716?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Capoit
+vless://0001%65585-%61648-4db2-8c9%65-%61f346110c642@141.227.180.86:43239?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40mehrosaboran
 vless://ba4c59a5-2e7d-4dc4-c115-27615c978e66@91.98.133.38:443?mode=stream-one&path=%2Fdsf&security=reality&encryption=none&pbk=IbRZfIHJGx6UojlE1uoHJ-eBAXF92z5ST0DrQA7-mDw&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
@@ -503,3 +500,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#All_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#All_@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#telegram 🎯 v2ray_configs_pools
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#@IRAN_V2RAY1
