@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778721799.helsinki-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:2096?path=%2F&security=tls&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#%3E%3E%40configV2rayNG%3A%3AXX
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBjb25maWdWMnJheU5HOjpERSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
@@ -500,6 +502,4 @@ vless://8b695507-d3cd-4a82-8821-72e7b1c35cf2@185.212.113.11:2052?security=realit
 vless://8b695507-d3cd-4a82-8821-72e7b1c35cf2@185.212.113.12:2052?security=reality&sni=pcmag.com&fp=firefox&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&sid=d2f9c12441ca54fb&spx=/&type=tcp&encryption=none#@Rayan_Config%2020
 
 vless://98b988ba-fe55-402e-824a-6f7bb3436f22@141.227.136.11:11716?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2081
-
-vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
