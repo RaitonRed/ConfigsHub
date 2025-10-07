@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&type=ws&host=fraud.chase&path=/?ed&sni=www.Arizona.edu&fp=chrome#Awlix_ir
 vless://cf0b7124-4a49-4342-be41-9ebcb873cb04@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=gTzHMDNdl149mB6DKGPnbiVFID8x_7X5THJIXlpNWFc&sid=50d72d59cbec63&spx=/#MdVpnSec
 vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@185.137.27.165:443?path=/?ed=2048&security=tls&encryption=none&host=dl-it.eth0.lat&type=ws&sni=dl-it.eth0.lat#🇮🇹 pardazeshVPN
 vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@night.dl.darinips.com:443?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=docker.com#🇩🇪 pardazeshVPN
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#@i10VPN 🚀| با ما متصل بمون⚡
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#@sunflowerplato
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@IRAN_V2RAY1
