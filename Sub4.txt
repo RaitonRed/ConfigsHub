@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://12345678-1234-1234-1234-123456789123@46.254.93.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱@FreakConfig
 vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@vpnserverrr
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
@@ -503,3 +502,4 @@ vless://2da52541-84a8-4308-b7ed-10bdd32b0a12@172.66.156.81:80?path=/@Shh_Proxy--
 vless://2da52541-84a8-4308-b7ed-10bdd32b0a12@172.66.156.81:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.&type=ws#🇳🇱@ghalagyann
 vless://2dac3536-244a-4558-9ab9-ab9ae34638c1@EVAY_VPN.fAst.hosting-ip.com:80?type=xhttp&mode=auto&host=p30download.ir&path=/?ed=80@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#1 🇩🇪 | @Evay_vpn
 vless://2dac3536-244a-4558-9ab9-ab9ae34638c1@EXPRESSVPN_420.fAst.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#سرور رایگان -EXPRESSVPN_420@
+vless://2dac3536-244a-4558-9ab9-ab9ae34638c1@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-8

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://cfbc4d63-5275-49ec-9549-4cc4bfb94c2c@185.113.10.132:8650?mode=auto&path=/&security=reality&encryption=none&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=354b9cbe48#r♡ya
 vless://cfd7635a-c49d-49fe-c876-38700f8faeed@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-9xyb76x7
 vless://chanel:v2rayng_76@bm.boulvarmoein.shop:2095?path=/Telegram@v2rayng_76=?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#chanel:v2rayng_76
 vless://cicadanet@167.99.45.44:30402?security=reality&encryption=none&pbk=X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614&headerType=none&fp=chrome&spx=/meyah&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=2d9d1cbc94#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@EXPRESSVPN_420
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.67:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇪🇸]t.me/Raiv2mmr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=none&encryption=none&authority=/@sinavm&type=grpc#✅ @vistav2ray  👈👈کانال ما
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=none&encryption=none&authority=/@vpnserverrr&type=grpc#🇪🇸@vpnserverrr کانال تلگرامی
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&authority=/@sinavm&type=grpc#🇨🇾[Telegram:NetifyVPN]

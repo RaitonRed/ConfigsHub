@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://78d0e383-e88c-4e58-997e-9f86d8d90ec1@test-gr.aliyostd.com:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@numberland.ir:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#JOIN ➪@FILTERK0SH
@@ -503,3 +502,4 @@ vless://9e003436-1354-4510-8dd6-5834dc1e7829@5.75.201.11:55778?encryption=none&s
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.191.204:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram 🌈 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.245:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram 🍀 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.245:443?security=reality&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.37:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram 🌟 v2ray_configs_pools
