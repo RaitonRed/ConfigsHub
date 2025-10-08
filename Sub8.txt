@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://797d8132-6c08-4d5f-accc-eba1d6fdc9c5@91.98.76.73:2052?mode=auto&path=/&security=reality&encryption=none&pbk=B4bL5jZotLi91qBuoZjrl5wI4txIa5GmgS2ifinc7VA&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=6a#🇩🇪 | @External_Net
 vless://797d8132-6c08-4d5f-accc-eba1d6fdc9c5@91.98.76.73:2052?mode=auto&path=/&security=reality&encryption=none&pbk=B4bL5jZotLi91qBuoZjrl5wI4txIa5GmgS2ifinc7VA&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=6a#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://79911657-1d85-4911-aab5-b5f8426e6385@8lb9pb.academiemi-purya.click:15341?type=grpc&encryption=none&serviceName=/ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-bia-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN-ACADEMI_VPN/?ed=2052&authority=&security=none#@Academi_vpn
 vless://79af4327-5a52-4f16-8084-89a4c796c667@www.speedtest.net:2095?path=/@ZedBaz_vpn&security=&encryption=none&host=mx.mmadvip8563.ir&type=ws#@ZedBaz_vpn2
@@ -503,3 +502,4 @@ vless://9e003436-1354-4510-8dd6-5834dc1e7829@46.62.160.173:443?encryption=none&s
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@5.75.201.11:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#telegram 🚀 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.191.204:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram 🌈 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.245:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram 🍀 v2ray_configs_pools
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.212.245:443?security=reality&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
