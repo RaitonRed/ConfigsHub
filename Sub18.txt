@@ -31,6 +31,8 @@ vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?security=tls&sn
 
 vless://12345678-1234-1234-1234-123456789123@198.71.233.50:2096?security=tls&sni=saas.sosocn.abrdns.com&fp=chrome&type=ws&path=/snippets&host=saas.sosocn.abrdns.com&encryption=none#@Rayan_Config%2042
 
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+
 vless://2db037d5-401b-45cf-93b3-a969fae92847@141.227.174.116:28329?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2074
 
 vless://34393e91-834d-4a3d-a901-bbfde643c4e0@[2400:6180:0:d2:0:2:3c54:d000]:25288?security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2059
@@ -298,7 +300,6 @@ vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAy
 
 
 
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%20135.225.124.80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204.223.100.248
@@ -502,4 +503,3 @@ vmess://ewogICAgImFkZCI6ICI0Ny4yNTAuMTc5LjE0NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vmess://ewogICAgImFkZCI6ICI4LjIxNy4xNTkuOTYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjIzZWEwYjc1LTIwNmItNGUzYi1iNjI0LWUwOTNkNTgwOGJmOCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA0Nzg3MiwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE3LjE1OS45Ni01Mzg3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.152-0996
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0217
-vmess://ewogICAgImFkZCI6ICIxZTQyNjA0Ni10MGZkczAtdDEyY25qLTFvbDk3LmhrLnA1cHYuY29tIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLAogICAgImlkIjogIjkzZmI2OWZjLTc3Y2YtMTFlZS04NWVlLWYyM2M5MTM2OWYyZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTIxOS43OS4xNTcuMTU2LTAyMjAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==

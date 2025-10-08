@@ -8523,6 +8523,8 @@ vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?security=tls&sn
 
 vless://12345678-1234-1234-1234-123456789123@198.71.233.50:2096?security=tls&sni=saas.sosocn.abrdns.com&fp=chrome&type=ws&path=/snippets&host=saas.sosocn.abrdns.com&encryption=none#@Rayan_Config%2042
 
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+
 vless://2db037d5-401b-45cf-93b3-a969fae92847@141.227.174.116:28329?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2074
 
 vless://34393e91-834d-4a3d-a901-bbfde643c4e0@[2400:6180:0:d2:0:2:3c54:d000]:25288?security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2059
@@ -8744,7 +8746,6 @@ vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?security=&fp=c
 vless://eeb94a25-8f00-458f-b857-34736edc97d4@141.227.172.59:14078?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2075
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-
 
 
 
