@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?security=&encryption=none&type=grpc#telegram 🍀 v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?security=&encryption=none&type=grpc#telegram 🍊 v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v2.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh24v2.vetrkot.com#Channel : @Mrsoulb 🏴🏳
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.149:443?type=xhttp&path=/
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?mode=stream-one&path=/sef/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.7.224:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
