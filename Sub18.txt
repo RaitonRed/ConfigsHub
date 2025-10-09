@@ -38,9 +38,6 @@
 
 
 
-
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%20135.225.124.80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204.223.100.248
@@ -503,3 +500,6 @@ vless://9422b7fa-4192-4309-9875-0c1556a6e6f9@135.125.245.195:443?path=%2Flinkvkw
 vless://7f74ad83-4aaf-419b-8caf-ff66c354bcbc@ruunion.ru:443?security=reality&encryption=none&pbk=9qaBiJ3zMogUBKByaq71xT9xDu1dmN1b47rXOYUy6Rw&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=6650429727ca#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%40Daily_Configs
+vless://46cb158c-1546-471b-a114-77bbfae90080@141.227.132.245:8080?mode=multi&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram%3Atik7net_vpn%20%F0%9F%87%AB%F0%9F%87%B7
+vless://9b49cf25-e2f2-4ef6-9c54-ef0b785db804@141.227.180.39:22291?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram%3Atik7net_vpn%20%F0%9F%87%B7%F0%9F%87%B4
+vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3Atik7net_vpn%5D
