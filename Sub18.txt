@@ -35,9 +35,6 @@
 
 
 
-
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%20135.225.124.80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204.223.100.248
@@ -503,3 +500,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&securit
 vless://46cb158c-1546-471b-a114-77bbfae90080@141.227.132.245:8080?mode=multi&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram%3Atik7net_vpn%20%F0%9F%87%AB%F0%9F%87%B7
 vless://9b49cf25-e2f2-4ef6-9c54-ef0b785db804@141.227.180.39:22291?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram%3Atik7net_vpn%20%F0%9F%87%B7%F0%9F%87%B4
 vless://e4be8400-d45b-407c-9d1e-41399c85cbb1@91.99.109.36:43052?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%5BTelegram%3Atik7net_vpn%5D
+vmess://eyJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsImFkZCI6IjU3LjEyOS41OS4yMDAiLCJmcCI6ImNocm9tZSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwidGxzIjoidGxzIiwic25pIjoic2Vya2F0Lm9yZyIsIm5ldCI6IndzIiwiaG9zdCI6InNlcmthdC5vcmciLCJwcyI6IiVGMCU5RiU4NyVCMyVGMCU5RiU4NyVCMSU0MFNpTkFWTSIsInBhdGgiOiJcL2xpbmt2d3MiLCJhbHBuIjoiaHR0cFwvMS4xIn0=`**
+vless://f2496534-b176-401f-83cd-c34faa479752@turkey21gifoiopl.mongral.ir:4444?note=---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---&security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=7cb7ad2e83f550a0#🇹🇷[Telegram:tik7net_vpn]`
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?note=---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---&path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&encryption=none&type=ws&sni=gulf-d96.pages.dev#🇩🇪[Telegram:tik7net_vpn]
