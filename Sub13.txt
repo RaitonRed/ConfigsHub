@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?encryption=none&type=grpc&mode=gun&security=none#🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻(unlimited)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1-All
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn 🎀
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:tik7net_vpn]
@@ -503,3 +502,4 @@ vless://f56bf28b-f747-421b-902c-09744f190437@5.253.43.14:443?security=reality&en
 vless://f599eb06-508a-4e24-9d59-4c50bf0333b6@91.98.79.239:443?security=reality&alpn=http/1.1&encryption=none&pbk=6wcvf78pdo-cH395vAliVVWoc5x8LSBgXJCQEF8KbA8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tempail.com&sid=f47f400cc96a4e#All-@IRAN_V2RAY1
 vless://f599eb06-508a-4e24-9d59-5c50bf0333b6@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#@Selinc
 vless://f59d2c56-ebe0-4497-a3e8-4524fe85d40f@141.227.128.139:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@TEHRANARGO
+vless://f59d2c56-ebe0-4497-a3e8-4524fe85d40f@141.227.128.139:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2rayNGVPN+<=+کانفیگ+رایگان
