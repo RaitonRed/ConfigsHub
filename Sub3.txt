@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
+trojan://82ba36ec-dafe-40eb-b9ad-0f8a98101020@104.18.20.69:8443?sni=cdn-node-oss-82.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-82.paofu.de#美国04 付费推荐：https://dafei.de
+trojan://82ba36ec-dafe-40eb-b9ad-0f8a98101020@fastcup.net:8443?sni=cdn-node-oss-82.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-82.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://82ba36ec-dafe-40eb-b9ad-0f8a98101020@pubg.ac:8443?sni=cdn-node-oss-82.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-82.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://8T7egv3W4T@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://8b0a592f-1fee-4da0-add6-f8e108611164@104.18.20.69:8443?sni=cdn-node-oss-92.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-92.paofu.de#美国04 付费推荐：https://dafei.de
@@ -500,6 +503,3 @@ vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=/snippets&se
 vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=/snippets?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@HiByeVPNN👈⚡❤️‍🔥
 vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://12f3c866-a401-474b-f274-e1cacbf2adce@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
-vless://13207a26-a41a-432c-c9cf-9b354edface8@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
-vless://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=&encryption=none&host=paliss.ir&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=none&encryption=none&host=paliss.ir&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
