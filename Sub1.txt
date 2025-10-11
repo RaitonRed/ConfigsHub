@@ -36,6 +36,7 @@ vless://%50a%72sa%73%68%6fna%6d-Bot-25@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-26@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-27@104.17.147.22:8080?type=grpc&serviceName=
 vless://%50a%72sa%73%68%6fna%6d-Bot-28@104.17.147.22:8080?type=grpc&serviceName=
+vless://%50a%72sa%73%68%6fna%6d-Bot-30@104.17.147.22:8080?type=grpc&serviceName=
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@iran.mr-cloud.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=__6BhtO3Rhjw4wnAmzklhquVvIngjhfnB8dhDVtj0Vs&headerType=None&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=275f34#%40v2Meli
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobinhost.com:443?path=%2Fao0s41N5cxHj2bMQx1iv8oR&security=tls&alpn=h2&encryption=none&host=cdn-two.mr-cloud.ir&fp=chrome&type=ws&sni=cdn-two.mr-cloud.ir#%40v2Meli
 vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
@@ -502,4 +503,3 @@ ss://2928d83a-ca75-4d52-b437-fa78c7601378@104.26.13.54:443?security=tls&sni=free
 ss://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.68.157:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.71ms
 ss://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.75.172:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:28.25ms
 ss://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&headerType=none&fp=chrome&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a@V2rayNGVPN <= کانفیگ رایگا#👉🆔@freenettir📡🇺🇸®️United States©️Orem🅿️ping:47.65ms
-ss://35d1d15d-cfb6-471b-9252-af93bee7a637@170.114.52.22:443?path=/danuwa&security=tls&encryption=none&host=partner.lkzoom.space&fp=chrome&type=ws&sni=partner.lkzoom.space#👉🆔@freenettir📡🇺🇸®️United States©️San Jose (Ballbach and SOFA)🅿️ping:28.12ms
