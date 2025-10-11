@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN#@awlix_ir
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&path=/DRAGON?ed&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@awlix_ir
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?security=&encryption=none&headerType=none&type=tcp#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://761ce83b-4353-4843-c51c-c4582fe9819b@151.101.3.8:80?type=xhttp&path=/@Xp
 vless://76306357-05a3-4ee3-9c0d-370bcaa24260@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-70siaxov
 vless://769774c9-8eb7-4ee4-8093-d56c92ed9e69@51.89.176.242:3479?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇬🇧 | @EVAY_VPN
 vless://769774c9-8eb7-4ee4-8093-d56c92ed9e69@95.134.130.138:5437?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇹🇷 | @EVAY_VPN
+vless://76bfc324-e228-47e0-8871-f974fac80390@news.zoom.us:2096?path=/&security=tls&encryption=none&host=ip.onhit.xyz&fp=chrome&type=ws&sni=ip.onhit.xyz#@Daily_Configs
