@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+ss://2928d83a-ca75-4d52-b437-fa78c7601378@104.26.13.54:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.53ms
 ss://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.68.157:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:26.71ms
 ss://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.75.172:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:28.25ms
 ss://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&headerType=none&fp=chrome&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a@V2rayNGVPN <= کانفیگ رایگا#👉🆔@freenettir📡🇺🇸®️United States©️Orem🅿️ping:47.65ms
@@ -502,4 +503,3 @@ ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#@v2ray_configs_pools👈❤�
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#All-@IRAN_V2RAY1
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🔐 @AblNet7 🇯🇵
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#@IRAN_V2RAY1
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#@ata_connect
