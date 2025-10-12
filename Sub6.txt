@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#@vmessorg
 vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@vmesskhodam
 vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@vpnserverrr
 vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-@IRAN_V2RAY1
@@ -503,3 +502,4 @@ vless://59076475-a35e-4b5b-8e60-da7f215f618b@141.227.172.56:25365?mode=gun&secur
 vless://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?path=/wsv/59171a5a-c42c-47be-aaf1-cbaefcc5a07d&security=tls&encryption=none&host=sample.fullmargintraders.com&fp=chrome&type=ws&sni=sample.fullmargintraders.com#@AblNet7 🇮🇷 نت ملی
 vless://591f69e3-9da6-4903-8812-a9dabc52a4e3@46.31.76.33:2002?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=none&encryption=none&headerType=none&type=tcp#AZADIV2RAYY TR 🇹🇷
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=multi&security=reality&encryption=none&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&fp=chrome&spx=/&type=grpc&sni=tgju.org&sid=11648b03a5acc7#Channel-@vmesskhodam
+vless://5978e847-93cb-4477-9539-242dcf21eb69@93.127.180.92:123?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
