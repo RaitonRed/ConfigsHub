@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=/&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=/&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#@IRAN_V2RAY1
 vless://97938b3f-a26b-40d7-b05b-b3e4e344fa6e@alfred.dnss-mobile.ir:443?path=/alfred&security=tls&alpn=h2&encryption=none&host=alfred.dnss-mobile.ir&fp=chrome&type=ws&sni=alfred.dnss-mobile.ir#@LOCKEY_VPN
 vless://97bd2fd8-7c89-4350-93d6-a7556d00e8ad@vpn-srv-7.circlevpn.net:2052?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇩🇪[Telegram:NetifyVpn]
@@ -502,4 +503,3 @@ vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alp
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#@sunflowerplato🌻
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#Channel : @Mrsoulb 🏴🏳
-vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#@V2rayNGVPN+<=+کانفیگ+رایگان
