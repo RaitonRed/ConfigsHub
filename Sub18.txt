@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.26:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20112
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20123
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20121
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20120
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2018
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2016
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2015
 
@@ -490,16 +503,3 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1#%D8%A8%
 ss://YWVzLTI1Ni1nY206YmUyOTdhYzItZjVmZi00ZTRiLThkYjktZDE3NTU3MmNmZWEx@84.200.91.158:443#%F0%9F%8D%93%F0%9F%8D%8E%F0%9F%8D%892
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakZsTQ%3D%3D@hk1.opensocks.site:8388#%F0%9F%90%A2%F0%9F%A6%8B%F0%9F%90%8C9
 vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com#%F0%9F%8D%93%F0%9F%8D%8E%F0%9F%8D%897
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekU1Tw%3D%3D@us1.opensocks.site:8388#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B52
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B53
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B59
-vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%40Daily_Configs
-vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smart.hegzaconf1.com&alpn=h3%2Ch2&fp=chrome&type=ws&path=%2F#%40Daily_Configs
-vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?encryption=none&security=tls&sni=baomei.pages.dev&type=ws&host=baomei.pages.dev&path=%2F%3Fed%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.155:8880?encryption=none&security=none&type=grpc#%40Daily_Configs`
-vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
-vless://80db8cee-bd3d-4dde-a3b2-02b6cdb70d99@64.188.125.45:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=3f8ad1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20Fast%20%7C%20%40confegraigan```
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%5BTelegram%3Atik7net_vpn%5D
-vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@nld.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=uxOwFKgVP_ZvMf0sfTkPuI2YFdSvQ3Xwq21VyQ7paVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bol.com&sid=7903D9CA#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%40confegraigan```
-vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@tur.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=PlJHlfpSGU1qQzfrdjziVEKausAhFZXb4Q0pJZWFCWE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=4b4a1a3c#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%40confegraigan```
-vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@kaz.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=VlD2T4Q29Y3ryW9Ky2vs8QtciKr5IitfejmgWzYJsAA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5dCC84Ad#%F0%9F%87%B0%F0%9F%87%BF%20Kazahstan%20%7C%20%40confegraigan```
