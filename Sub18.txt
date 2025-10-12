@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2016
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2015
@@ -20,7 +17,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?security=&fp=chro
 
 vless://e4114a7b-ab89-4670-9948-28192363b9b1@139.59.18.243:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
-vless://e4114a7b-ab89-4670-9948-28192363b9b1@www.visaeurope.ch:443?security=tls&sni=in-1.rAyAn-rVp.cLoUdNs.cLuB&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=in-1.rAyAn-rVp.cLoUdNs.cLuB&encryption=none#@Rayan_Config%20IN
+vless://e4114a7b-ab89-4670-9948-28192363b9b1@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-in-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-in-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%202.2
 
 vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%20133
 
@@ -30,7 +27,9 @@ vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAy
 
 vless://f59e2420-b706-4bee-bcdd-1c2162e5372a@134.122.53.63:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
-vless://f59e2420-b706-4bee-bcdd-1c2162e5372a@change.org:443?security=tls&sni=nl-1.rAyAn-rVp.cLoUdNs.cLuB&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=nl-1.rAyAn-rVp.cLoUdNs.cLuB&encryption=none#@Rayan_Config%20NL%20I
+vless://f59e2420-b706-4bee-bcdd-1c2162e5372a@change.org:443?security=tls&sni=rAyAn-cOnFiG-nl-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-nl-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%205.5
+
+
 
 
 
@@ -503,3 +502,4 @@ vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=
 vless://80db8cee-bd3d-4dde-a3b2-02b6cdb70d99@64.188.125.45:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=3f8ad1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20Fast%20%7C%20%40confegraigan```
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%5BTelegram%3Atik7net_vpn%5D
 vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@nld.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=uxOwFKgVP_ZvMf0sfTkPuI2YFdSvQ3Xwq21VyQ7paVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bol.com&sid=7903D9CA#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%40confegraigan```
+vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@tur.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=PlJHlfpSGU1qQzfrdjziVEKausAhFZXb4Q0pJZWFCWE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=4b4a1a3c#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%40confegraigan```

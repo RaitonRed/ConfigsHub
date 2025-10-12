@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@tur.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=PlJHlfpSGU1qQzfrdjziVEKausAhFZXb4Q0pJZWFCWE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=4b4a1a3c#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%40confegraigan```
 vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@kaz.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=VlD2T4Q29Y3ryW9Ky2vs8QtciKr5IitfejmgWzYJsAA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5dCC84Ad#%F0%9F%87%B0%F0%9F%87%BF%20Kazahstan%20%7C%20%40confegraigan```
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#%F0%9F%8D%BF%20YouTube%20free%20%7C%20%40confegraigan
 ss://YWVzLTI1Ni1nY206N2Y5MTJlYmYtMDA5NC00NjFmLWI2NWUtZmM5ZDkzMWJmMDEy@45.134.13.75:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
