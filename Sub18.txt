@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20124
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.15:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2021
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.26:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20112
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20123
 
@@ -503,3 +498,8 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.41:35000?security=tl
 vless://b4f7b99a-85a4-4dd3-a25e-55e6fae0ad53@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---Telegram---@tik7net_vpn---&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.domnewconfsob1.org#🇬🇧[Telegram:tik7net_vpn]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=%F0%9F%94%92#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%9E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
+hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%9E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
+ss://YWVzLTI1Ni1nY206YmUyOTdhYzItZjVmZi00ZTRiLThkYjktZDE3NTU3MmNmZWEx@84.200.91.158:443#%F0%9F%8D%93%F0%9F%8D%8E%F0%9F%8D%892
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakZsTQ%3D%3D@hk1.opensocks.site:8388#%F0%9F%90%A2%F0%9F%A6%8B%F0%9F%90%8C9
+vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com#%F0%9F%8D%93%F0%9F%8D%8E%F0%9F%8D%897
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekU1Tw%3D%3D@us1.opensocks.site:8388#%E2%9D%A4%EF%B8%8F%F0%9F%A6%85%F0%9F%A9%B52
