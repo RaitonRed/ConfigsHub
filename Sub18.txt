@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vmess://eyJhZGQiOiIxNDEuOTUuMTI2LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFtZWtrLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QHYycmF5MV9uZzo6REUiLCJzY3kiOiJhdXRvIiwic25pIjoiamFtZWtrLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944900760751746.hamedan-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#%3E%3E%40configV2rayNG%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=&fp=ch
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2048
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20150
