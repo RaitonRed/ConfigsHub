@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443/?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:34.82ms
 ss://0c5b2c63-1356-4951-a3b1-4065f730bdb8@151.101.3.8:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none=--@ghalagyann2--@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalag#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.17ms
 ss://21e731fb-6f76-4a90-8330-420fba7552ba@95.134.130.138:3477/?mode=gun&security=&encryption=none&type=grpc&serviceName=@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot----@Evay_vpn_bot-#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Pendik🅿️ping:74.64ms
 ss://25ea801e-682e-4261-d9b3-f2c161d0a66b@151.101.3.8:80/?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:7.17ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#|
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#@IRAN_V2RAY1 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#Irancell--@IRAN_V2RAY1
