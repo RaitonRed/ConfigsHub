@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh26v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh26v5.vetrkot.com#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#All--@Iran_V2ray1
@@ -503,3 +502,4 @@ vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?note=---Telegram
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#@Daily_Configs
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://fa8fe712-142c-46d7-9a4b-77032d34bd30@f1.arshiashop.org:2086?type=ws&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇫🇮@EVAY_VPN
