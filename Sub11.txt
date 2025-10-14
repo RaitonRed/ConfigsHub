@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://b7583704-5d82-452d-9700-e2b89e665851@141.227.142.174:10400?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#MCI-@IRAN_V2RAY1
 vless://b75854a3-f56d-4242-ae6b-d47bfc504b63@141.227.180.39:22288?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@TEHRANARGO
 vless://b75854a3-f56d-4242-ae6b-d47bfc504b63@141.227.180.39:22288?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=@UCIRANIR@UCIRANIR@Silver_v2ray#خرید کانفیگ نیم بها از @Silver_v2ray
@@ -502,4 +503,3 @@ vless://d4803c0d-c9f3-4c9c-a034-342a71ef03a0@91.98.47.45:443?path=/linkws?ed&sec
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--@FREEV2RNG&type=ws#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG

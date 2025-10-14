@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@85.9.217.56:2080?type=grpc&serviceName=&authority=&security=reality&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&sni=yahoo.com&sid=722ee6b369&spx=/#telegram ⚡️ v2ray_configs_pools
 vless://6877b96c-a092-4f90-8e46-cbb4cad2bb9f@104.26.12.31:2096?encryption=none&security=tls&sni=vless-10.webn.cc&type=ws&host=vless-10.webn.cc&path=/snippets?ip=proxyip:port(443)&nat64=6to4#@Daily_Configs
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:2080?security=none&encryption=none&host=Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&headerType=none&type=tcp#𝗦𝗸𝘆𝗽𝗿𝗼_𝘃𝗽𝗻@
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
@@ -502,4 +503,3 @@ vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?note
 vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?security=&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#MTN-@IRAN_V2RAY1
-vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇩🇪@FreakConfig
