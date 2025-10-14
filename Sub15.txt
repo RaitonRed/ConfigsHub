@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl2-ca2-cdn.upload-center.org&fp=chrome&type=ws#🇨🇦@AZARBAYJAB1
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl2-fr2-cdn.upload-center.org&fp=chrome&type=ws#🇫🇷@AZARBAYJAB1
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl2-sg2-cdn.upload-center.org&fp=chrome&type=ws#🇸🇬@AZARBAYJAB1
 vless://f073c5a2-827c-473b-8ea1-0dcb83c8ebf0@amspanel6.hipay.su:443?security=reality&encryption=none&pbk=eamx5zeQt07skP5CVEMCuyFAwlOVmdXwnjAvhWjTlTQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ams6.hipay.su&sid=eb7fc73605f88074#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB-PROXY&type=ws#🇳🇱 @EXPRESSVPN_420
@@ -501,5 +503,3 @@ vmess://eyJhZGQiOiI2NS4xMDkuMjE3LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiI2NS4xMDkuMjE3LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YTM4YWZjZS1jNWViLTRjYjgtOGU1ZS1iYjRmMDM0NjJiNDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfhbBBc2lhVGVjaCIsInNjeSI6ImF1dG8iLCJzbmkiOiJmbC52MmJhenphci5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI2NS4xMDkuMjE3LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YTM4YWZjZS1jNWViLTRjYjgtOGU1ZS1iYjRmMDM0NjJiNDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfko4gSGRkaWZ5IC0gVmlwKyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmbC52MmJhenphci5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI2NS4xMDkuMjE3LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YTM4YWZjZS1jNWViLTRjYjgtOGU1ZS1iYjRmMDM0NjJiNDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfmoBTaGF0ZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiZmwudjJiYXp6YXIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI2NS4xMDkuMjE3LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YTM4YWZjZS1jNWViLTRjYjgtOGU1ZS1iYjRmMDM0NjJiNDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfn6VIaVdlYiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmbC52MmJhenphci5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI2NS4xMDkuMjE3LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYzEzN2I2MS04MTFjLTQ2ZDYtODk4Zi1hMDM4ZDcxZWU4NjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkFsbC1ASVJBTl9WMlJBWTEiLCJzY3kiOiJhdXRvIiwic25pIjoiZmwudjJiYXp6YXIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
