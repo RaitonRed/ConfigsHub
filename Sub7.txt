@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://4ceb7e44-07e5-4095-83fc-4f13f0eae5cd@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.byte-server.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://4d00bf6b-cd39-4849-9f3a-5719e84bb657@ardagulerturk.vtuix.space:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#𝗦𝗸𝘆𝗽𝗿𝗼_𝘃𝗽𝗻@
 vless://4d00bf6b-cd39-4849-9f3a-5719e84bb657@sweden.vtuix.space:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#𝗦𝗸𝘆𝗽𝗿𝗼_𝘃𝗽𝗻@
 vless://4d1a8752-2d4a-441b-81f6-df2bb1dcfa8e@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
@@ -503,3 +502,4 @@ vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&ty
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?@MARAMBASHI_MARAMBASHI&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@Hddify
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?@ShadowProxy66&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@IRAN_V2RAY1
 vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
+vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=/sg3?ed=2560/?ed=2048&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#@IRAN_V2RAY1 🇩🇪
