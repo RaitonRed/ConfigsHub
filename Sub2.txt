@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=/wlbywy8cCxbWMJZI&security=tls&encryption=none&host=Et3ch-007.Zed23.wEB1337.net&fp=chrome&type=ws&sni=Et3ch-007.Zed23.wEB1337.netr♡ya#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.11ms
 ss://6c635537-ab39-f22c-b470-f908efc54ce0@31.14.135.127:15615/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=74g1eX2r4tNtYKLLBjdetBdrNRJ-zjpE89-ggFpTjDs&sid=8bf91d50ee48dfeb#👉🆔@freenettir📡🇮🇹®️Italy©️Arezzo🅿️ping:51.94ms
 ss://7ba08646-09b3-4295-ac25-fff7f27b07da@193.168.197.79:223/?type=tcp&encryption=none&flow=&sni=cloudflare.com&fp=chrome&security=reality&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&sid=c7f175a94bd79f8d#👉🆔@freenettir📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:53.45ms
 ss://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:7443?security=none&encryption=none&headerType=none&type=tcp#👉🆔@freenettir📡🇦🇪®️United Arab Emirates©️Dubai🅿️ping:106.83ms
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:27.84ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTkFzc3FmTlI4aGh2bTlyU1NKdmhx@151.236.11.221:8443#r♡ya
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#@HiByeVPNN👈⚡❤️‍🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#@Selinc
