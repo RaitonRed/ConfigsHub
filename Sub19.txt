@@ -4,6 +4,8 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
+vless://bed9958c-82a5-4c30-8616-723f7269c0b6@tfl.gov.uk:443?security=tls&sni=rAyAn-cOnFiG-nl-2.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-nl-2.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.30
+
 vless://bed9958c-82a5-4c30-8616-723f7269c0b6@www.visa.com.br:443?security=tls&sni=rAyAn-cOnFiG-nl-2.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-nl-2.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%203.3
 
 vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@82.115.43.39:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2090
@@ -501,5 +503,3 @@ vmess://ewogICAgImFkZCI6ICI4LjIxOC4xNzUuNjQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@102.207.216.176:990#%F0%9F%87%A9%F0%9F%87%BFDZ-102.207.216.176-0352
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-0303
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL-213.109.147.242-0383
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.152-0357
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-1141
