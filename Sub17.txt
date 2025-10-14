@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://70f64a2a-6628-4191-b658-6791d801ea32@v-2rayngvpn1.ddns.net:56068?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mastervpnshop1%20%5B17%5D
-vless://39581fd3-5c3c-4f3a-b62a-6653f803dfd6@all.shhproxy.cfd:8443?mode=gun&security=tls&encryption=none&fp=safari&type=grpc&serviceName=%40Shh_Proxy%2C%40Shh_Proxy&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40mastervpnshop1%20%5B18%5D
-vless://4a7728fb-6e86-4a1d-8380-6e64c9bff6f0@ramtin.avairan.online:8080?type=ws&path=%2F&host=&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mdvpn184%20%5B1%5D
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=%2F&host=&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mdvpn184%20%5B2%5D
 vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40megavpn_link%20%5B10%5D
 vless://fa382bb2-67e2-e3be-5953-60784dc2a5db@i.ownlink.pro:28570?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40megavpn_link%20%5B11%5D
@@ -503,3 +500,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%3E%3E%40free4allVPN%3A%3ACZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%3E%3E%40v2ray1_ng%3A%3AXX
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#%3E%3E%40V2RAY_VMESS_free%3A%3ABE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#%3E%3E%40FreakConfig%3A%3AFI
