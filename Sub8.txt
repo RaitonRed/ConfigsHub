@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?path=/&security=tls&encryption=none&type=ws&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=#💎ParsOnline
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=chrome#🟪Rightel
@@ -503,3 +501,5 @@ vless://80074d6b-23c5-465e-a348-dcf0378fd1f2@fin01-vlr01.tcp-reset-club.net:443?
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#Channel id: @ShadowProxy66
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/?Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#@V2rayNGVPN <= کانفیگ رایگان
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=/proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm?ed=2560&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#@V2rayNGVPN <= کانفیگ رایگان
+vless://80943f32-cdc8-44b4-b058-b0126e8daa39@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.CoM#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:6.98ms
+vless://80943f32-cdc8-44b4-b058-b0126e8daa39@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitTNeW.CoM#👉🆔@freenettir📡🇨🇦®️Canada©️Montreal🅿️ping:6.99ms
