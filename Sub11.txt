@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=/@ShadowProxy66?ed&security=tls&alpn=http/1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#Channel id: @ShadowProxy66 🇺🇸
-vless://b0ff01b1-04d3-4b01-8ba9-b1dc47416c07@15.235.45.229:40853?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
-vless://b0ff01b1-04d3-4b01-8ba9-b1dc47416c07@15.235.45.229:40853?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@mehrosaboran
 vless://b1109ec7-68e5-4b7a-a03a-f4c2e7da8d54@finfinboysi.vtuix.ir:4266?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&type=ws#🇫🇮[Telegram:NetifyVPN]
 vless://b12eb9b3-b54b-4c87-95c9-3dd41bc20458@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=aCadeMIC-ExPerT.onEEAt.co&type=ws#telegram 🌺 v2ray_configs_pools
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#✅ @v2ray_configs_pools (تلگرام)
@@ -503,3 +500,6 @@ vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&sec
 vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#VayNora(2)
 vless://ce498aa6-e06b-4f0c-b3d5-453361778b61@83.147.19.55:443?security=reality&encryption=none&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=snapp.ir&sid=5bef46444e87#@Selinc
 vless://ce729649-f354-4100-9d7b-8fbc55099ffa@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@vmesskhodam
+vless://ce8cf26d-fce1-420d-854f-fc5fa71a3dd6@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-nnhvqm39
+vless://ce9751a0-fee7-402a-a887-bdc5f7bd1093@45.144.31.234:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://cef2f251-99a7-4471-ac2d-1a3f69785565@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.byte-server.ir.&type=httpupgrade#🇩🇪 @v2ngnet
