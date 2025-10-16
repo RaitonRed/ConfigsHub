@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#t.me/entryNET/config=1846087468778312
 vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#🇫🇮[Telegram:tik7net_vpn]
 vless://99c377f2-647a-4bc0-bf6a-1ec42e641835@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.byte-server.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://99cb3135-7c88-d326-ad94-99697e6380d9@gr.baziir.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tgju.org&fp=chrome&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&sid=821bbc44dd7a4e15&type=tcp&headerType=none#@Daily_Configs
@@ -503,3 +502,4 @@ vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@data.dayhostpro.com:29664?security=
 vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@data.dayhostpro.com:30676?security=reality&encryption=none&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&host=i.imgcs.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i.imgcs.net&sid=6fb3c2#🇹🇷 Turkey - Telegram : @FergalVpnMod
 vless://ab28b406-0c4b-4923-fe9a-081b6057c9cc@Zula.iR:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🪸-q9eoiag4
 vless://ab29ff75-90e0-41f6-c4be-96abc86becdd@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
+vless://ab4caa7e-ca1a-40e3-abe7-db4a4d956f68@65.109.189.20:22995?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇮]t.me/Raiv2mmr
