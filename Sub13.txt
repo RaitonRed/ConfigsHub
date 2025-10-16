@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷@FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷Telegram:tik7net_vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇹🇷TM (@AZARBAYJAB1)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇺🇸@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇲@FreakConfig
@@ -501,5 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusac
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🪂🚁🪩7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#@TEHRANARGO
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🪂🚁🪩3
