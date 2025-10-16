@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://c7ada916-1b13-464b-f471-3f73f66012bc@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-53q6m358
 vless://c7c8a2f3-d24e-44e9-a3a6-e41099cb1cd5@speedtest.net:80?type=xhttp&path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=p30download.ir&mode=auto&security=none#سرورهای رایگان کانال @HAJIMAMADVPN-7
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@IRAN_V2RAY1--All
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&authority=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=grpc#@i10VPN 🚀| با ما متصل بمون⚡
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان

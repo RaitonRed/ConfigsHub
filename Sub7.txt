@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=none&security=none&type=grpc#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#telegram 🌺 v2ray_configs_pools
 vless://47dc734a-15e8-4286-b09f-ad0404e85630@45.79.223.65:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🍀 v2ray_configs_pools
@@ -503,3 +502,4 @@ vless://5d69f7c9-cb5a-4903-99ab-ac97a50d5cca@104.16.1.106:2082?security=none&typ
 vless://5d69f7c9-cb5a-4903-99ab-ac97a50d5cca@all-fastly.subscripshn.sbs:80?security=none&type=xhttp&headerType=&path=/SvnProBot?ed=8443&host=globally-renewing-iguana.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#⚡︎ 🇳🇱 𓏺 𝖯𝖱𝖤𝖬𝖨𝖴𝖬
 vless://5d69f7c9-cb5a-4903-99ab-ac97a50d5cca@all.yasharteam.com:500?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#⚡︎ 🇩🇪 𓏺 𝖳𝖢𝖯 𝖧𝖮𝖲𝖳
 vless://5d69f7c9-cb5a-4903-99ab-ac97a50d5cca@all.yasharteam.com:666?security=none&type=tcp&headerType=none&path=&host=#⚡︎ 🇩🇪 𓏺 𝖳𝖢𝖯 𝖭𝖮𝖭𝖤
+vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@104.18.5.250:443?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome&type=ws&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT#@v2ray_configs_pools👈⚡❤️‍🔥
