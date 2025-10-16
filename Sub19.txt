@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2016
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2015
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20119
@@ -503,3 +501,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REUxMVx1RDgzRFx1REUxMVx1RDgz
 vless://27304800-2786-4b47-be85-9e86652366f5@94.182.93.60:11967?path=%2F&security=none&encryption=none&host=p30afzar.com&type=ws#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%9E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880/?type=grpc&encryption=none&flow=#%F0%9F%AB%863%40oneclickvpnkeys
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=%2Flzu7wqwidqc1jrn6%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880/?type=grpc&encryption=none&flow=#%F0%9F%AB%8666%40oneclickvpnkeys
