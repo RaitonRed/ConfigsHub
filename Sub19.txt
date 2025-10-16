@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20120
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2018
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2016
@@ -503,3 +498,8 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?path=%2FTelegra
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Telegram%3A%40tik7net_vpn%20%F0%9F%87%AA%F0%9F%87%B8`
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&fp=chrome&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%40Daily_Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.187-0199`
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REUxMVx1RDgzRFx1REUxMVx1RDgzRFx1REUxMSIsDQogICJhZGQiOiAiNTcuMTI5LjU5LjE5MyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNlcmthdC5vcmciLA0KICAicGF0aCI6ICIvbGlua3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZXJrYXQub3JnIiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==```
+vless://27304800-2786-4b47-be85-9e86652366f5@94.182.93.60:11967?path=%2F&security=none&encryption=none&host=p30afzar.com&type=ws#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%9E%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
