@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@V2rayNGVPN <= کانفیگ رایگان
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#All-@IRAN_V2RAY1
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@V2rayNGVPN <= کانفیگ رایگان
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphb0gyc2VjbVdvVnZmSll0NVFQMkZQ@47.128.253.14:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#@HiByeVPNN👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#@Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#@V2RAYROZ
