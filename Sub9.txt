@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://71552f5b-0597-4524-c035-916f9298e163@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://71552f5b-0597-4524-c035-916f9298e163@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://716afcbb-e1d3-49d5-bdd1-4a0826eb8fd5@www.speedtest.net:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.joinbedeh.xyz.&type=ws#SvnTeam-WIFI-irancell
 vless://71a9f00f-f305-4cab-ada0-9a947e6f115b@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=gTzHMDNdl149mB6DKGPnbiVFID8x_7X5THJIXlpNWFc&sid=50d72d59cbec63&spx=/#MdVpnSec
@@ -503,3 +502,4 @@ vless://8bebc39d-2744-4af4-8ffa-fdfdd442cd97@pq706rio.qdr8-tvg9u8bc98b6m2kk52agf
 vless://8bebc39d-2744-4af4-8ffa-fdfdd442cd97@pq706rio.qdr8-tvg9u8bc98b6m2kk52agfme.portalofleg-ends.fun:2057?security=reality&encryption=none&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=pcmag.com&sid=84248f#@MARAMBASHI 🩵
 vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesalbania-0kami.okatestoka.ir&type=httpupgrade#🇦🇱 AL-2- 🚫 | @EXPRESSVPN_420
 vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesturkeyadakmepfoqmwedoqimweopdim.okatestoka.ir&type=httpupgrade#🇹🇷 TR-1- 💥 | @EXPRESSVPN_420
+vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=/&security=none&encryption=none&host=okamicsajnklssaklsksa212r2322eaw3e2dwml.okatestoka.ir&type=httpupgrade#🇩🇪 DE-1- 🚀 | @EXPRESSVPN_420

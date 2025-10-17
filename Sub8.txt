@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://5562b859-cd73-9cd2-98ec-c3f308ce63a2@fr.zeroboostspeed.org:1231/?encryption=none&host=Fast.com&type=tcp&headerType=http#@Geek_Spot
 vless://558a45ab-81ba-4185-8e6d-2465ea2f05b5@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@HiByeVPNNBot 👈🌿💎
 vless://558a45ab-81ba-4185-8e6d-2465ea2f05b5@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-gj8wxqnw
 vless://55b596f8-1a15-4752-b0b5-9198b3680fd7@c1.arshiashop.org:2086?type=ws&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇹🇷 | @Evay_vpn
@@ -503,3 +502,4 @@ vless://713f6b9e-6200-405d-9ca8-77bc45be625b@51.178.253.133:22808?mode=gun&secur
 vless://714ed6b1-ee85-4ef1-9e74-572f39a98bf3@199.232.5.153:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2044&security=none&alpn=h3,h2,http/1.1&encryption=none&host=JoinBede--VPNCUSTOMIZE---VPNCUSTOMIZE.Ir&fp=chrome&type=ws&sni=#@FILTERK0SH⚡All❤️‍🔥
 vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@104.21.14.123:443?path=/higate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#🇺🇲@FreakConfig
 vless://71552f5b-0597-4524-c035-916f9298e163@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://71552f5b-0597-4524-c035-916f9298e163@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
