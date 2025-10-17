@@ -4,6 +4,8 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.26:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20112
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20123
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20121
@@ -501,5 +503,3 @@ vless://bebffc49-b2d0-4c56-a8df-62d1603446a4@172.67.192.215:443?path=%2FFree-VPN
 trojan://6616b041-502d-4476-88a8-254e683c82e4@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS
 trojan://dbeace35-cdc9-493b-b492-25caceba040c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%AA%F0%9F%87%B8%20WS%20TLS
 vless://6616b041-502d-4476-88a8-254e683c82e4@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS
-trojan://c45ba3c9-fa4a-4301-ab1d-4469c24f9320@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES4&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%AA%F0%9F%87%B8%20WS%20TLS
-vless://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FAE5&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS`
