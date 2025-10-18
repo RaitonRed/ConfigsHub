@@ -12,7 +12,6 @@
 
 
 
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%203
@@ -503,3 +502,4 @@ trojan://a3fadc5b-e1e6-47c1-a256-924c80201a49@172.67.192.215:443?path=%2FFree-VP
 trojan://de5c8727-8221-4579-a9d1-4ec059805678@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS
 vless://a3fadc5b-e1e6-47c1-a256-924c80201a49@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS
 vless://de5c8727-8221-4579-a9d1-4ec059805678@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE3&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%A6%F0%9F%87%AA%20WS%20TLS`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%5B%F0%9F%8F%81%5Dfrance
