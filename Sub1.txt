@@ -310,7 +310,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=4a81070:6193#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=874b20d:48331#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
-#É
 vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#%40meli_proxyy
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://ba4c59a5-2e7d-4dc4-c115-27615c978e66@91.98.133.38:443?mode=stream-one&path=%2Fdsf&security=reality&encryption=none&pbk=IbRZfIHJGx6UojlE1uoHJ-eBAXF92z5ST0DrQA7-mDw&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -503,3 +502,4 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#MCI-@IRAN_V2RAY1
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 hysteria2://df36ace8-640b-42bb-8169-198901af6d9e@185.184.68.7.sslip.io:46129?security=tls&obfs=salamander&obfs-password=JBPVtqk1kMBGleBcLZ&insecure=1#@sunflowerplato
+hysteria2://perspoliszibatarineshghjahan:FsJucWq9I3xWM4ocQcUh7h8EB4mIqLWI@80.85.241.237:443?sni=stackoverflow.com&obfs=salamander&obfs-password=fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf&insecure=1#Tel:@Daily_Configs
