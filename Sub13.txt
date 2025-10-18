@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@night.dl.darinips.com:443?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=chrome&type=tcp&sni=docker.com#🇩🇪 pardazeshVPN
-vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@tr.srv1.stafillo.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🇹🇷 pardazeshVPN
 vless://cf5a73e1-e1ba-4a21-aadd-2ed60eae1b52@axe.djjw8292n.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.djjw8292n.ir&type=ws&sni=mojito.djjw8292n.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://cf92f705-4866-46b5-a167-cea8a9eb37dc@172.66.40.99:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=ws#🇩🇪 Telegram @SRCVPN
 vless://cf92f705-4866-46b5-a167-cea8a9eb37dc@172.66.40.99:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=ws#🇩🇪 Telegram @ata_connect
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇲🇩[Telegram:NetifyVPN]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&fp=chrome&type=grpc#کانال تلگرام : 𝐒𝐊𝐘𝐏𝐑𝐎_𝐕𝐏𝐍@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
