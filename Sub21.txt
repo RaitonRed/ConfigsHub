@@ -88,8 +88,6 @@ vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAy
 
 
 
-
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%203
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
