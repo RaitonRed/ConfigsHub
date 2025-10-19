@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=&encryption=none&type=xhttp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@Daily_Configs
 vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn
 vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪#2
@@ -502,4 +503,3 @@ vless://b314947a-e90e-4f46-b2ec-3fd172e0c6d1@141.227.180.68:10056?mode=gun&secur
 vless://b327d2bf-a1d4-530f-bf85-5f7033483334@ee1.xvless.online:80?path=/httpupgrade&security=&encryption=none&host=ee1.xvless.online&type=httpupgrade#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://b33105c5-e37d-4ad1-a3b9-102390b3e1b8@141.227.136.29:13833?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@TEHRANARGO
 vless://b33105c5-e37d-4ad1-a3b9-102390b3e1b8@141.227.136.29:13833?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
-vless://b33105c5-e37d-4ad1-a3b9-102390b3e1b8@141.227.136.29:13833?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🏴‍☠️@FreakConfig

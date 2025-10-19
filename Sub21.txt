@@ -22,7 +22,6 @@
 
 
 
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%203
@@ -503,3 +502,4 @@ trojan://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VP
 vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@us01-xr03.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#%F0%9F%87%BA%F0%9F%87%B8%20Gemini%20%20%7C%20%40confegraigan```
 vless://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FNL1&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%B3%F0%9F%87%B1%20WS%20TLS
 trojan://8e1c3f4a-2066-4dd8-b703-9ea2802e6fc7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Trojan%20%F0%9F%87%A9%F0%9F%87%AA%20WS%20TLS
+vless://8e1c3f4a-2066-4dd8-b703-9ea2802e6fc7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FDE3&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#%5B%40v2FreeHub%5D%20Vless%20%F0%9F%87%A9%F0%9F%87%AA%20WS%20TLS`
