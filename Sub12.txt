@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://b33105c5-e37d-4ad1-a3b9-102390b3e1b8@141.227.136.29:13833?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://b33105c5-e37d-4ad1-a3b9-102390b3e1b8@141.227.136.29:13833?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🏴‍☠️@FreakConfig
 vless://b345b731-7aa1-47ff-8378-bc4762877ea9@49.13.21.6:443?path=/linkws?ed=2560&security=none&encryption=none&host=49.13.21.6&type=ws#🇩🇪@FreakConfig
 vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@numberland.ir:8080?type=ws&host=Unlimiteddev-join.paradoxone.IR&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
@@ -502,4 +503,3 @@ vless://ce498aa6-e06b-4f0c-b3d5-453361778b61@83.147.19.55:443?security=reality&e
 vless://ce5c055f-fc10-4720-a374-72f907e61f23@www.rexo.online:37173?flow=&type=ws&host=iranserver.com&path=/ws&security=none#@meli_proxyy
 vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?security=reality&encryption=none&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?security=reality&encryption=none&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@meli_proxyy
-vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?security=reality&encryption=none&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🇺🇲@FreakConfig
