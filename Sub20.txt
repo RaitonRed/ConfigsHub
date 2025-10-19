@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@141.193.213.75:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#%3E%3E%40v2ray_configs_pool%3A%3AFR
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.26:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#%3E%3E%40v2ray_configs_pool%3A%3AFR
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.0:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#%3E%3E%40v2ray_configs_pool%3A%3AFR
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.22:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#%3E%3E%40v2ray_configs_pool%3A%3AFR
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.12.30.233:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#%3E%3E%40v2ray_configs_pool%3A%3AFR
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@188.42.89.247:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#%3E%3E%40v2ray_configs_pool%3A%3AFR
+vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#%3E%3E%40v2rayng_fast%3A%3AXX
+vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFI
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://d725c933-1043-4924-8451-78c35bd5177a@5.75.206.114:443?security=reality&encryption=none&pbk=O1mmPNBiL4Kmx-lEReau8WJUrjgZE5ew2lnC4T4mGg8&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--%40JKVPN&type=tcp&sni=tgju.org&sid=af7022c5#%3E%3E%40v2rayngvpn%3A%3ADE
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@54.157.30.50:80#%3E%3E%40v2rayngvpn%3A%3AUS
+vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImthbXBvbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiPj5AdjJyYXluZ3Zwbjo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkB2MnJheW5ndnBuOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
@@ -486,20 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%204.223.106.151
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%204.223.106.240
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#@Rayan_Config-IFI-7mwOF-@iranfreeinternet_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#@Rayan_Config-151.242.251.133-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.137:8080#@Rayan_Config-151.242.251.137-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#@Rayan_Config-151.242.251.142-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.147:8080#@Rayan_Config-151.242.251.147-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#@Rayan_Config-151.242.251.152-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#@Rayan_Config-45.87.175.155-@beepassvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#@Rayan_Config-45.87.175.158-@beepassvpn_bot
