@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.220:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20121
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20120
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20119
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?encryption=none&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Telegram+%3A+%40V2rayEnglish`
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#Telegram+%3A+%40V2rayEnglish`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638954454858772863.belgrade-prx-dnraact.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&fp=chrome&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#%E2%99%A6%EF%B8%8F33%40oneclickvpnkeys
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
