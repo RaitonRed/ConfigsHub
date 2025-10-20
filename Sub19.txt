@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f2#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40xsv2ray%20%5B7%5D
 🇺🇲ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%BA%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://3056458b-913a-4193-b428-cdf22675b3b5@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Fydgmopws&security=tls&encryption=none&host=638890562127852879.amsterdam-prx-dnraaal.info&type=ws&sni=638890562127852879.amsterdam-prx-dnraaal.info#%F0%9F%87%A8%F0%9F%87%B5%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=e1afb93bfe75a34b#%F0%9F%87%BA%F0%9F%87%BE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVXBvZVF5OTlqa2tGOHR4U3k0NHFi@81.19.141.45:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.4.65:990#%3E%3E%40v2rayNG_Matsuri%3A%3AKH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozc1dZN0pmTlgyb0RHUVBtVHgxREZQ@194.87.45.189:443#%3E%3E%40v2rayNG_Matsuri%3A%3AES
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cFhRMXBMSnp4bkJIMjhYdzUwbmU5@77.83.246.74:443#%3E%3E%40v2rayNG_Matsuri%3A%3APL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
