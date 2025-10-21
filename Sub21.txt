@@ -4,18 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-
-vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-
-vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?security=tls&sni=offged.sahandconfig.ir&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Smxhabwh&encryption=none#@Rayan_Config%2026
-
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-
-vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&fp=chrome&type=ws&path=/jzmdpvws?ed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&encryption=none#@Rayan_Config%2054
-
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443?security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.foton.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2025
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2010
@@ -503,3 +491,15 @@ ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@45.89.52.66:9014#%F0%9F%87%B9%F0%9
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.184.53:80#%F0%9F%87%A6%F0%9F%87%BAAU-3.107.184.53-0304
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.68.27.76:989#%F0%9F%87%AF%F0%9F%87%B5JP-194.68.27.76-0299
 vmess://ewogICAgImFkZCI6ICJzeTQuNjIwNzIwLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInN5NC42MjA3MjAueHl6IiwKICAgICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTk3LjQ3LTEwODMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%87%B5%F0%9F%87%B1PL-92.118.205.228-0233
+vmess://ewogICAgImFkZCI6ICI4LjIxNy4xNTguOTIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjdlY2FjMzc2LTE4MDktNGY3Mi1iZDU5LWFhOTNkNzQ4YTgyMiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA1MDA2MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE3LjE1OC45Mi01NTMzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.59:8118#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.59-0263
+vmess://ewogICAgImFkZCI6ICI4LjIxOC44Ljg0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI2YmQ1MGFmOC04MWE3LTQ4MGQtYWI3OC01ZWYyODQ4Njg0ODUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogNTUxMzgsCiAgICAicHMiOiAi8J+HrfCfh7BISy04LjIxOC44Ljg0LTU1NDEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICI4LjIxNy4yMDkuODIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImQzMWExZjJmLWI1NTItNDRmYy04OTNhLTZjZjU1ZmEyZDRlMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiAzNjAwLAogICAgInBzIjogIvCfh63wn4ewSEstOC4yMTcuMjA5LjgyLTU1MzQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.197-0338
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-5526
+vmess://ewogICAgImFkZCI6ICI4LjIxOC4yNi4yMzQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjUyMGE1MDcyLTc2ZWMtNGMzNy04ZTI1LTAyY2Y2MWIwNDg4OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA1NTU2NiwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE4LjI2LjIzNC01NTMxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.180:990#%F0%9F%87%AA%F0%9F%87%ACEG-38.54.59.180-5567
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.58-0316
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.152-5262
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.18-0317
