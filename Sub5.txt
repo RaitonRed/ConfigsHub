@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://16cfe52d-7cae-48e8-9ece-f25b8aad7ae9@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?flow=&type=ws&host=ed19-dc7.pages.dev&path=/&security=tls&sni=ed19-dc7.pages.dev&fp=chrome&allowInsecure=0#@meli_proxyy
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?path=/&security=tls&encryption=none&host=ed19-dc7.pages.dev&fp=chrome&type=ws&sni=ed19-dc7.pages.dev#
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?path=/&security=tls&encryption=none&host=ed19-dc7.pages.dev&fp=chrome&type=ws&sni=ed19-dc7.pages.dev#@V2rayNGVPN <= کانفیگ رایگان
@@ -503,3 +502,4 @@ vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&se
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@v2ray_configs_pools&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@v2ray_configs_pools&security=tls&v2ray_configs_pools
+vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?encryption=none&security=&sni=&type=ws&alpn=&host=NoDE16.VtNEt.InFO&path=/?ed=2048#telegram 🍊 v2ray_configs_pools
