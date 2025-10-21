@@ -47,7 +47,6 @@ vless://818d7dcc-b367-470f-bf88-8d3037f98542@fin.monkeyisland.life:8443?security
 vless://81b810d4-8c1e-4bd0-afef-557c1ed47e28@speedtest.net:80?type=xhttp&path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=p30download.ir&mode=auto&security=none#سرورهای رایگان کانال @HAJIMAMADVPN-2
 vless://81dcfd51-a977-47b4-8a89-b203cc8ef3a6@212.23.214.196:48265?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#5 🇮🇷🇩🇪@Evay_vpn
 vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&sid=53ba1e37&type=tcp&headerType=none#@Daily_Configs
-vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#@Daily_Configs
 vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#MTN-@IRAN_V2RAY1
 vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#🇩🇪@FreakConfig
 vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#🥹
@@ -503,3 +502,4 @@ vless://9e003436-1354-4510-8dd6-5834dc1e7829@157.180.88.25:443?security=reality&
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?security=reality&encryption=none&type=xhttp#telegram ⚡️ v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?security=reality&encryption=none&type=xhttp#telegram 🚀 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@188.245.185.225:443?security=reality&encryption=none&type=xhttp#telegram 🌈 v2ray_configs_pools
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@188.245.185.225:443?security=reality&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
