@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/CY6EnyeHmgNASXJI/MTU5LjY5LjE0LjEzOA?ed=8080&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TiTAntAbLoMaNAhamraH.Ir.#telegram ☂️ v2ray_configs_pools
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/CY6EnyeHmgNASXJI/MTU5LjY5LjE0LjEzOA?ed=8080&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TiTAntAbLoMaNAhamraH.Ir.#telegram 🌈 v2ray_configs_pools
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=/CY6EnyeHmgNASXJI/MTU5LjY5LjE0LjEzOA?ed=8080&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TiTAntAbLoMaNAhamraH.Ir.#telegram 🎯 v2ray_configs_pools
 vless://4d95d26c-7f45-4011-c168-4d85fc3f22f8@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
@@ -503,3 +502,4 @@ vless://67386427-2cfb-441d-9888-e0c5066ff8b2@190.93.244.170:2082?path=/@v2ngnet-
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=/assets/img/banner_v3.webp/&security=none&encryption=none&host=ws.ne1.tunnelx.space&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://6742388969-client-81f@ne1.tunnelx.space:2087?path=/assets/img/banner_v3.webp/&security=none&encryption=none&host=ws.ne1.tunnelx.space&type=ws#@meli_proxyy
 vless://674b469b-21a6-4d13-9434-7be34823ee96@fs2.greenetplus.ir:36158?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=none&encryption=none&type=ws#🇩🇪[Telegram:NetifyVpn]
+vless://67581958-eefa-4977-bba8-b94e0ae2f95b@84.234.28.144:2010?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=2SimkM15pSLtzGGFba7aaxXTfm4d3JaAB_Pe6JuWy1o&fp=chrome&sni=yahoo.com&sid=13&spx=/#1-join##@Adamak_vpn
