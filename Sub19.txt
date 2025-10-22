@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AXX
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%3E%3E%40v2rayngvpn%3A%3AXX
 vmess://eyJhZGQiOiJtYXNqaWRlLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWFzamlkZS5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBGcmVha0NvbmZpZzo6VVMiLCJzY3kiOiJhdXRvIiwic25pIjoibWFzamlkZS5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%3E%3E%40FreakConfig%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959583053210036.rome-blkaft-aaak.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.127:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40configV2rayNG%3A%3AUS
-vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@104.17.89.51:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.lEiLa.dPdNs.oRg&type=ws&sni=rAyAn-007.lEiLa.dPdNs.oRg#%3E%3E%40configV2rayNG%3A%3AUS
