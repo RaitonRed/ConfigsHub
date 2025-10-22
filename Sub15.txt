@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#proxy_mtm
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966948746493542.qazvin-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#t.me/entryNET/config=1846656854625783
@@ -503,3 +502,4 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=T3wRa98QnG.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=T3wRa98QnG.lIrA9xC7.iNfO#@ata_connect
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&alpn=h3,h2&encryption=none&host=smart.gheichi.org&fp=chrome&type=ws&sni=smart.gheichi.org#Telegram: @FergalVpnMod
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&alpn=h3,h2&encryption=none&host=smart.gheichi.org&fp=chrome&type=ws&sni=smart.gheichi.org#Telegram: @FergalVpnMod 🇩🇪
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#@IRAN_V2RAY1

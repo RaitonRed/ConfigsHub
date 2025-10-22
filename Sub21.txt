@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20111
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20110
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20109
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&fp=chrome&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880/?type=grpc&encryption=none&flow=#%F0%9F%96%B2%EF%B8%8F50%40oneclickvpnkeys
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%91%88Kia_Net%40`
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=%2Flzu7wqwidqc1jrn6%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
+vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Wsu+4jzU0QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
