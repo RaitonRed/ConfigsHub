@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://27ab1462-5fa9-47f0-c7fe-f8e83f4be942@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://27b61a3e-ef8c-4bc8-923f-f4ac433d1056@157.230.16.250:50395?type=kcp&headerType=none&seed=K1nVjOzkLe&security=none#کانال ما @MrConfig_Channel🎴
 vless://27b6c98d-f6e3-47de-8f12-dc3e25f8dad3@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?security=none&encryption=none&headerType=none&type=tcp#✅ @v2ray_configs_pools (تلگرام)
@@ -503,3 +502,4 @@ vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl1.ndkwiut2718.ir:8443/?type=tcp&e
 vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl5.ndkwiut2718.ir:8443/?type=httpupgrade&encryption=none&host=dl5.ndkwiut2718.ir&path=/&security=tls&sni=dl5.ndkwiut2718.ir&fp=chrome#[🇦🇪AE-CDN] (📶∞⏳∞)
 vless://38ca7b19-ad02-4a71-81cd-98bc94190645@rayphoriahub.iranfastshop.ir:7401?security=reality&encryption=none&pbk=mNJNJwzm8sozJ7cXa62Fu3cHYUb0efZs4ue-ZHCIN2o&headerType=none&fp=chrome&spx=/F------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub&type=tcp&flow=xtls-rprx-vision&sni=preview.redd.it&sid=8de0d97b17#کانفیگ ویژه رایگان و اختصاصی فروشی 🇩🇪🇳🇱🇫🇮 @RayphoriaHub
 vless://38ede7d1-5a7b-4263-b9b7-bc89b0695241@128.140.80.142:443?path=/linkws?ed&security=none&encryption=none&host=128.140.80.142&type=ws#@Daily_Configs
+vless://38ede7d1-5a7b-4263-b9b7-bc89b0695241@128.140.80.142:443?path=/linkws?ed&security=none&encryption=none&host=128.140.80.142&type=ws#Channel : @Mrsoulb 🏴🏳
