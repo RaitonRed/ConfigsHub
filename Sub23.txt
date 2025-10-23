@@ -4,14 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2076
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2075
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2074
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2073
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2072
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
@@ -503,3 +495,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936664855921747.amsterdam-prx-dn
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?encryption=none&security=none&type=grpc#%40Daily_Configs
 vless://7453db5a-ca2c-4d60-a106-1a6618fd856d@193.24.209.127:36898?type=tcp&encryption=none&security=none#1w761lnv
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?mode=gun&security=&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#%F0%9F%93%A2+%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84++%0A%F0%9F%91%89+%40amirw_shop_q`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#%40Daily_Configs
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#%40Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%90%86%F0%9F%A6%A2%F0%9F%A6%8C2
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%AA%90%F0%9F%92%AB%E2%AD%90%EF%B8%8F7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
