@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://108dbe7e-695b-48b4-dad0-bcb10ba5834a@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@TEHRANARGO
 vless://108dbe7e-695b-48b4-dad0-bcb10ba5834a@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://108dbe7e-695b-48b4-dad0-bcb10ba5834a@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@mehrosaboran
 vless://108dbe7e-695b-48b4-dad0-bcb10ba5834a@test2.amin8263.ir:2095?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-ub83jejw
@@ -503,3 +502,4 @@ vless://26ac837f-59b3-483f-8e22-8216ab5b28b3@saralt-os1.ir:8080?security=reality
 vless://26ad6098-1015-4cd5-bac0-a3fbcc3cb729@151.101.64.155:80?path=/Telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=JOINBEDE-VPNCUSTOMIZE.IR&type=ws#All %V2RayFa
 vless://26ad6098-1015-4cd5-bac0-a3fbcc3cb729@www.zula.ir:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=chrome&type=ws#MTN & MCI @V2RayFa
 vless://26b63e3a-60f9-4630-b180-fde6c4339602@140.248.128.69:443/?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Channel----VPNCUSTOMIZE?ed=2048&security=tls&sni=Channel-VPNCUSTOMIZE&allowInsecure=1#All %V2RayFa
+vless://26b63e3a-60f9-4630-b180-fde6c4339602@www.zula.ir:8880?path=/Channel----VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=Join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.persiancampel.iR&fp=chrome&type=ws#MTN & MCI @V2RayFa
