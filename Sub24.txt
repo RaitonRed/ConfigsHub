@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%AA%90%F0%9F%92%AB%E2%AD%90%EF%B8%8F7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%90%86%F0%9F%A6%A2%F0%9F%A6%8C9
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.12.30.88:2053?path=%2F&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#%F0%9F%A4%BE%F0%9F%8E%AF%F0%9F%9B%858
 ss://YWVzLTI1Ni1nY206ZWNlNDBjYWUtZmIwNS00MWQ2LWFiNWUtODcwMDkwZjI1ZDkz@3.129.133.36:30000#Telegram%3A%40tik7net_vpn%20%F0%9F%87%BA%F0%9F%87%B8`

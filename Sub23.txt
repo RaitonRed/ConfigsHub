@@ -4,6 +4,8 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2073
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2072
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
@@ -501,5 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?encryption=none
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#%40Daily_Configs
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%90%86%F0%9F%A6%A2%F0%9F%A6%8C2
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%AA%90%F0%9F%92%AB%E2%AD%90%EF%B8%8F7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
