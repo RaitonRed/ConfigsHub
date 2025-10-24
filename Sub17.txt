@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--10
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#t.me/entryNET/config=1846807211277373
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc#🇳🇱 | @External_Net
@@ -503,3 +502,4 @@ vless://e71e9e5c-f27f-4b20-fbbe-acb7b6a62d23@numberland.ir:2052?flow=&type=ws&ho
 vless://e71e9e5c-f27f-4b20-fbbe-acb7b6a62d23@www.speedtest.net:2052?flow=&type=ws&host=vmessorg.joinbede.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://e77a10bc-1269-4e38-bca5-6363498ad146@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=/homepage?ed=2560#@v2ray_configs_pool
 vless://e77f6cd0-b8c9-4d4b-b621-e36d177f71c8@63.141.128.29:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@IRAN_V2RAY1
+vless://e77f6cd0-b8c9-4d4b-b621-e36d177f71c8@63.141.128.29:80?security=none&encryption=none&type=ws&host=f.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#TEL: @V2RAYNG_IP🇩🇪(3)

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b6f6e247-41a2-411c-afcf-a87e09878be9@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=caLM-fILe.oNeeat.cO&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AMD
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&host=%C3%97http&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#%3E%3E%40free4allVPN%3A%3ALV
 vless://9abc0f62-f53a-485c-aa97-97911697e4b1@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=advENtUrOUS-aBilitY.ONEEAT.Co&type=ws#%3E%3E%40DailyV2RY%3A%3AAU
@@ -503,3 +502,4 @@ vless://4710b85a-66e6-411b-b492-0e0f7366ad21@www.visa.com.br:443?security=tls&sn
 
 vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+vless://48bbb385-8877-4b2d-8f42-d81df401725d@change.org:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.55
