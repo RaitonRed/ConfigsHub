@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://360ab6ba-7c33-4cd7-add1-9698b9f9205c@a-lf-0.okamii.ir:2095?security=&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://360ab6ba-7c33-4cd7-add1-9698b9f9205c@a-lf-0.okamii.ir:2095?security=&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://360ab6ba-7c33-4cd7-add1-9698b9f9205c@a-lf-0.okamii.ir:2095?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://360ab6ba-7c33-4cd7-add1-9698b9f9205c@a-lf-0.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇮🇷 نت ملی
@@ -503,3 +502,4 @@ vless://44a6fabd-afbc-4150-a696-58eac865c578@91.99.92.127:8880?security=reality&
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--41
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&encryption=none&headerType=none&type=tcp#WiFi-@V2rayAlpha--12
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 💙
