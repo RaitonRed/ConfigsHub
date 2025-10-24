@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#WiFi-@V2rayAlpha--11
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#→@Hddify 🍥
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#🇳🇱@AZARBAYJAB1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#@HiByeVPNN👈⚡❤️‍🔥
@@ -503,3 +502,4 @@ vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=/?ed=2048&s
 vless://id6061308608@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=a8fd0db853b135#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://id7890941744@s5.nodu10.ru:443?security=reality&encryption=none&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=trendyol.com&sid=d7f1beae#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://id8127942053@s2.nodu10.ru:443?security=reality&encryption=none&pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&headerType=none&fp=chrome&spx=/S5t6RP5swFSGWWR&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a61d6960f49e#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://jjoin-ELiV2RAY@crocodilesrver.ir:8443?type=tcp&encryption=none&security=reality&pbk=7BoCcBCb-cYVcE_3z3qcF-ZzOlezFqR-NkwkecMC6A8&fp=chrome&sni=google.com&sid=930fb8b1d8aac565&spx=/CHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY?ed=2560#🇩🇪ELiV2RAY
