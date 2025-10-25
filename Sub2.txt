@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://BxceQaOe@36.151.251.35:24392?allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.116.227:2467?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.89.176:2381?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://BxceQaOe@36.151.251.23:26876?allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@18.170.77.155:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMDMuMjI0LjgwLjEwMCIsICJwb3J0IjogIjE0OTk0IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQwNzMxYzk4LTk1MTQtNGU3NS1iNzhlLTU4MzExZDIxNDA5NSIsICJzbmkiOiAiIn0=
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.154.124.136:26666?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/telegram@freecodes/?ed=2560security=tls#HK_speednode_0005
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳@WangCai2/?ed=2560security=tls#HK_speednode_0006
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls#HK_speednode_0007
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔security=tls#HK_speednode_0008
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔/?ed=2560security=tls#HK_speednode_0009
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@freecodes/?ed=2560security=tls#HK_speednode_0010
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram@freecodes/?ed=2560security=tls#HK_speednode_0011
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.40.126.7:50001?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔/?ed=2560security=tls#KR_speednode_0012
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.229.77.184:27443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔/?ed=2560security=tls#KR_speednode_0013
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳@WangCai2/?ed=2560security=tls#KR_speednode_0014
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls#RU_speednode_0016
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/XU0001F1E8U0001F1F3@节点狂魔security=tls#RU_speednode_0017
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/security=tls#RU_speednode_0018
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/x @节点狂魔security=tls#RU_speednode_0019
@@ -486,20 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MGp0aDh6NTZEZDRnaHMxRGg3dHdV@178.208.91.118:19805#@Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MGp0aDh6NTZEZDRnaHMxRGg3dHdV@178.208.91.118:19805#@sunflowerplato🌻
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#@AblNet7 🇮🇷 نت ملی
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#@AblNet7 🇮🇷 نت ملی 🇷🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#@MARAMBASHI 💋
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#MTMVPN 36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#r♡ya
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🇷🇺@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🔐 @AblNet7 🇷🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256?note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UUVwZ2gwQUpXVHM1OE5tUmZzVmFR@102.130.49.69:8443#@AblNet7 🇮🇷 نت ملی 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UUVwZ2gwQUpXVHM1OE5tUmZzVmFR@102.130.49.69:8443#All-@V2ray_Alpha--0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UUVwZ2gwQUpXVHM1OE5tUmZzVmFR@102.130.49.69:8443#کانال تلگرامی ما : @skypro_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WFFMekE2MlYwYjRzd3Nyd0ZpNWJM@95.164.123.39:32821?note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WFFMekE2MlYwYjRzd3Nyd0ZpNWJM@95.164.123.39:32821?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cDllaTNQOFdXNm51Y05YSUk0VlNn@65.109.217.125:1080#@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cDllaTNQOFdXNm51Y05YSUk0VlNn@65.109.217.125:1080#🟦HamrahAval
