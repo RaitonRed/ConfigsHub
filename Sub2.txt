@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.154.124.136:26666?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/telegram@freecodes/?ed=2560security=tls#HK_speednode_0005
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳@WangCai2/?ed=2560security=tls#HK_speednode_0006
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/TelegramU0001F1E8U0001F1F3@WangCai2/?ed=2560security=tls#HK_speednode_0007
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔security=tls#HK_speednode_0008
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔/?ed=2560security=tls#HK_speednode_0009
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#@v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#MTMVPN 36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#r♡ya
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🇷🇺@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
