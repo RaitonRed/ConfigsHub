@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+ss://YWVzLTI1Ni1nY206M2Y2NDY1ZTgtYTM3Ni00ZjlhLTg1ZDMtYTMwNWFhYTgwZjdm@45.83.22.118:8443?note=--Telegram--@NetifyVPN--#🇨🇾[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206N2VkMTcxYjEtMTg4ZS00N2E2LTljMTctZGIwZGU1ZmM2MmRk@45.134.13.75:443#@meli_proxyy
 ss://YWVzLTI1Ni1nY206NWVhZmU1YWUtZWIwMi00ZTAzLTkwNzctYTRjODdhMmZkNDc3@84.200.91.158:443#@AblN
 ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#@awlix_ir
@@ -502,4 +503,3 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=t
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#All--@V2rayAlpha--22
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#@MARAMBASHI ♥
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.33:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
