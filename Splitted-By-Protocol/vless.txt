@@ -8660,7 +8660,6 @@ vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&fp=
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&fp=chrome&type=ws&path=/holhclws?ed%3D2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&encryption=none#@Rayan_Config%2068
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&sni=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&path=/holhclws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none#@Rayan_Config%2067
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2048
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2024
 vless://4710b85a-66e6-411b-b492-0e0f7366ad21@digitalocean.com:443?security=tls&sni=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%203.3
 vless://4710b85a-66e6-411b-b492-0e0f7366ad21@www.visa.com.br:443?security=tls&sni=rAyAn-cOnFiG-fr-2.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-2.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.33
 vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -8697,7 +8696,6 @@ vless://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?security=tls&sni
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2025
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2010
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20100
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2062
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2058
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.105:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2057
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2095
