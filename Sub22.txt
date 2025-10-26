@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@138.186.142.80:990#%3E%3E%40shadowproxy66%3A%3APA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#%3E%3E%40shadowproxy66%3A%3AZA
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933534054736275.arak-drc-tusabx.
 vless://9c621946-3828-4515-e48d-700ff85a7ac1@91.107.165.157:2096?mode=gun&security=reality&encryption=none&pbk=_AgV5FpAe4bYBgY3gvoCpe9v30uLltgruWUPC1HlrxY&fp=chrome&type=grpc&sni=zula.ir#%3E%3E%40FreakConfig%3A%3ADE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AMD
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
