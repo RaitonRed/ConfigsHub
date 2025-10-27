@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%3E%3E%40configV2rayNG%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959558652399004.arak-blkaft-aaao.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862862598.oslo-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:
 vless://7937d663-a3bf-4218-9295-edfa224b72c4@104.21.238.2:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fei.634676.xyz&fp=chrome&type=ws&sni=fei.634676.xyz#%3E%3E%40configV2rayNG%3A%3AUS
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#%3E%3E%40configV2rayNG%3A%3ASE
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.246.235:443?security=reality&encryption=none&pbk=8B1aKLm3jBQ_yf3aUvdagWwxkXHrlRyrzdQVoq17yXI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=8e844109efac63#%3E%3E%40configV2rayNG%3A%3APL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
