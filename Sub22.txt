@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://6322a4bb-84e7-4a83-9f7f-4b9ca9d7be5f@154.38.177.91:443?encryption=none&security=reality&sni=www.google.us&fp=chrome&pbk=KCpC8YeFTDOC3Est2eo3yb1RnKzaRPJVrJAx6fXKAAM&sid=330a0273449ac117&type=grpc&serviceName=97328e3f48f53aad10f0ef8c#%3E%3E%40DailyV2RY%3A%3AUS
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.148.104.253:2096?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40configV2rayNG%3A%3AUS
-vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#%3E%3E%40configV2rayNG%3A%3AXX
-vmess://eyJhZGQiOiIxOTQuMjMzLjczLjE4OCIsImFpZCI6IjAiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjViNmQ2ZTY0LWQ5N2EtNDUyMy05MmIzLTcxN2E0NjFjYzg2MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiI+PkBEYWlseVYyUlk6OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ0Y3AiLCJ2IjoiMiJ9
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40configV2rayNG%3A%3AUS
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2Ftelegram%40freecodes&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40configV2rayNG%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964983138648841.tabriz-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.205.153.107:990#%3E%3E%40free4allVPN%3A%3ACL
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560security%3Dtls&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40configV2rayNG%3A%3AUS
-vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#%3E%3E%40DailyV2RY%3A%3AXX
-vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?security=reality&encryption=none&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ad.mail.ru&sid=a60d#%3E%3E%40v2rayngvpn%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.1.27:990#%3E%3E%40free4allVPN%3A%3AMX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638963987336038022.dublin-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
-vless://e1dcc2f8-0ce5-42d5-964b-c9deea0a066e@193.200.17.251:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=iaDh3yELcXvgVQxS2-ULCBi339vROALja6c7ScIqom0&fp=chrome#%3E%3E%40DailyV2RY%3A%3AXX
-vmess://eyJhZGQiOiIxNjcuMTE0LjE1NS4xOTMiLCJhaWQiOiIwIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMGFlODJkZS1iZDU0LTQ2ZGQtYmE2MC0zYzQwODFhYjRmY2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiPj5ARGFpbHlWMlJZOjpDQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoidGNwIiwidiI6IjIifQ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-aaao.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?type=ws&encryption=none&security=&host=91.99.177.36&path=/linkws?ed=2560&sni=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
@@ -502,4 +484,22 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2076
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2075
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2074
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2073
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2072
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2015
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2071
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2012
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2011
+
+vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
