@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@[2001:19f0:5001:5b:5400:5ff:fe8e:c12]:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#All--@V2rayAlpha--4
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#All--@V2rayAlpha--8
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?security=tls&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW&insecure=1&mport=30101-30199&sni=de.youyacloud.me#All-@IRAN_V2RAY1
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#@Hi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#IR-@V2rayAlpha--5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#✅ @v2ray_configs_pools (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@Peweza2.digipedia.shop:443#telegram 🌟 v2ray_configs_pools
