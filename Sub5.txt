@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?security=none&encryption=none&headerType=none&type=tcp#@Mrconfig_Channel 🩵
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#🇦🇱𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=/vless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=&encrypt
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=none&type=tcp#@v2ray_configs_pools 💜💙
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@95.217.158.184:2020?flow=&type=tcp&headerType=none&security=none#Channel : @vmessorg🏴🏳
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=EdI6cCk0Kn.AaAzZzAaA-89.iNfO&type=ws&alpn=h3h2&host=EdI6cCk0Kn.AaAzZzAaA-89.iNfO&path=/#telegram 🍀 v2ray_configs_pools
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=IlSd1IcIuA.sAlAmGoJaI09-2.iNfO&type=ws&alpn=h3h2&host=IlSd1IcIuA.sAlAmGoJaI09-2.iNfO&path=/#telegram 🌺 v2ray_configs_pools
