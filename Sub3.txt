@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#@HiByeVPNN👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#IR-@V2rayAlpha--5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#✅ @v2ray_configs_pools (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -503,3 +502,4 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@153.121.41.97:4452?security=tls&header
 trojan://ea39fa94f1ee00999337ea1fd3318e69@153.121.41.97:4452?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@meli_proxyy
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.136.130:4452?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇯🇵
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.68.250:5321?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔐 @AblNet7 🇸🇬
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@meli_proxyy
