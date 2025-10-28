@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@V2rayAlpha--4
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@V2ray_Alpha--3
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#telegram--MTMVPN 8
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@IRAN_V2RAY1
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVW1LS0FmZlhVVVhBR3F0cVJDMFY5@138.186.140.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUWVBpMU5rRjR2WktjdHUwWnJySEti@89.185.84.185:443#Channel id: @ShadowProxy66🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM0lsZ0l2Z0FrQWthQkNuMFNVQXNY@77.239.117.121:28694#@Awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYkg5eWFMY2RrWWVYRHFGa3pqRk92@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
