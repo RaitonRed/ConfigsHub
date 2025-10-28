@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://48b943b9-9620-4021-9245-a0458723086d@154.56.121.150:61572/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=lgyQHFjimZzNrNZYMKrGgPLRj6AiGVV0A4eLCMSEMGg&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443/?type=ws&encryption=none&flow=&path=%2Fpanika#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -502,4 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?security=&fp=chro
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20103
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20102
-
