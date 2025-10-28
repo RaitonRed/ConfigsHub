@@ -342,7 +342,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443/?type=grpc&encrypt
 vless://401374e6-df77-41fb-f638-dad8184f175b@184.174.80.250:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@Selinc
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#@vpnserverrr
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?encryption=none&security=none&type=grpc#@Daily_Configs
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--4
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 💔
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
@@ -503,3 +502,4 @@ vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?security=realit
 vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#@vmesskhodam
 vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?security=reality&encryption=none&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=2075#🇬🇧⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
