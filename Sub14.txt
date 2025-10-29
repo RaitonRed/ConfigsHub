@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#All-@V2rayAlpha--30
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#IR-@V2rayAlpha--14
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#All-@V2rayAlpha--25
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#IR-@V2rayAlpha--10
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@bored_vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@mehrosaboran
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&type=grpc#@i10VPN 🚀| با ما متصل بمون⚡
