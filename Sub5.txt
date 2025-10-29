@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://1649e62c-86a8-4fec-bf8c-5803bcfbc1e0@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=vipconfiglines2.com&type=xhttp#[🇳🇱]@configLINE(3)
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.13:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#🇮🇸Telegram@AZARBAYJAB1
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.194:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#🇮🇸Telegram@AZARBAYJAB1
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.29:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#🇮🇸Telegram@AZARBAYJAB1
@@ -502,4 +503,3 @@ vless://29d509e4-97c6-41a4-affa-bee6457aac14@45.143.200.183:443?security=reality
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@45.143.200.183:443?security=reality&encryption=none&pbk=8Cmcg6rDk5dmwyP8fv5-chav3sTP8q5sQvdw-7yadw8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ch.nosok-top.com&sid=9c2378562188c3cb#@MARAMBASHI 🐳
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@45.143.200.183:443?security=reality&encryption=none&pbk=8Cmcg6rDk5dmwyP8fv5-chav3sTP8q5sQvdw-7yadw8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ch.nosok-top.com&sid=9c2378562188c3cb#@meli_proxyy
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@78.40.111.177:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=es.nosok-top.com&pbk=m_bAqO_HICu18pgxQ_xUYzbxL1XyvF984N609-0Gyjg&sid=9c2378562188c3cb&spx=/#🇪🇸@meli_proxyy
-vless://29d509e4-97c6-41a4-affa-bee6457aac14@78.40.111.177:443?security=reality&encryption=none&pbk=m_bAqO_HICu18pgxQ_xUYzbxL1XyvF984N609-0Gyjg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=es.nosok-top.com&sid=9c2378562188c3cb#🏴‍☠️@FreakConfig
