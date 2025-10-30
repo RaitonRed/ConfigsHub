@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-24
+vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-21
 vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-23
 vless://SVNTEAM4@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-26
 vless://SVNTEAM4@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-25
@@ -501,5 +503,3 @@ vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@147.45.49.152:443?security=reality&
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@178.17.51.244:443?security=reality&encryption=none&pbk=aRrd26dr3NpWcjDkVNSpF2NXm8MMmHOJOdnJ4gpJAQI&headerType=none&fp=chrome&spx=/kuBv3UPpJNvScHj&type=tcp&flow=xtls-rprx-vision&sni=firebase.com:&sid=dfc72e0fd67b4532#@meli_proxyy
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@5.34.214.44:443?security=reality&encryption=none&pbk=qzf9kurbZs-8LO0gvSStuq3BsxGT8ME591Yuemv05DU&headerType=none&fp=chrome&spx=/K42rhL7Za16ONC4&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=f4a08c1ee0c202#@meli_proxyy
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#🇫🇮[Telegram:NetifyVPN]
-vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&headerType=none&fp=chrome&spx=/pvps6lk7syTcWoB&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#@meli_proxyy
-vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@64.188.74.120:443?security=reality&encryption=none&pbk=UKUZheV6-Ddtby0JfuazU4kb5swl2w6yoBEloV6k1Wc&headerType=none&fp=chrome&spx=/pvps6lk7syTcWoB&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=baeddc986348#MTMVPN ⚡

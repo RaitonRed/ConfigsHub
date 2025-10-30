@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://2f27d301-2947-4655-b4a2-75fe8bbda77f@138.68.147.150:8880?encryption=none&security=none&type=ws&path=/#@Daily_Configs
+vless://2f27d301-2947-4655-b4a2-75fe8bbda77f@138.68.147.150:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=none&encryption=none&type=ws#🇬🇧[Telegram:NetifyVPN]
 vless://2f27d301-2947-4655-b4a2-75fe8bbda77f@138.68.147.150:8880?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://2f27d301-2947-4655-b4a2-75fe8bbda77f@138.68.147.150:8880?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1847322482127720
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#@Geek_Spot
@@ -501,5 +503,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.93:80?mode=gun&security
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 😶‍🌫️
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?mode=gun&security=none&encryption=none&type=grpc#All--@V2rayAlpha--26
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--18
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?mode=gun&security=none&encryption=none&type=grpc#🇺🇲TM 💕@AZARBAYJAB1 💕 GPRS
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?mode=gun&security=&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
