@@ -4,10 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.96:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2035
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.93:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2034
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2033
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20103
@@ -503,3 +499,7 @@ vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?path=%2F&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929376530.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970074254358453.oslo-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://02334dc7-5535-4909-a972-07d1d937ea3f@80.242.56.200:8444?security=reality&encryption=none&pbk=o2jxNDCcRkxW9uur_7MAcnr2umdiRUBfNEKu1bONcnk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
