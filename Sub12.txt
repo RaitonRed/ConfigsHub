@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=/&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#@vmesskhodam
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?path=/?ed=2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#Channel-@vmesskhodam
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
@@ -501,5 +503,3 @@ vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?encryption=no
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?encryption=none&security=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#t.me/entryNET/config=1847498652809982
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇦🇲[Telegram:NetifyVPN]
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=&encryption=none&headerType=none&type=tcp#🌴🌴🪾3
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
