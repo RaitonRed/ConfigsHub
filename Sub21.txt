@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://Parsashonam-287@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%BE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://756faf87-c6b2-404f-851f-91de98186531@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ALERt-PrOPerty.OnEEAT.CO&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://Parsashonam-289@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B2%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fzmgbizws&security=tls&encryption=none&host=638886055652728185.warsaw-prx-dnraaao.info&type=ws&sni=638886055652728185.warsaw-prx-dnraaao.info#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 🇬🇸ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%87%AC%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -503,3 +501,5 @@ vless://3e9761ac-98cf-4e73-a04c-9439e4d451b1@167.17.70.41:8443?encryption=none&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.15:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.119:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
+vless://93d083df-687f-47f6-b72f-4d66dd555708@147.93.184.37:443?encryption=none&security=reality&sni=www.google.com&fp=safari&pbk=TmgrGZmL1ApnHm5QADS3fqwPK68UT5UPo0sKI7Cnyx0&sid=6b6a755c2fe57f9f&type=grpc&serviceName=ae025fe0c98481d87a29ea55#%3E%3E%40DailyV2RY%3A%3AUS
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
