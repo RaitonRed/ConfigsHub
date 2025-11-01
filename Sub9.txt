@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://6446b629-b33f-4886-9678-d24baa6def7e@m39a.vip784.com:33801/?encryption=none&host=varzesh3.ir&type=tcp&headerType=http#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://6446b629-b33f-4886-9678-d24baa6def7e@m39a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@meli_proxyy
 vless://6446b629-b33f-4886-9678-d24baa6def7e@m39a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#limo
 vless://6446b629-b33f-4886-9678-d24baa6def7e@m39a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇷
@@ -503,3 +502,4 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.8:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.9:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=medcezir5.global.ssl.fastly.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 @Evay_vpn
+vless://787979c0-3691-4612-86a1-e0f1101d5eb2@141.227.170.131:39113?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@HiByeVPNN👈⚡❤️‍🔥

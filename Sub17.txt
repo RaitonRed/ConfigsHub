@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@vpnserverrr کانال تلگرامی
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@V2RAYROZ
@@ -503,3 +502,4 @@ vless://eb9e1c19-ab69-4ba5-8bd8-571bc1edc7f6@speedtest.net:80?type=xhttp&path=/J
 vless://ebab6efe-5627-48f6-8b11-22d0a113c1d3@npmjs.com:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=xzxcxzs.pages.dev&fp=chrome&type=ws&sni=xzxcxzs.pages.dev#@Daily_Configs
 vless://ebab6efe-5627-48f6-8b11-22d0a113c1d3@npmjs.com:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=xzxcxzs.pages.dev&fp=chrome&type=ws&sni=xzxcxzs.pages.dev#@MARAMBASHI 💔
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@V2rayNG3
+vless://ec00ddf3-6145-4db3-caa5-f6a0c5843e14@www.speedtest.net:2082?mode=auto&path=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&security=&encryption=none&host=Q-mars.amin-1.ir&type=xhttp#Telegram : @VPN_ROOM 🇩🇪

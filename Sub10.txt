@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://787979c0-3691-4612-86a1-e0f1101d5eb2@141.227.170.131:39113?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@HiByeVPNN👈⚡❤️‍🔥
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@104.16.1.106:2082?path=/?ed=2052&security=none&encryption=none&host=mrdnzdtnbkwbdfsqoncu.yaSharTeam.com.&type=ws#@v2ray_configs_pools❤️‍🔥⚡
 vless://78cd6075-2e30-41f6-9b50-cd4da39a4895@Zula.ir:8880?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.Web.tr.&security=none#Binextify⭐-n19aqws30
@@ -503,3 +502,4 @@ vless://97e4c41d-2a20-4638-9c3d-a918720e5c80@deadseectelegram.khasispc.ir:443?se
 vless://97e4c41d-2a20-4638-9c3d-a918720e5c80@deadseectelegram.khasispc.ir:443?security=reality&encryption=none&pbk=U593zOEZ2sAAD_NXXxAwj9Ez-eIzfXbZPZglX1K6PzM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=8be6aa26#@V2RAYROZ
 vless://97fc44dd-c88c-4470-8d66-1752089c0183@104.16.53.11:2053?path=/?ed&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=frAgeU2.cpI2HIdd.eu.ORG#@meli_proxyy
 vless://97fc44dd-c88c-4470-8d66-1752089c0183@104.16.53.11:2053?type=ws&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=frAgeU2.cpI2HIdd.eu.ORG&alpn=h2,http/1.1#🇩🇪 | @Evay_vpn
+vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995?security=&encryption=none&headerType=none&type=tcp#@Mrconfig_Channel 🩵
