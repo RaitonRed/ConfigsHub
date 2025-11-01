@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://93d083df-687f-47f6-b72f-4d66dd555708@147.93.184.37:443?encryption=none&security=reality&sni=www.google.com&fp=safari&pbk=TmgrGZmL1ApnHm5QADS3fqwPK68UT5UPo0sKI7Cnyx0&sid=6b6a755c2fe57f9f&type=grpc&serviceName=ae025fe0c98481d87a29ea55#%3E%3E%40DailyV2RY%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.7:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.186:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-5759
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0260
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0216
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0221
