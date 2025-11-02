@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vmess://eyJhZGQiOiIxMDQuMjUwLjIzOS4zMiIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJiMmRhOTkyMC1iMGE3LTQzNTQtOWUyNi0zODMzYWI4ZDAwZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6Mzc5MzQsInBzIjoi4p2MRnJlbW9udC1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0=
 
 vmess://eyJhZGQiOiIxMDQuMjUwLjIzOS4zMiIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJjMDlmMTNjZS0yY2NhLTQ5YjYtYWQxZS01OTc1NjZjYzg5YzYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6Mzc5MzQsInBzIjoi4p2MRnJlbW9udC1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0=
 
@@ -502,4 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.2:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%2045
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
