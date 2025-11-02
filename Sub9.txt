@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#MCI-@IRAN_V2RAY1
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#MTN-@IRAN_V2RAY1
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱[ @EXPRESSVPN_420
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=&encryption=none&host=crazy-identity.oneeat.co&type=ws#MCI-@V2ray_Alpha--14
@@ -502,4 +503,3 @@ vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?encryption=none&se
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=/linkws?ed&security=none&encryption=none&host=91.99.177.36&type=ws#@Hddify
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=/linkws?ed&security=none&encryption=none&host=91.99.177.36&type=ws#@meli_proxyy
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=/linkws?ed&security=none&encryption=none&host=91.99.177.36&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://77f806f0-8f87-4c01-8e07-c88d52092e92@cs2.film2serial.cloud:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&sni=cs2.film2serial.cloud#🇩
