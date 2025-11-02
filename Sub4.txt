@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://telegram-id-privatevpns@52.213.245.214:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1847621330544441
 trojan://telegram-id-privatevpns@63.177.202.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1847664108041796
 trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2825 | Germany
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#telegram:@awlix_ir
@@ -503,3 +502,4 @@ vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?encryption=none&
 vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?path=/snippets&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?path=/snippets&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@meli_proxyy
 vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?path=/snippets&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#Channel : @Mrsoulb 🏴🏳
+vless://12345678-1234-1234-1234-123456789123@185.156.19.61:2096?path=/snippets&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#✅ @vistav2ray  👈👈کانال ما
