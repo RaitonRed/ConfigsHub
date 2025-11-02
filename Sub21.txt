@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://466cdb16-8d8a-46f8-b61d-fcd226a820fd@fin01-vlr02.tcp-reset-club.net:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=175d#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3Fv2raycartel%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40selinc%20%5B6%5D
 vless://7045ed78-d73c-43f1-9ba5-9e20c704ac88@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40server_nekobox%20%5B4%5D
 vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOSBDRiB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEBzZXJ2ZXJ2MnJheTAwIFsxOF0ifQ
@@ -503,3 +502,4 @@ vless://c14eb4f9-1ab2-4e4e-b75c-a3adc96d2884@104.21.27.126:2052?path=%2Faq35J2RB
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&encryption=none&headerType=none&type=tcp&sni=vpn-srv-2.circlevpn.net#🏀70@ConfigV2RayNG::FR
 vless://cb796646-d528-4b96-9984-86dbceed95ad@104.21.16.1:443?path=%2F&security=tls&encryption=none&host=DD3A34A9.bPB1-1TS.PaGeS.DEV&fp=random&type=ws&sni=DD3A34A9.bPB1-1TS.PaGeS.DEV#@V2RAY_VMESS_free::US
 vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2RAY_VMESS_free::FR
+vless://c4c784a2-a62f-407e-98d2-c80b2730ba49@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=smart.soft98-ir-download-ir-cdn-ir-irancell-ir-mci-ir.site&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.soft98-ir-download-ir-cdn-ir-irancell-ir-mci-ir.site&encryption=none#>>@DailyV2RY::DE
