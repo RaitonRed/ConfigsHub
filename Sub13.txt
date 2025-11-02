@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&sid=a36c0f&type=tcp&headerType=none#@Daily_Configs
 vless://c709d7a4-35b4-469c-b0f3-b8fd92614b65@world-of.ru:8443?security=reality&encryption=none&pbk=WvzrHrw813BCSgvVSB4plCU_EQo1_URrC_fi4SjktUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a36c0f#All--@V2rayAlpha--43
 vless://c77af948-3e74-435f-b5bf-2469cf60cfff@212.134.84.108:443?security=reality&encryption=none&pbk=b-eNFWwd6a1LTKon3gGfRugiGC2CpIRdjn8Y557QWSY&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--@JKVPN&type=tcp&sni=pcmag.com&sid=fd#t.me/entryNET/config=1847559049344025
 vless://c7c8a2f3-d24e-44e9-a3a6-e41099cb1cd5@speedtest.net:80?type=xhttp&path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=p30download.ir&mode=auto&security=none#سرورهای رایگان کانال @HAJIMAMADVPN-7
@@ -502,4 +503,3 @@ vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&headerType=none&type=tcp#limo
 vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&headerType=none&type=tcp#✅ @vistav2ray  👈👈کانال ما
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&headerType=none&type=tcp&path=/@V2ray_confing33/#@V2ray_confing33
