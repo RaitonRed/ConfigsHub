@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?mode=gun&security=none&encryption=none&authority=Joi-_T&type=grpc#t.me/entryNET/config=1847728281320752
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?mode=gun&security=none&encryption=none&type=grpc#All--@V2ray_Alpha-29
@@ -503,3 +502,4 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tl
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#MCI-@V2rayAlpha--19
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#MCI-@V2ray_Alpha--6
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#join Sho @Iran_V2ray1
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#@HiByeVPNN👈⚡❤️‍🔥
