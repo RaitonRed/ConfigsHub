@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?type=ws&encryption=none&path=/&host=&security=none#@V2rayNG3
 vless://392c6f4c-bff4-4fec-ab1e-c68673457616@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/JoinBedeee----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#All-@V2RayFa
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=/&security=&encryption=none&type=ws#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=/&security=none&encryption=none&type=ws#@Daily_Configs
@@ -503,3 +502,4 @@ vless://45c43c10-c347-4808-98d8-288b7c1c19fd@151.101.3.8:80?path=/-LiV2ry@LIGHTN
 vless://45c43c10-c347-4808-98d8-288b7c1c19fd@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#r♡ya
 vless://45c43c10-c347-4808-98d8-288b7c1c19fd@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://45d44338-30d2-439c-b765-90cb16f581c9@www.speedtest.net:80?path=/?ed=2560&security=none&alpn=h3,h2,http/1.1&encryption=none&host=broad-lake-d615.hegegi9101.workers.dev&fp=chrome&type=ws&sni=broad-lake-d615.hegegi9101.workers.dev#@meli_proxyy
+vless://45dc0b5f-143e-4a31-8ed0-49746409a10b@v11.gaterserver.ir:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#telegram 🎪 v2ray_configs_pools
