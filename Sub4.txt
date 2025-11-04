@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://x0plLSzZZI@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2rayNG3
 tuic://10822856-7452-43ec-b35b-6f24ea33530f:10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:23887?congestion_control=cubic&udp_relay_mode=native&alpn=h3&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
 tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
@@ -502,4 +503,3 @@ vless://1649e62c-86a8-4fec-bf8c-5803bcfbc1e0@test.fast.hosting-ip.com:80?mode=au
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.13:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#🇮🇸Telegram@AZARBAYJAB1
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.194:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#🇮🇸Telegram@AZARBAYJAB1
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.29:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#🇮🇸Telegram@AZARBAYJAB1
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.49:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#🇮🇸Telegram@AZARBAYJAB1
