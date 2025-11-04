@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+hysteria2://4VDmo53kWX@185.219.81.33:20675?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal
 hysteria2://4VDmo53kWX@185.219.81.33:50757?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
 hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443?insecure=1&sni=us11.588878.xyz&obfs=salamander&obfs-password=jjQQP9Av2l6BRdP5#All-%40V2rayAlpha--6%20%231
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.40:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#MCi--%40IRAN_V2RAY1
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RXJNM21aMjJZRlFzcFhWd1g1N3hx@103.113.68.27:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#Channel id: @ShadowProxy66 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#🇹🇷TM (@AZARBAYJAB1)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Y2FTTG0wVU9FRmlid3dYZG9BWVVR@62.133.61.35:61227#@daredevill_404
