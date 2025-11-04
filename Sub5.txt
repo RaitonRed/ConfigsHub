@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://0882a150-746a-4ba7-81b8-7922511894c5@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://08966ca9-496e-4864-bc6c-84d4d8ca5592@185.113.10.43:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#m15pz4lx
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@104.254.140.59:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.194.148.10:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪AZARBAYJAB1
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.196.171.187:25670?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
@@ -503,3 +501,5 @@ vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-de4-cdn.fastfilecdn.org:2052?pa
 vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-fr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fr4-cdn.fastfilecdn.org&fp=chrome&type=ws#@meli_proxyy
 vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-fr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fr4-cdn.fastfilecdn.org&fp=chrome&type=ws#telegram @MTMVPN
 vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-fr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fr4-cdn.fastfilecdn.org&fp=chrome&type=ws#🇫🇷@FreakConfig
+vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-fr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fr4-cdn.fastfilecdn.org&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-pl4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-pl4-cdn.fastfilecdn.org&fp=chrome&type=ws#@meli_proxyy
