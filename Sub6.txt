@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-tr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-tr4-cdn.fastfilecdn.org&fp=chrome&type=ws#@meli_proxyy
 vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-uk4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&fp=chrome&type=ws#@meli_proxyy
 vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-uk4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&fp=chrome&type=ws#telegram @MTMVPN
 vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-uk4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&fp=chrome&type=ws#🇬🇧@FreakConfig
@@ -503,3 +502,4 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/?TELEGRAM-v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools 💜💙
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/@V2rayBaaz---@v2ray_configs_pools---@v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2v2ray_configs_pools=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel-@vmesskhodam
