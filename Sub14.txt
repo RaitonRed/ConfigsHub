@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-15.access.name.ng&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=lease-15.access.name.ng#🇬🇧 | @Evay_vpn
-vless://cce00af5-023c-425e-a5df-5bf8a5a5ae2b@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?path=/Telegram@V2ray_Alpha/?ed=2550&security=tls&encryption=none&host=cr7.medicaldream.ir&fp=chrome&type=ws&sni=cr7.medicaldream.ir#@V2rayNG3
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@15.223.180.240:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737&fp=chrome&spx=/#telegram 🍊 v2ray_configs_pools
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@15.223.83.61:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737&fp=chrome&spx=/#telegram 🌈 v2ray_configs_pools
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.168:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?encryption=none&security=none&type=grpc&note=@freeOnlineVPN#🇫🇮 - FI - @freeOnlineVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880/?type=grpc&encryption=none#تو کانال نتورلد نباشید قطع میشن@networld_vpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
