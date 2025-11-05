@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://1b715b44-fcaf-4935-b192-78a32456e557@5.75.196.88:19035?security=none&encryption=none&host=Join------------&headerType=none&type=tcp#t.me/entryNET/config=1847897520880916
 vless://1b715b44-fcaf-4935-b192-78a32456e557@5.75.196.88:19035?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
 vless://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=/Telegram,@v2ray_configs_pools/Telegram,%4#telegram 🍊 v2ray_configs_pools
 vless://1b90769e-a1a2-4610-9d26-5a2857f5ff88@95.134.130.146:1331?encryption=none&type=xhttp&mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&fp=chrome&sni=stackoverflow.com&pbk=m8Tuf48MMB9ILy--1nfwGRPJOEbgHOdylaLS_JQ66DM&sid=89345bea5809f46d#🇹🇷 All Operator @MaSTeRSeRVeR1
@@ -503,3 +502,4 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443/?encryption=none&
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443/?encryption=none&host=account.zula.ir&type=tcp&headerType=http#@Geek_Spot
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
 vless://2eb227e7-dcb2-4434-8e19-b3177939fe84@free2.behnambani.blog:8880?mode=auto&path=/SeyyedmT-SeyyedMT-SeyyedMT-SeyyedmT-SeyyedMT-SeyyedMT-SeyyedmT-SeyyedMT-SeyyedMT&security=reality&encryption=none&pbk=9s9c-3kWlrWIOlrDzCADQgvoSDxjIM7jALKVSZq8oxA&host=free1.behnambani.blog&fp=chrome&spx=/&type=xhttp&sni=microsoft.org&sid=2db7#azadiiivpn ⁹🎀
+vless://2ec7fd5d-5303-4999-a7ca-82a3a84721bb@joinmychannel.revolution-time.sbs:8443?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=9QWr4sQYk_lcF1wKbxvJQcKiylCtleP7ZKqyYFq5_nQ&spx=/&type=grpc&authority=&serviceName=Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=gun#@Daily_Configs : کانال تلگرام
