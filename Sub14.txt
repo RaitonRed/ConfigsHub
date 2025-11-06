@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://ce8c4726-cfab-429d-943d-fe075733bc85@zula.ir:2095?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#@TEHRANARGO
 vless://ce8c4726-cfab-429d-943d-fe075733bc85@zula.ir:2095?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#@bored_vpn
 vless://ce9751a0-fee7-402a-a887-bdc5f7bd1093@45.144.31.234:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ceaee3f1-a36e-41f9-991e-713d00986081@91.98.68.60:2020?security=reality&encryption=none=@&pbk=FCTw1Jobo6_Da8-NRPN0H4JSNbt7GRww2VFjTyJQshY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@mehrosaboran
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.80:8880/?type=grpc&encryption=none#@networld_vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.80:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.80:8880?mode=gun&security=none&encryption=none&type=grpc#@r♡ya@V2rayBaaz
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.80:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮@FreakConfig
