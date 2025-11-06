@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@209.38.97.113:2096?mode=multi&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@209.38.97.113:2096?mode=multi&security=none&encryption=none&authority=Join--_T&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@209.38.97.113:2096?mode=multi&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@209.38.97.113:2096?mode=multi&security=none&encryption=none&type=grpc#limo
@@ -503,3 +502,4 @@ vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:993?security=reality&en
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.8:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=E1iFYUiUC2G4W70mwPyfa9oV3EVt26SfZoLcqd2yaUI&sid=#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@185.77.221.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=hxPcjUR-8QiEhcFdvvJz3JS4xUnoSv6KsxMWG0yGkh0&type=tcp&headerType=none#@Daily_Configs
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@185.77.221.10:443?security=reality&encryption=none&pbk=hxPcjUR-8QiEhcFdvvJz3JS4xUnoSv6KsxMWG0yGkh0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇺🇲@FreakConfig
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@193.31.127.10:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=ehRbIcN9HhqjhReY1pjqIBGqHCbdY26Kq70_w7k4jgY&type=tcp&headerType=none#@Daily_Configs
