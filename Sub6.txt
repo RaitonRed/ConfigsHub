@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@V2RAYROZ
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@V2rayNGVPN <= کانفیگ رایگان
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@meli_proxyy
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#Channel : @Mrsoulb 🏴🏳
@@ -502,4 +503,3 @@ vless://39872609-4ced-42c7-aca4-14081ba7e073@api1.uploadsho.com:443?path=/upload
 vless://39872609-4ced-42c7-aca4-14081ba7e073@api2.uploadsho.com:443?path=/upload/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=fr.uploadsho.com&fp=chrome&type=ws&sni=fr.uploadsho.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://39872609-4ced-42c7-aca4-14081ba7e073@api2.uploadsho.com:443?path=/upload/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=fr.uploadsho.com&fp=chrome&type=ws&sni=fr.uploadsho.com#@meli_proxyy
 vless://39872609-4ced-42c7-aca4-14081ba7e073@tr2.hosmci.com:8880?security=none&seed=Hs5xtwTnIM&encryption=none&headerType=wireguard&type=kcp#@V2rayNGVPN <= کانفیگ رایگان
-vless://39872609-4ced-42c7-aca4-14081ba7e073@tr2.hosmci.com:8880?security=none&seed=Hs5xtwTnIM&encryption=none&headerType=wireguard&type=kcp#@meli_proxyy

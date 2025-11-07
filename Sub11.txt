@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🐺
 vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 💜
 vless://918e7a39-55ed-4e02-bfbd-200fe05f4f67@91.107.245.187:443?security=reality&encryption=none&pbk=ef-D_vj3646C74h-JApFZBSAT3iB4uxqIqIfOsWRbRI&fp=chrome&spx=/&type=grpc&serviceName=telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ&sni=preview.redd.it&sid=e7effd#Reality21 |@SpringHQ
@@ -502,4 +503,3 @@ vless://a6ace578-6105-4103-ad31-32a7a668e07b@65.109.220.74:55432?type=ws&encrypt
 vless://a6b02202-a87a-4a79-b186-a7f59b989556@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=/FASTSHOVPN?ed&security=&encryption=none&host=FASTSHOVPNTELEGRAMMM.COM&type=xhttp#telegram 🌟 v2ray_configs_pools
 vless://a6b02202-a87a-4a79-b186-a7f59b989556@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=/FASTSHOVPN?ed&security=&encryption=none&host=FASTSHOVPNTELEGRAMMM.COM&type=xhttp#telegram 🍊 v2ray_configs_pools
 vless://a6b02202-a87a-4a79-b186-a7f59b989556@v2ray_configs_poolsTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=/v2ray_configs_pools?ed&security=&encryption=none&host=FASTSHOVPNTELEGRAMMM.COM&type=xhttp#telegram 🚀 v2ray_configs_pools
-vless://a6c69c91-197c-42f1-8972-5af324c9d7c9@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=aoijji.global.ssl.fastly.net&type=xhttp#[🇳🇱]@configLINE(4)
