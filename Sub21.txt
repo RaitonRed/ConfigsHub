@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://756faf87-c6b2-404f-851f-91de98186531@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ALERt-PrOPerty.OnEEAT.CO&type=ws#%F0%9F%87%B3%F0%9F%87%B1%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://Parsashonam-289@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B2%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fzmgbizws&security=tls&encryption=none&host=638886055652728185.warsaw-prx-dnraaao.info&type=ws&sni=638886055652728185.warsaw-prx-dnraaao.info#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 🇬🇸ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%F0%9F%87%AC%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE2IiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwi
 
 vmess://eyJhZGQiOiI0NS42Ni4xMS41MCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiI0ZWM2NmQ4MS05NTY1LTRkOGUtYWU1OC0yYmFjZmRlOTVmNDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6NDQ3NDksInBzIjoiUG96bmFuLUdldEFGcmVlTm9kZSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
 
-vmess://eyJhZGQiOiI0NS42Ni4xMS41MCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiI0ZjNjZmRhMy1hMjU1LTQwZWItODgwMS03MWY5ZmZmYjE5ZDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6NDQ3NDksInBzIjoiUG96bmFuLUdldEFGcmVlTm9kZSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9

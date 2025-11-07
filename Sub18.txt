@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/?v2raycartel?ed=512&security=tls&alpn=h3,h2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#Channel : @Mrsoulb 🏴🏳
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#MCI-@IRAN_V2RAY1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#MCI-@V2ray_Alpha--14
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiI0Ny4yNTMuNzAuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI1LjE4MC4zMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODU5OCIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI1LjE4MC4zMC4xNDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjIzNDcyMzktZGQxNS00MGIzLWI2ODMtNTBjYzJmZjE5YWU3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNzc3MyIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI1LjE4Mi4zOC4xMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNkbi56aWZmc3RhdGljLmNvbSIsImlkIjoiNWMxYmIwZjktYWFiZS00ZTJkLTlhNWYtMDNjNjAwZWIyNjA3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAwMCIsInBzIjoiW/Cfh63wn4e6SFVdIEBHZWVrX1Nwb3QgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI1LjE4OC4yMDAuMjI0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6ImVlLTEuc3R1bm5lbC5jYyIsImlkIjoiMzUzMTIwMzUtMzMyMC00OTM5LWEwMzUtMzcyMDMxMzAzMjIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6InRlbGVncmFtLUBJU1Z2cG4iLCJzY3kiOiJub25lIiwic25pIjoiZWUtMS5zdHVubmVsLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
