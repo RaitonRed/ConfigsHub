@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?encryption=none&type=ws&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇳🇱 @EVAY_VPN
 vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?encryption=none&type=ws&path=/?ed=2048@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&security=none#r♡ya
 vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?path=/&security=&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?path=/&security=&encryption=none&type=ws#🇳🇱@FreakConfig
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?note=---Telegra
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?encryption=none&type=grpc&mode=gun&security=none#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?mode=gun&security=&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?mode=gun&security=&encryption=none&type=grpc#@V2ray_confing33
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
