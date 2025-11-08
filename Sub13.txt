@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@81.91.179.17:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=&encryption=none&type=ws#🇳🇱[Telegram:NetifyVPN]
 vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?encryption=none&type=ws&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇳🇱 @EVAY_VPN
 vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?encryption=none&type=ws&path=/?ed=2048@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&security=none#r♡ya
 vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?path=/&security=&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
@@ -96,6 +95,7 @@ vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@de.nitroo-tech.ru:443?security=real
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@de.nitroo-tech.ru:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#🇩🇪@FreakConfig
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&encryption=none&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws/?ed&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome#Awlix_ir
 vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?allowInsecure=0&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#--11
 vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#WiFi-@V2ray_Alpha--11
 vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
