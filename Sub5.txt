@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@ita01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#telegram 🌟 v2ray_configs_pools
 vless://0ec1237a-df5c-40a6-9a0a-295dcff88d56@193.46.81.151:50853?encryption=none&security=reality&sni=miro.com&fp=chrome&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&sid=69&type=tcp&headerType=none#@Daily_Configs
 vless://0ec1237a-df5c-40a6-9a0a-295dcff88d56@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#@v2rayfast_7❤️‍🔥1
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@188.114.96.3:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&type=ws&sni=net2026cd.zanddynastyofpersia.org#@HiByeVPNNBot 👈🌿💎
@@ -502,4 +503,3 @@ vless://284105c3-1f7c-48b9-a5cc-345b534ade5c@151.101.3.8:80?path=/-LiV2ry@LIGHTN
 vless://284105c3-1f7c-48b9-a5cc-345b534ade5c@G0dv2ray.fast.hosting-ip.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 @G0dv2ray
 vless://284105c3-1f7c-48b9-a5cc-345b534ade5c@srcvpn.fast.hosting-ip.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 Telegram @SRCVPN
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
