@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://3c1a04bb-165a-476d-af02-3dc5590f8742@91.98.22.20:22933?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇩🇪 | @External_Net
 vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@194.53.53.16:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#All-@V2rayAlpha--18
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@195.245.221.246:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#All-@V2rayAlpha--19
@@ -503,3 +502,4 @@ vless://48d51674-9a5e-408d-975e-b2eb4f297c22@95.217.212.135:8443?security=realit
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#telegram 🎯 v2ray_configs_pools
 vless://491f0cb0-c90d-49d5-8339-5bfc48e7bd00@syntax.leaksfa.com:2589/?encryption=none&host=myket.ir&type=tcp&headerType=http#@Geek_Spot
 vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?security=reality&encryption=none&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=2ed15414d2#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://492b848c-ab2c-4f88-aa40-c8981dc284dd@adsv20.gatesrover.ir:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=chatgpt.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#telegram 🌟 v2ray_configs_pools
