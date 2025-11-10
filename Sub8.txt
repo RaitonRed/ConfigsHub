@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#IR--@V2ray_Alpha-9
 vless://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#t.me/entryNET/config=1848418453642424
 vless://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#🇩🇪@FreakConfig
 vless://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&encryption=none&security=none#@V2rayNG3
@@ -503,3 +502,4 @@ vless://61dc128e-d2ec-488e-a5c3-ad6f07d04b13@am288.amin-1.ir:2082?type=xhttp&enc
 vless://6206bf1d-068d-4186-9eee-d534a01cb98e@kazakhstan22.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kazakhstan22.clearorbitllc.com&fp=chrome&pbk=fHpH9g6a4LZOICjPOq7yFgqKWNG5a_idjfoDBGk_OwQ&sid=aee3&type=tcp&headerType=none#@Daily_Configs
 vless://6206bf1d-068d-4186-9eee-d534a01cb98e@kazakhstan22.clearorbitllc.com:443?security=reality&encryption=none&pbk=fHpH9g6a4LZOICjPOq7yFgqKWNG5a_idjfoDBGk_OwQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kazakhstan22.clearorbitllc.com&sid=aee3#@Selinc
 vless://62123270-580c-40d7-aafd-0641075e21d6@38.180.120.110:8443?security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=n5_Q9uOsy2vxOB0rDLd_zufmEcSkF_m_CEubQXQ-vwQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=wikipedia.org&sid=346799#@TEHRANARGO 🌕 اینجا باشی قطع نمیشی
+vless://624c4065-f2c9-49d9-9a9d-be0182ed4c25@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-Test
