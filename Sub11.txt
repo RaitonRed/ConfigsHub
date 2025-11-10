@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#@vmesskhodam
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
 vless://Bia-DailyConfigs@104.21.2.155:80?encryption=none&security=none&type=xhttp&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.vigilante.ir.&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=packet-up#@Daily_Configs : کانال تلگرام
 vless://Bia-DailyConfigs@104.21.2.155:80?mode=packet-up&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&security=&encryption=none&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.vigilante.ir.&type=xhttp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
@@ -503,3 +502,4 @@ vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=r
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@cc.cybsecguru.com:443?encryption=none&security=tls&sni=jnir-cdn.jnir.my&fp=chrome&type=ws&host=jnir-cdn.jnir.my&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560#@Daily_Configs
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@cc.cybsecguru.com:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=jnir-cdn.jnir.my&fp=chrome&type=ws&sni=jnir-cdn.jnir.my#🇩🇪@FreakConfig
+vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=jnir-cdn.javidnaman.com&type=ws&sni=jnir-cdn.javidnaman.com#@IRAN_V2RAY1
