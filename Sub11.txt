@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#🇸🇪[Telegram:NetifyVPN]
-vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#Channel : @Mrsoulb 🏴🏳
 vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#telegram @MTMVPN 38
 vless://8bc1deee-1136-4533-f5d0-0b5751803107@host17.sheydayeman.nl:8880?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://8bc1deee-1136-4533-f5d0-0b5751803107@host17.sheydayeman.nl:8880?path=/&security=&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
@@ -503,3 +501,5 @@ vless://TELEGRAM-CONFiGLiNE-16@test.fast.hosting-ip.com:80?mode=auto&path=/teleg
 vless://TELEGRAM-CONFiGLiNE-16@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=panelvipasli.io&type=xhttp#[🇩🇪]@configLINE
 vless://TELEGRAM-CONFiGLiNE-17@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=vipnufilterasli.com&type=xhttp#@V2RAYROZ
 vless://TELEGRAM-CONFiGLiNE-17@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=vipnufilterasli.com&type=xhttp#[🇩🇪]@configLINE(2)
+vless://TELEGRAM-CONFiGLiNE-18@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=panelvipasli.io&type=xhttp#@bored_vpn
+vless://TELEGRAM-CONFiGLiNE-18@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=panelvipasli.io&type=xhttp#@confiig_hub
