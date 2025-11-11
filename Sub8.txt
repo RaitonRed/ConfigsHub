@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://45bcfec7-043d-4f32-91d6-127016a4ca8c@its.securebrowsing.top:443?security=none&encryption=none&headerType=none&type=tcp#All🇩🇪@Rk_VPS
 vless://45bcfec7-043d-4f32-91d6-127016a4ca8c@its.securebrowsing.top:443?security=none&encryption=none&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp#All🇩🇪@JKVPN
 vless://45c43c10-c347-4808-98d8-288b7c1c19fd@151.101.3.8:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#@V2RAYROZ
 vless://45c43c10-c347-4808-98d8-288b7c1c19fd@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#@V2ray_confing33
@@ -503,3 +502,4 @@ vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@usa-raiv2mmr-Telegram.koyeb.app:443
 vless://5ca1c236-ead9-40c5-88ec-4ff8e450bdd9@91.99.175.87:443?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5cbd735a-b9f4-44a9-9e7a-818853b05ab2@185.197.182.18:23590?mode=auto&path=/&security=reality&encryption=none&pbk=uTgCcEmxWXISjCBvsZLBRGASA6ZM0sckmnlTtgqzOgE&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=ea5b1f87#@sunflowerplato🌻
 vless://5cbd735a-b9f4-44a9-9e7a-818853b05ab2@185.197.182.18:23590?mode=auto&path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=reality&encryption=none&pbk=uTgCcEmxWXISjCBvsZLBRGASA6ZM0sckmnlTtgqzOgE&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=ea5b1f87#@HiByeVPNN👈⚡❤️‍🔥
+vless://5cc64f74-013c-4f2f-8d3b-f02db4e84e52@51.195.92.49:80?flow=&type=ws&host=lunavow5d444ef.global.ssl.fastly.net&path=/&security=none#🇫🇷@meli_proxyy
