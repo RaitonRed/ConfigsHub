@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%253E%253E%2540oneclickvpnkeys%3A%3AXX
 hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#%253E%253E%2540oneclickvpnkeys%3A%3ANL
 hy2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333/?insecure=1#%253E%253E%2540ShadowsocksM%3A%3AUS
 
