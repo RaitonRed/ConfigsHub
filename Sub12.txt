@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://TelegramChannel:daredevill_404@5.75.194.133:20569?type=xhttp&encryption=none&path=/@daredevill_404&host=&mode=auto&security=none#@daredevill_404
 vless://TelegramChannel:daredevill_404@91.98.229.73:20569?mode=auto&path=/@daredevill_404&security=&encryption=none&type=xhttp#@daredevill_404
 vless://TelegramChannel:daredevill_404@91.98.229.73:20569?mode=auto&path=/@daredevill_404&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=xhttp#@TEHRANARGO
 vless://TelegramChannel:daredevill_404@91.98.229.73:2957?type=xhttp&encryption=none&path=/@daredevill_404&host=&mode=auto&security=none#@daredevill_404
@@ -503,3 +502,4 @@ vless://bedaa27b-315a-4386-8179-5594011d6a92@151.101.3.8:80?path=/-LiV2ry@LIGHTN
 vless://bf065f28-9028-4578-a3ba-7738e7b7f53c@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://bf06cc13-9df0-4e99-a41f-8170fcdd6945@64.225.94.198:53340?mode=auto&path=/v2ray_configs_pools&security=reality&encryption=none&pbk=FPy4G6lfNODBdO-cMHxWDWR1TgDhRG0m-1HlosFQoHI&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=d3eb8c0fa0b61e36#telegram 🍊 v2ray_configs_pools
 vless://bf36173f-dbdb-4a2d-bc54-8140c352e013@159.89.98.13:443/?type=tcp&path=/&host=playstation.com&headerType=http&security=none#SecreTVPS-Testhaji
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#All--@V2rayAlpha-36
