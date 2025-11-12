@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://5915f034-a53b-4b63-b0e7-b29194de3fe9@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%209.99
-
 vless://5915f034-a53b-4b63-b0e7-b29194de3fe9@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-uk-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%209.9
 
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?security=tls&sni=gb-42123.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-42123.shenzogmbh.com&encryption=none#@Rayan_Config%2083
