@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483#Channel id: @ShadowProxy66 🇺🇸 ¹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483#[🇺🇸]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483#🇺🇸@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483#🇺🇸[Telegram:@tik7net_vpn]
@@ -502,4 +503,3 @@ trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&header
 trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=chrome&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=/yethePcHjaf#@NoForcedHeaven
 trojan://Aimer@188.164.159.43:2083?path=/?ed?ed=2048@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#telegram 🍊 v2ray_configs_pools
 trojan://BxceQaOe@203.198.122.129:443?security=tls&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2867 | Hong Kong
-trojan://BxceQaOe@58.152.53.186:443?security=tls&sni=t.me/ripaojiedian&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#t.me/v2Line | Free | 2936 | Hong Kong
