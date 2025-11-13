@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn
 vless://SERVERNETT-SERVERNETT1@ner.sernett.ir:8080?mode=auto&path=/&security=&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://SERVERNETT-SERVERNETT1@ner.sernett.ir:8080?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://SERVERNETT-SERVERNETT1@serv.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇩🇪 telegram@ISVvpn
@@ -503,3 +502,4 @@ vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443?security=reality&e
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=/&security=tls&encryption=none&host=nkang2replace.airlineshoma.com&type=ws&sni=nkang2replace.airlineshoma.com#@meli_proxyy
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=/&security=tls&encryption=none&host=nkang2replace.airlineshoma.com&type=ws&sni=nkang2replace.airlineshoma.com#All-@V2ray_Alpha--12
 vless://b7583704-5d82-452d-9700-e2b89e665851@141.227.142.174:10400?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#MCI-@IRAN_V2RAY1
+vless://b776d2c6-dde7-433a-93fa-7c293af75b17@138.201.147.124:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2# telegram @mtmvpn
