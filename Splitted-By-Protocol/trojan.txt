@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://BxceQaOe@116.49.237.130:518?security=tls&sni=🔒
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&host=joss.dus.biz.id#🇺🇸[openproxylist.com]
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B1
 trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?path=%2FFree-VPN-CF-Geo-Project%2F213.159.208.88%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?path=%2FFree-VPN-CF-Geo-Project%2F45.144.48.158%3D8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1
