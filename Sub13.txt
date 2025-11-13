@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b59a95d8-4f76-458f-b014-84610f7159f5@91.132.160.165:443?security=reality&encryption=none&pbk=YtCLxL-1VuXCKyMp2cnmEtxZH3cEtpZRtVLE3V__sjU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=1f8ebe6e774e89#@MARAMBASHI 🇩🇪
 vless://b59a95d8-4f76-458f-b014-84610f7159f5@91.132.160.165:443?security=reality&encryption=none&pbk=YtCLxL-1VuXCKyMp2cnmEtxZH3cEtpZRtVLE3V__sjU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=1f8ebe6e774e89#@MARAMBASHI 💋
 vless://b59a95d8-4f76-458f-b014-84610f7159f5@91.132.160.165:443?security=reality&encryption=none&pbk=YtCLxL-1VuXCKyMp2cnmEtxZH3cEtpZRtVLE3V__sjU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=1f8ebe6e774e89#@meli_proxyy
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/-----@G0dv2ray-----@G0dv2ray-----@G0dv2ray-----@G0dv2ray-----@G0dv2ray-----@G0dv2ray-----@G0dv2ray-----@G0dv2ray-----@G0dv2ray&type=tcp&sni=miro.com&sid=b3#🇩🇪 Telegram @G0dv2ray
@@ -503,3 +502,4 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?path=/?ed=2048@v2
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=iphoster-quran-iran-5.coin.name.ng&fp=chrome&type=ws&sni=iphoster-quran-iran-5.coin.name.ng#telegram 🍀 v2ray_configs_pools
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-4.access.name.ng&type=ws&sni=hetzner-4.access.name.ng#telegram ☂️ v2ray_configs_pools
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-14.access.name.ng&fp=chrome&type=ws&sni=lease-14.access.name.ng#telegram ☂️ v2ray_configs_pools
