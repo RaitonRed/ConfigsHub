@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-34
 vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-36
 vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-38
 vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-40
@@ -503,3 +502,4 @@ vless://b8ea0e4e-dbea-4b6c-88a0-263e138cdea8@151.101.195.8:80?mode=auto&path=/@H
 vless://b8ee2e23-b026-4f40-a036-8b67c6e3c145@ab.iranlit.ir:9520?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=gun&security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&fp=chrome&type=grpc&serviceName=9520vless&sni=refersion.com&sid=6f84e8adb893b4bd#AZADIV2RAYY آلمان ✅️
 vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@62.60.164.140:4040?security=&encryption=none&headerType=&type=tcp#✅@v2ray_configs_pools
 vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#@meli_proxyy
+vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#🏴‍☠️@FreakConfig
