@@ -4,6 +4,32 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
+vless://97c02cbb-eef4-427c-bb25-a5720886b006@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://97c02cbb-eef4-427c-bb25-a5720886b006@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
+
+vless://97c02cbb-eef4-427c-bb25-a5720886b006@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%208.8
+
+vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
+
+vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://99f47914-23d8-4367-81bc-b4b759eb7505@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%206.66
+
+vless://99f47914-23d8-4367-81bc-b4b759eb7505@www.visa.com.tw:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%206.6
+
+vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
+
+vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@cdnjs.com:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%201.11
+
+vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201.1
+
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%B3%D8%B1%DB%8C%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B4%D8%AE%D8%B5%DB%8C%20:%20https://telegraph.rayan-config.workers.dev/persian
+
+vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&sni=google.com&fp=chrome&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20173
+
 vless://ce8b479d-ade1-414d-9eec-f53a80393b7d@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%202.2
 
 vless://ce8b479d-ade1-414d-9eec-f53a80393b7d@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%202.22
