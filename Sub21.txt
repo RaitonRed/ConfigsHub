@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?security=tls&sni=gb-8981.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-8981.shenzogmbh.com&encryption=none#@Rayan_Config%20128
+
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-42123.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-42123.shenzogmbh.com&encryption=none#@Rayan_Config%20147
 
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-8981.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-8981.shenzogmbh.com&encryption=none#@Rayan_Config%20133
