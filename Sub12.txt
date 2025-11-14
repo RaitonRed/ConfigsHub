@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai80.000444.cn:443?encryption=none&security=tls&sni=cho.chonon.sbs&alpn=h3&fp=chrome&type=xhttp&path=/gdsthjjjvfxsstyy؟ed=443&mode=packet-up#🔷🆔@v2ray_configs_pool🔷
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai81.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=cho.chonon.sbs&alpn=h3&fp=chrome&type=xhttp&path=/gdsthjjjvfxsstyy؟ed=443&mode=packet-up#🔷🆔@v2ray_configs_pool🔷
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai84.000444.cn:443?encryption=none&security=tls&sni=cho.chonon.sbs&alpn=h3&fp=chrome&type=xhttp&path=/gdsthjjjvfxsstyy؟ed=443&mode=packet-up#🔷🆔@v2ray_configs_pool🔷
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai86.000444.cn:443?encryption=none&security=tls&sni=cho.chonon.sbs&alpn=h3&fp=chrome&type=xhttp&path=/gdsthjjjvfxsstyy؟ed=443&mode=packet-up#🔷🆔@v2ray_configs_pool🔷
@@ -503,3 +502,4 @@ vless://acf73591-8635-4872-d191-3a792ab5eb14@151.101.3.8:80?type=xhttp&encryptio
 vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@ems.irimcs.org:443?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=tls&fp=&alpn=&sni=deg.iranasanejesh.org#Test-Channel-TLS
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#@sunflowerplato🌻
 vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=azadanet.azadanet.workers.dev&fp=chrome&type=ws&sni=azadanet.azadanet.workers.dev#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://ad523240-c254-41da-b624-07356ffc38eb@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪 @v2ngnet

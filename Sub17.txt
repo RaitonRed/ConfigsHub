@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh27v5.hiddendom.shop#🇺🇸[Telegram:NetifyVPN]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn 🎀
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn 🫧
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:@EXPRESSVPN_420]
@@ -503,3 +502,4 @@ vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=/?ed=2048J_T&
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=/?ed=2048J_T&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#🏴‍☠️@FreakConfig
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=/?ed=2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#@V2RAYROZ
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=/?ed=2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#🏴‍☠️@FreakConfig
+vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?encryption=none&security=tls&sni=snippets.nneko.netlib.re&fp=chrome&type=ws&host=snippets.nneko.netlib.re&path=/?ed=2048J--_T#🆔@v2ray_configs_pool
