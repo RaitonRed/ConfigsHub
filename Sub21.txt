@@ -4,8 +4,6 @@
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
-vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053/?type=ws&encryption=none&flow=&host=om4.omidsuccess.uk&path=%2Fcontainers%2Fde&security=tls&sni=om4.omidsuccess.uk&allowInsecure=1&fp=chrome#%40Rayan_Config%20119
-
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053/?type=ws&encryption=none&flow=&host=om4.omidsuccess.uk&path=%2Fcontainers%2Fde&security=tls&sni=om4.omidsuccess.uk&fp=chrome#%40Rayan_Config%20152
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
