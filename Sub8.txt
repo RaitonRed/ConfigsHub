@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://43bbc466-f4e8-48ea-936b-d992092eec2a@51.75.185.183:30174?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All-@Iran_V2ray1
 vless://43e99f82-3f83-49d6-a625-2d420f6aa317@www.speedtest.net:80?type=ws&path=/Telegram_v2ray_configs_pools?ed=80&host=www.speedtest.net.c.1.avaacado.ir&security=none#telegram 🚀 v2ray_configs_pools
 vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=&encryption=none&type=xhttp#telegram ☂️ v2ray_configs_pools
 vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
@@ -502,4 +503,3 @@ vless://57bc1a80-072f-483c-9ca4-2878c1ef9ccb@151.101.3.8:80?path=/-LiV2ry@LIGHTN
 vless://57d4fb9d-435a-40b0-951a-c638704ba2e5@91.99.175.173:1001?security=reality&encryption=none&pbk=PJJAwYggwp2gu5_oXIr_1Q02OM6-DrCCEd0y1NF5vSs&host=/JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&headerType=http&fp=chrome&spx=/CHANEL_JKVPN&type=tcp&sni=ea.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638895063452643248.paris-prx-dnraaay.info&type=ws&alpn=&host=638895063452643248.paris-prx-dnraaay.info&path=/urdpjvws#telegram 🍊 v2ray_configs_pools
 vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638901504444939106.esfahan-prx-dnraabg.info&type=ws&alpn=&host=638901504444939106.esfahan-prx-dnraabg.info&path=/urdpjvws#telegram 🌟 v2ray_configs_pools
-vless://57fded11-045f-42c7-8791-a50b0e2e325e@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#@bored_vpn
