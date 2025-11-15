@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.111:443?path=/3IEyTMFdChz9DzYe?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=094cb6e9.mhassani.pages.dev&fp=chrome&type=ws&sni=094cB6e9.mhassANi.pagES.DEV#@V2rayNG3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🇩🇪[Telegram:NetifyVpn]
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#@IRAN_V2RAY1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#@V2RAYROZ
@@ -502,4 +503,3 @@ vless://TEL--JKVPN--JKVPN-9@www.zula.ir:2095?path=/TELEGRAM--BYA--CHANEL----@JKV
 vless://TELEGRAM--JKVPN--JKVPN@147.45.69.67:13247?security=none&encryption=none&host=TELEGRAM--@JKVPN--@JKVPN&headerType=none&type=tcp#TEST
 vless://TELEGRAM-CONFiGLiNE-10@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=bia2configline.global.ssl.fastly.net&type=xhttp#[🇩🇪]@configLINE(3)
 vless://TELEGRAM-CONFiGLiNE-10@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=bia2configline.global.ssl.fastly.net&type=xhttp#🇩🇪 telegram@ISVvpn
-vless://TELEGRAM-CONFiGLiNE-11@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=aoijji.global.ssl.fastly.net&type=xhttp#@confiig_hub
