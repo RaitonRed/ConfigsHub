@@ -5,12 +5,6 @@
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
 
 
-VPN:443 pinned «❤️سرویس تست فاکس نیم  💻 شما عزیزان می‌توانید قبل از خرید هم اکنون سرویس را تست نمایید و سپس اشتراک اختصاصی‌تان را خریداری نمایید.  vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?type=ws&security=none&path=%2F#%40foxnim%20%2F%20TEST  📲از طریق…»
-
-
-❤️سرویس تست فاکس نیم  💻 شما عزیزان می‌توانید قبل از خرید هم اکنون سرویس را تست نمایید و سپس اشتراک اختصاصی‌تان را خریداری نمایید.  vless://875ec245-7366-48dc-8756-e8889fec8816@de.kaia.pw:8080?type=ws&security=none&path=%2F#%40foxnim%20%2F%20TEST  📲از طریق…
-
-
 vmess://eyJhZGQiOiIyMy44OC4zOS40IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbl80NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9🗿 @vpn_443
 
 
@@ -503,3 +497,9 @@ vmess://ewogICAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICI4LjIxOC4xNDAuMjciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjU4NTRiODc3LTJiMzAtNDU3YS1iNzMwLTgzN2FhNTk3NjI3OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiAzOTE3NCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE4LjE0MC4yNy01Nzc5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMTY4LjIxMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMzNjYjk3MzctODhhNS00MzcyLTlkYjAtODQyNTVlMjQzYzFkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDI0NjgwLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQzLjE2OC4yMTEtNTc0OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ssr://c3NjYS5pcnVuZG5zLm5ldDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfcG9zdDpKQ1JVZFhKaU1GWlFUaVFrLz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg2WkRRUzAwTlM0eE5UUXVNakEwTGpFekxUQXpOekUlM0QmcHJvdG9wYXJhbT0=
+vmess://ewogICAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2dhbC5kYWdyYXRlLmV1Lm9yZyIsCiAgICAiaWQiOiAiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY2LjQ0Ljc3LTc4OTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzZ2FsLmRhZ3JhdGUuZXUub3JnIgp9
+vmess://ewogICAgImFkZCI6ICI4LjIxMS4xNjQuMjE1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI3MzE5M2NjZS03Y2ExLTRiMDgtOTNmZi00ZWU4YjAxNDczNzQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdGVsZWdyYW1fQHNzd2lhIiwKICAgICJwb3J0IjogMjA1MjIsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC04LjIxMS4xNjQuMjE1LTU3NTIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICI4LjIxOC4xNzUuNjQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImI4ZWU2MzljLWE3YWMtNDlmYS1iYzQ5LTI1MTBlODg1MDQzZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA1MTgyMywKICAgICJwcyI6ICLwn4et8J+HsEhLLTguMjE4LjE3NS42NC01Nzc4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.199-0296
+vmess://ewogICAgImFkZCI6ICI0Ny4yMzkuMjUyLjMwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIyZDVhZDI1MS04YmMzLTQxYzQtODg4MC1kNTdlZjdmMzY3NTkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogMjM1NDAsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny4yMzkuMjUyLjMwLTU2NzEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.80-0338
