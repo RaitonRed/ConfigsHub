@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://95125edf-cb36-45d1-f6bb-fb49a74cc23c@Www.Speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🥦-y5a3h3fy
 vless://95260b6a-e711-455c-d273-3439ca210d44@numberland.ir:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://95260b6a-e711-455c-d273-3439ca210d44@numberland.ir:2052?type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://95260b6a-e711-455c-d273-3439ca210d44@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
@@ -502,4 +503,3 @@ vless://a3e21832-8462-46a8-b464-75b35ce1866c@bia-kanalemoon.vigilante.ir:443?mod
 vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?path=/?ed&security=tls&encryption=none&host=imalrzaiserver.imalrzai.workers.dev&fp=chrome&type=ws&sni=imalrzaiserver.imalrzai.workers.dev#新加坡-443-WS-TLS
 vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&type=tcp&sni=active.app-browser.org#@HiByeVPNNBot✨❤️‍🔥💥
 vless://a3e72e43-3dc0-4988-a7d2-185508031b91@65.109.208.46:443?security=tls&encryption=none&headerType=none&type=tcp&sni=active.app-browser.org#All-@V2ray_Alpha--15
-vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?path=/jzonrlws?ed=2048@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
