@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#@Geek_Spot
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http#Telegram@freeOnlineVPN/?ed=2560&security=none&encryption=none&host=google.com&type=ws&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://dc947c58-c4d7-445a-fede-6642abfd3e30@numberland.ir:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#JOIN ➪@FILTERK0SH
 vless://dc947c58-c4d7-445a-fede-6642abfd3e30@www.speedtest.net:8080?type=ws&host=bia-to-unlimiteddev.unlimiteddev-service.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#JOIN ➪@FILTERK0SH
 vless://dca9798b-466c-444b-a9b7-805cf44daaa0@104.21.2.155:80?mode=auto&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&security=none&encryption=none&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.vigilante.ir.&type=xhttp#Telegram: @Daily_Configs
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&type=grpc#@sunflowerplato
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--14
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆

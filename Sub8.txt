@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#telegram 🌺 v2ray_configs_pools
-vless://47dc734a-15e8-4286-b09f-ad0404e85630@45.79.223.65:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🍀 v2ray_configs_pools
 vless://47e296a2-b705-4e85-b196-48fabc374072@194.182.79.236:35931?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@TEHRANARGO
 vless://47e296a2-b705-4e85-b196-48fabc374072@194.182.79.236:35931?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://47e296a2-b705-4e85-b196-48fabc374072@194.182.79.236:35931?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@mehrosaboran
@@ -503,3 +501,5 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&securi
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#All-@V2rayAlpha--15
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#@VPNSupportGroup
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#WiFi-@V2ray_Alpha--13
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#🇬🇧@FreakConfig
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=/api/v1&security=tls&encryption=none&type=ws&sni=gb-8981.shenzogmbh.com#@Selinc

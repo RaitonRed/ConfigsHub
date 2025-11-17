@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#🇬🇧@FreakConfig
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=/api/v1&security=tls&encryption=none&type=ws&sni=gb-8981.shenzogmbh.com#@Selinc
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=/api/v1&security=tls&encryption=none&type=ws&sni=gb-8981.shenzogmbh.com#Channel : @Mrsoulb 🏴🏳
 vless://5f021e76-3c2b-4e61-fab4-6e7e3b85b910@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#@bored_vpn
 vless://5f021e76-3c2b-4e61-fab4-6e7e3b85b910@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#@confiig_hub
@@ -503,3 +501,5 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.141.42:443?note=JOIN----AZAD
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#AZADIV2RAYY DE 🇩🇪
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@vmesskhodam
