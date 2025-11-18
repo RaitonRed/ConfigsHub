@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Iranvmess://eyJhZGQiOiIzNy4zMi4yMy4xMjIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZDEyYmM4ODItNDNjNy00MTVlLTg3YzUtMmE3ZmRjODM3MWMwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93ZWJzb2NrZXRcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGYxMCBJTlQtdm1lc3MtTWlycm9yUHJveHkiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
-
 
 
 
@@ -503,3 +501,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880/?type=grpc&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880/?type=grpc&encryption=none&flow=#%40Rayan_Config%20110
 
 vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053/?type=ws&encryption=none&flow=&host=om4.omidsuccess.uk&path=%2Fcontainers%2Fde&security=tls&sni=om4.omidsuccess.uk&allowInsecure=1&fp=chrome#%40Rayan_Config%20119
+
+vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053/?type=ws&encryption=none&flow=&host=om4.omidsuccess.uk&path=%2Fcontainers%2Fde&security=tls&sni=om4.omidsuccess.uk&fp=chrome#%40Rayan_Config%20152
