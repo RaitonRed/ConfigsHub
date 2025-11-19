@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=HarmonY-448.pages.DEV&fp=chrome&type=ws&sni=HarmonY-448.pages.DEV#%253E%253E%2540FreakConfig%3A%3AUS
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.16.218.149:443?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=HarmonY-448.pages.DEV&fp=chrome&type=ws&sni=HarmonY-448.pages.DEV#%253E%253E%2540FreakConfig%3A%3AUS
 vless://3ed01713-5ad7-46b1-ea4a-7b3fdbf232c7@DEADSEECtelegram.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#%253E%253E%2540FreakConfig%3A%3AXX
 vless://3ed01713-5ad7-46b1-ea4a-7b3fdbf232c7@JOKERRVPN.fast.hosting-ip.com:80?mode=auto&path=%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#%253E%253E%2540prrofile_purple%3A%3AXX
