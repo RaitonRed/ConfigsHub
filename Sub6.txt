@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🏴‍☠️@FreakConfig
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de&path=/@V2ray_confing33/#@V2ray_confing33
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.85.29:443?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@HiByeVPNN👈⚡❤️‍🔥
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.85.29:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=chrome&type=ws&sni=sni.aizrf.com#@IRAN_V2RAY1
@@ -502,4 +503,3 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443?path=/assets?ed=
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443?path=/assets?ed=2560&security=tls&encryption=none&host=HarmonY-448.pages.DEV&fp=chrome&type=ws&sni=HarmonY-448.pages.DEV#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام🇹🇷
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443?path=/assets?ed=2560&security=tls&encryption=none&host=HarmonY-448.pages.DEV&fp=chrome&type=ws&sni=HarmonY-448.pages.DEV#🇹🇷@FreakConfig
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@194.53.53.16:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#All-@V2rayAlpha--18
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@195.245.221.246:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#All-@V2rayAlpha--19
