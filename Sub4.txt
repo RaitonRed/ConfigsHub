@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=/azadnet-bdr.pages.dev/?ed=2560&PROT_TYPE=trojan&security=tls&host=azadnet-bdr.pages.dev&type=ws&sni=azadnet-bdr.pages.dev#@Hddify
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@203.198.122.135:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#r♡ya
 trojan://dqLPBI4gsI@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#WiFi-@V2ray_Alpha--2
@@ -500,6 +503,3 @@ vless://129638fe-f846-4cdb-b466-52f314acdb64@arashnet1.golebahari.sbs:364?flow=&
 vless://129638fe-f846-4cdb-b466-52f314acdb64@arashnet1.golebahari.sbs:364?security=reality&encryption=none&pbk=Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=234c0acc73#@meli_proxyy
 vless://129638fe-f846-4cdb-b466-52f314acdb64@arashnet4.golebahari.sbs:22443?mode=gun&security=reality&encryption=none&pbk=Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw&fp=chrome&type=grpc&serviceName=ArezooAref&sni=cloudflare.com&sid=8704d9898f#🇩🇪@FreakConfig
 vless://12b436f1-a946-43c6-83ca-43b332edfae7@151.101.3.8:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=saymyname.ir.global.prod.fastly.net&type=xhttp#@NoForcedHeaven6
-vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://12ee4d03-3781-4061-948c-83a3da0159f4@mehrdad.vip.zargar.mehrdadsadaf.com:7594?mode=gun&security=reality&encryption=none&pbk=_emCie74D7_xyqJ68MS6nqTPEx4BTc_Y3fXCgtByOzg&fp=chrome&spx=/&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&sni=dash.cloudflare.com&sid=86#All🇩🇪@Rk_VPS
-vless://12f3c866-a401-474b-f274-e1cacbf2adce@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
