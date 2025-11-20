@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f9.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&type=ws&sni=CFN06.ALaNHiaHo.COm#@vmesskhodam
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@s3.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#telegram 🎪 v2ray_configs_pools
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=dddddseseeesaa.ferido.info#Channel : @Mrsoulb 🏴🏳
@@ -503,3 +502,4 @@ vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:7601?security=realit
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#@IRAN_V2RAY1
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&type=tcp&headerType=&path=&host=&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?@ShadowProxy66&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@IRAN_V2RAY1
+vless://65678d94-bfc0-4c05-9ec2-1e0fffe76f82@141.11.202.254:2052?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=join.v2rayfast7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=httpupgrade#@v2rayfast_7❤️‍🔥4

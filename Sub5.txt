@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=name.api-music-fa.com&type=ws&sni=name.api-music-fa.com#@sunflowerplato🌻
 vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=name.api-music-fa.com&type=ws&sni=name.api-music-fa.com#All-@V2rayAlpha--45
 vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=name.api-music-fa.com&type=ws&sni=name.api-music-fa.com#🇺🇸18750
 vless://163100aa-f9bd-4ada-ae17-ceeccc8ca66b@104.21.84.30:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=name.api-music-fa.com&type=ws&sni=name.api-music-fa.com#🏴‍☠️@FreakConfig
@@ -503,3 +502,4 @@ vless://2a2d95c5-56f0-455b-a80a-4b920842d886@51.195.92.49:80?path=/&security=non
 vless://2a2d95c5-56f0-455b-a80a-4b920842d886@51.195.92.49:80?path=//?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=lunavow5d444ef.global.ssl.fastly.net&type=ws#@MARAMBASHI 💜
 vless://2a2d95c5-56f0-455b-a80a-4b920842d886@51.195.92.49:80?type=ws&encryption=none&path=/&host=lunavow5d444ef.global.ssl.fastly.net&security=none#@LUNAVO_BOT-🇫🇷@LUNAVO_BOT-@LUNAVO_VPN🎁
 vless://2a396f82-ae7f-41a6-ae5d-106d785dc3bb@1vdmlcsk1a49.librekit.com:443?path=/09hmyzvdljYpebWBPqDV7&security=tls&alpn=http/1.1&encryption=none&host=1vdmlcsk1a49.librekit.com&fp=chrome&type=ws&sni=1vdmlcsk1a49.librekit.com#All-@V2rayAlpha--4
+vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=e2#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
