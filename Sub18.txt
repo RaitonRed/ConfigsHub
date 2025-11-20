@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://ff3eda3a-b7a7-4e58-a048-7b6aabf90cb5@sha834ydtrfcvs2020hin3877.global.ssl.fastly.net:80?mode=auto&path=/@LUNAVO_VPN&security=&encryption=none&host=sha834ydtrfcvs2020hin3877.global.ssl.fastly.net&type=xhttp#🎁اشتراک رایگان کانال-@LUNAVO_VPN🎁-Spain
 vless://ff4e415f-c2f9-4261-974b-ad443ca0fbc0@f88c48b2511ba075.irancellman.com:4220?path=/tools.parspack.com/hp.shoushmobile.ir?ed=2095&security=none&encryption=none&host=overgamede2.irancellman.com.&type=httpupgrade#@𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡
 vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=/ws&security=tls&encryption=none&host=nodegcf.azurka.org&fp=chrome&type=ws&sni=nodegcf.azurka.org#All-@IRAN_V2RAY1
 vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=/ws&security=tls&encryption=none&host=nodegcf.azurka.org&fp=chrome&type=ws&sni=nodegcf.azurka.org#All-@V2rayAlpha--22
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiI0Ni4zOC4xNDYuNjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?encryption=none&type=ws&host=jnir-cdn.javidnaman.com&path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&sni=jnir-cdn.javidnaman.com#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTWHNZTVhTckpscVk2SDI5U0ZncWFm@194.87.216.218:52571#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40kafing_2%20%5B10%5D
 vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?encryption=none&type=ws&path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B11%5D
+vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40komail315%20%5B2%5D
