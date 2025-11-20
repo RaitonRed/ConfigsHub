@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=4b2cd56a#@V2RAYROZ
-trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4b2cd56a#All-@V2rayAlpha--9
 trojan://telegram-id-directvpn@3.127.33.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1849237600712964
 trojan://telegram-id-directvpn@52.29.189.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1849328827293991
 trojan://telegram-id-privatevpns@35.181.114.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
@@ -503,3 +501,5 @@ vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&securi
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--7
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--35
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.177:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--36
