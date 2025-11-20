@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🍀 v2ray_configs_pools
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🚀 v2ray_configs_pools
 vless://bc445673-9843-4bb9-8437-013451cbfd0c@haha.directt.space:5000?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@V2ray_confing33
@@ -503,3 +502,4 @@ vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@212.41.8.198:443?security=reality&e
 vless://d4f47f3f-2136-4ffb-bbbb-0037f4965827@104.21.2.155:80?encryption=none&security=none&type=xhttp&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.fastly.net.vigilante.ir.&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=packet-up#Telegram: @Daily_Configs
 vless://d4f47f3f-2136-4ffb-bbbb-0037f4965827@172.67.223.232:80?encryption=none&security=none&type=xhttp&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.fastly.net.vigilante.ir.&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=packet-up#Telegram: @Daily_Configs
 vless://d4f47f3f-2136-4ffb-bbbb-0037f4965827@188.114.98.224:80?encryption=none&security=none&type=xhttp&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.fastly.net.vigilante.ir.&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=packet-up#Telegram: @Daily_Configs
+vless://d4f47f3f-2136-4ffb-bbbb-0037f4965827@www.speedtest.net:80?encryption=none&security=none&type=xhttp&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.fastly.net.vigilante.ir.&path=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=packet-up#Telegram: @Daily_Configs
