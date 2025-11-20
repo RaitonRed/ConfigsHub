@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@81.22.132.254:443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/#@vmessorg
+vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@81.22.132.254:443?path=/&security=tls&encryption=none&host=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&sni=cold-snow-07fa.mokhinmokhini.workers.dev#@vpnserverrr
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@88.218.76.250:2053?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/#@vmessorg
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@88.218.76.250:2053?path=/&security=tls&encryption=none&host=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&sni=cold-snow-07fa.mokhinmokhini.workers.dev#@vpnserverrr
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@94.228.169.108:443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/#@vmessorg
@@ -501,5 +503,3 @@ vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&pat
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🍀 v2ray_configs_pools
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🚀 v2ray_configs_pools
-vless://bc445673-9843-4bb9-8437-013451cbfd0c@haha.directt.space:5000?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@V2ray_confing33
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
