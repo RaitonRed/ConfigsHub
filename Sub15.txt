@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc#join Sho @Iran_V2ray1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--18
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--20
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.206:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--27
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn ⁸🎀
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc

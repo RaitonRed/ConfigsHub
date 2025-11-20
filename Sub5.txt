@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--39
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.235:8880?mode=gun&security=&encryption=none&type=grpc#WiFi-@V2rayAlpha--20
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.235:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--38
@@ -503,3 +502,4 @@ vless://295d1aa2-787d-42db-dcaa-d1a8cf9cc7b5@am8.amin-1.ir:2082?type=xhttp&encry
 vless://2968831b-131c-4937-d46a-b27b53cde2be@151.101.3.8:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-g5xu3ftd
 vless://297128e9-5422-486e-9232-046b4952de1a@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=DIFferENt-PArtY.ONEEaT.cO&type=ws#telegram 🌺 v2ray_configs_pools
 vless://29ad851f-6620-4a36-f8e0-8d6f86243695@deadseectelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#🇩🇪@FreakConfig
+vless://29ad851f-6620-4a36-f8e0-8d6f86243695@deadseectelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@meli_proxyy
