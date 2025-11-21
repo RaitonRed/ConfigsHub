@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://bb57d265-b716-4092-bd0a-68f3988db63c@Evay_vpn.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=Laynetyour-name.global.ssl.fastly.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#1🇺🇸 @Evay_vpn
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?type=xhttp&path=/xhttp&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,4 +503,3 @@ vless://d2cb6223-f6b2-42a2-df5d-8454c9efe4ce@www.speedtest.net:2082?path=/@spike
 vless://d2cec382-c701-4d66-8891-5945ad87d8a1@fr.soreanapanel.com:443?security=reality&encryption=none&pbk=liR-hmXj77ENkmMXhMnIZ1VLK9Gszaob1l_3U3O7Axs&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=33d92e960cb19e71#@V2RAYROZ🇫🇷
 vless://d2cec382-c701-4d66-8891-5945ad87d8a1@fr.soreanapanel.com:443?security=reality&encryption=none&pbk=liR-hmXj77ENkmMXhMnIZ1VLK9Gszaob1l_3U3O7Axs&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=33d92e960cb19e71#@V2rayNGVPN <= کانفیگ رایگان
 vless://d2cec382-c701-4d66-8891-5945ad87d8a1@fr.soreanapanel.com:443?security=reality&encryption=none&pbk=liR-hmXj77ENkmMXhMnIZ1VLK9Gszaob1l_3U3O7Axs&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=33d92e960cb19e71#@V2rayNGVPN+<=+کانفیگ+رایگان
-vless://d2cec382-c701-4d66-8891-5945ad87d8a1@fr.soreanapanel.com:443?security=reality&encryption=none&pbk=liR-hmXj77ENkmMXhMnIZ1VLK9Gszaob1l_3U3O7Axs&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=33d92e960cb19e71#@meli_proxyy
