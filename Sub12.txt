@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?path=/&security=&encryption=none&type=ws#🇳🇱[openproxylist.com] vless-NL
-vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?path=/&security=none&encryption=none&type=ws#@meli_proxyy
-vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?path=/&security=none&encryption=none&type=ws#ALL@azadiiivpn
 vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?path=/&security=none&encryption=none&type=ws#All-@V2ray_Alpha--16
 vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
 vless://Warpi-Free-Vpn-In-GooglePlay@188.34.152.210:443?security=&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
@@ -503,3 +500,6 @@ vless://b91f41b0-240f-4672-8408-1de00281630c@104.18.0.0:443?mode=auto&security=t
 vless://b91f41b0-240f-4672-8408-1de00281630c@151.101.242.172:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=shdhfhghkh.global.ssl.fastly.net&type=xhttp#@one_shop_official
 vless://b91f41b0-240f-4672-8408-1de00281630c@api.appnimakv.ir:443?mode=auto&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=baznet.mmdmrx23.workers.dev&fp=chrome&type=xhttp&sni=baznet.mmdmrx23.workers.dev#@one_shop_official
 vless://b91f41b0-240f-4672-8408-1de00281630c@apikey.appnimakv.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=shdhfhghkh.global.ssl.fastly.net&type=xhttp#@one_shop_official
+vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@62.60.164.140:4040?security=&encryption=none&headerType=&type=tcp#✅@v2ray_configs_pools
+vless://b969fc8e-f24c-4655-9301-eb9c140726db@v2ngfaet.xero-network.ir:1146?encryption=none&type=xhttp&mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&fp=chrome&sni=stackoverflow.com&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
+vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638899136128777258.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638899136128777258.amsterdam-prx-dnraaal.info&path=/tjkqcpws#telegram 🎪 v2ray_configs_pools
