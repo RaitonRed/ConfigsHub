@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://telegram-id-privatevpns@35.181.114.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@52.47.116.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
 trojan://tpCznR-P5=jZUb#c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام-🇬🇧
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
@@ -503,3 +502,4 @@ vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&securi
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.177:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--36
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--41
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--39
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
