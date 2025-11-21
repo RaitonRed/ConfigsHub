@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://692ece70-c136-4f77-8921-1e99091b9987@ssssssss.zabc.net:8443?path=%2F&security=tls&encryption=none&host=ssssssss.zabc.net&fp=chrome&type=ws&sni=ssssssss.zabc.net#%253E%253E%2540FreakConfig%3A%3AMU
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#%253E%253E%2540FreakConfig%3A%3AUS
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#%253E%253E%2540V2RAY_VMESS_free%3A%3AUS
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?path=%2F&security=tls&encryption=none&type=ws&sni=vless.muzheng.top#%253E%253E%2540FreakConfig%3A%3AUS
