@@ -75,9 +75,6 @@ vless://70ec317d-d66d-4f9d-955a-fcd58678ce4c@70.34.214.175:13369?allowInsecure=0
 vless://6670529b-265a-4ee9-b944-bdaee2638ef2@62.60.177.167:443?allowInsecure=0&sni=st.ozone.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0051
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?allowInsecure=0&sni=hetzner-9.cfuk.name.ng&type=ws&host=hetzner-9.cfuk.name.ng&path=/?ed=2048security=tls#US_speednode_0052
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ifZZ[ÿ èÒÂ¯6@¾{ÜC_HÁÉË¸°!ÅÄ`W;%º$>tà^ j´¼]nr¹@ã²® =ÍJfWøý2ÔÄ©]è/òh££Îs¬°ÅÅ[¦hùn²¹z6Ë`áIK1j\"½ÒA$ÑWÍòÚm÷Tw$
-Ô+ëÜn°ôeÝx ¼t@ßÿä^]¹ù¼Tl bl¼SÃäÚrJÇ÷±Ï Èð®ÒæhðotDéäæ¦,¯l°ÈÜ6A¯ê­Ò©E°8àýU·O>úøPµÀ8Ôö]µOB:Ý·i¯ØÔó2foyââæÞå·§0,ðÄ¾ÎnhyÈKþssÝÒ4êÜÙtÑ«ÁJÍÜ5+®ÄL/ÒJy¡?Ãùèòt¤»%¶nú'4>ªGZ $ji|JVÌØ¸Ôõq_[Ü. ®ZËþ©L^#è®Ë=¡z÷Þ,õc&E[M×Óµµü+k´+N±¯m7iÚ684<ªYoø¶Þut)o})æk}ÆÛôV%Æ
-ºD 4©9¸ôÓñIP§[³øn)w&¿¾p¨Ö..%è8b«¤^1i@òHu®²êà­,Uà{#ÙXßÇÐ§*"#éw¡£{íµl¨ö)ÔR_Õ¶eSF0(ÅÝù Õòî¬½Ùy¦õ²m³?Ç!¢zåaZÙEµØ8÷Á­L¾V£8z_Øéô©\¡3¶î6í¨+'*eîÎSsudÝ¡é©®]ÍPöÏPÊ£Mû´oß|1BÉñðó~FøÆq]Gµ®4=jNbÐ¹ån~åÌ/ÖåC§Ê{ªNÐ¤Sô$x;`?^c ¾þ4Ç/6g_.¦JÕëÇCîÅ­í"ØòÙÜàHç¸ÛÉL8±Ô6i¢ÔÇm6.¦íûô
 vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6jwn4emQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.99.150.7:443?mode=auto&path=%2Fsdf&security=reality&encryption=none&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#%40meli_proxyy
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -390,7 +387,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@188.191.147.33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618#🇮🇱37@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618#🇮🇱[openproxylist.com] ss-IL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618#👉🆔@v2ray_configs_pool📡🇮🇱®️Israel©️Tel Aviv🅿️ping:96.17ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618?note=--Telegram--@NetifyVPN--#🇮🇱[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇮🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇮🇱[openproxylist.com] ss-IL
@@ -503,3 +499,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NTJKOVhtc3ZqNGRwdFhOSDVNenkw@185.33.85.37:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bU1ZVHA5bENwSlZLYW90UFg1SWds@174.138.17.254:52252?note=--Telegram--@NetifyVPN--#🇸🇬[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5REFNc1g2NzhYc2pzRVNSNFVKbEFJ@185.247.184.27:42203#1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5REFNc1g2NzhYc2pzRVNSNFVKbEFJ@185.247.184.27:42203?note=--Telegram--@NetifyVPN--#🇮🇹[Telegram:NetifyVpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#@MARAMBASHI 🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#@MARAMBASHI 💋
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#@MARAMBASHI 🤍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#@Selinc
