@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://Warpi-Free-Vpn-In-GooglePlay@159.69.124.221:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://Warpi-Free-Vpn-In-GooglePlay@159.69.124.221:443?security=none&encryption=none&headerType=none&type=tcp#✅ @vistav2ray  👈👈کانال ما
 vless://Warpi-Free-Vpn-In-GooglePlay@159.69.124.221:443?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://Warpi-Free-Vpn-In-GooglePlay@159.69.124.221:443?type=tcp&encryption=none&security=none#🇩🇪[openproxylist.com] vless-DE
@@ -503,3 +502,4 @@ vless://b98105fa-8db3-416f-878c-8cece5971187@alfa.alfabetaa.site:5551?security=n
 vless://b98105fa-8db3-416f-878c-8cece5971187@alfa.alfabetaa.site:5551?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://b9d3813e-1e7c-4815-c291-30d5bd26501d@am8.amin-1.ir:2082?type=xhttp&encryption=none&path=/@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android&host=am8.amin-1.ir&mode=auto&security=none#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠همه اپراتورها
 vless://ba03a8fc-ac5a-4f80-b480-0effdeb6af7c@152.53.133.115:20558?security=reality&encryption=none&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=03e60665#All-@IRAN_V2RAY1
+vless://ba03a8fc-ac5a-4f80-b480-0effdeb6af7c@zeusolympus.fonixapp.org:20558?security=reality&encryption=none&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=03e60665#@IRAN_V2RAY1--All
