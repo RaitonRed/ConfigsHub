@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-
 ⚡️سرور Vmess💥پر سرعتvmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOIiwNCiAgImFkZCI6ICJsdXRpLnNwZWVkZW50Lm5ldCIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiMTM3NjkzN2ItZTZiNi00NTgwLWEyNGEtYmU3NTUzZTAwNDZlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJncnBjIiwNCiAgInR5cGUiOiAiZ3VuIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAid29hcyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhZ2VuY3kuc3BlZWRlbnQubmV0IiwNCiAgImFscG4iOiAiIg0KfQ==╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +502,4 @@ vless://4cea125d-b9f3-4da4-b948-8b4e58bcc091@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%253E%253E%2540VmessProtocol%3A%3AUS
 vless://56fe9ccf-4de1-4c49-a771-da2fb82f730f@45.146.201.30:2096/?type=ws&encryption=none&flow=&host=zebra.zulair.site.&path=%2F&security=tls&sni=zebra.zulair.site.#%253E%253E%2540oneclickvpnkeys%3A%3AXX
 vless://56fe9ccf-4de1-4c49-a771-da2fb82f730f@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=zebra.zulair.site.&fp=chrome&type=ws&sni=zebra.zulair.site.#%253E%253E%2540FreakConfig%3A%3AXX
+vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=shop.ftmsoft.com#%253E%253E%2540DailyV2RY%3A%3ABE
