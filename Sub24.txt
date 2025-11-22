@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443/?type=ws&encryption=none&flow=&host=gb-021.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-021.shenzogmbh.com#%253E%253E%2540oneclickvpnkeys%3A%3AXX
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#%253E%253E%2540outline_vpn%3A%3AXX
 vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.99.126.166:443?type=xhttp&encryption=none&path=%2Fsdf&host=&mode=auto&security=reality&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%253E%253E%2540DailyV2RY%3A%3AXX
 vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.98.86.12:443?type=xhttp&encryption=none&path=%2Fsdf&host=&mode=auto&security=reality&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#%253E%253E%2540DailyV2RY%3A%3AXX
