@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.29.221.225:443#@daredevill_404
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#✅ @v2ray_configs_pools (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@V2rayNG3
@@ -503,3 +500,6 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=t
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#All--@V2rayAlpha--22
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.33:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.159.217.59:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#All--@V2rayAlpha--21
