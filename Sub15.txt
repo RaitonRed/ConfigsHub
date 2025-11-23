@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://cf34ebf8-7196-40cb-9421-08ba6f15e4cf@60.99vps.org:2060?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#Gift1000GB 🇩🇪 Server1
 vless://cf34ebf8-7196-40cb-9421-08ba6f15e4cf@60.apollo99.shop:3060?security=&encryption=none&headerType=none&type=tcp#Gift1000GB 🇩🇪 Server2
 vless://cf34ebf8-7196-40cb-9421-08ba6f15e4cf@60.reality99.shop:1060?security=reality&encryption=none&pbk=JrryesJRjtAofgcYkevE5eYpnIWpI2hkHGFxnnHGZk8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Gift1000GB 🇫🇮 Server4
 vless://cf34ebf8-7196-40cb-9421-08ba6f15e4cf@99daf9c34096e446.reality99.shop:1060?security=reality&encryption=none&pbk=JrryesJRjtAofgcYkevE5eYpnIWpI2hkHGFxnnHGZk8&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Gift1000GB 🇩🇪 Server3
@@ -502,4 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#@sunflowerplato🌻
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @vpnserverrr
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/Selinc
