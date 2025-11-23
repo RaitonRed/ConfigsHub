@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=/&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#@V2rayNG3
 vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=/&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#@sunflowerplato🌻
 vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=/&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#All-@V2ray_Alpha--34
 vless://8347825d-e85b-4735-b27d-7c60ca32bd0c@141.227.176.171:36090?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@HiByeVPNN👈⚡❤️‍🔥
@@ -502,4 +503,3 @@ vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality&encryption=none&type=xhttp#telegram 🌺 v2ray_configs_pools
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.216.170:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram ⚡️ v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.99.177.121:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#telegram 🌺 v2ray_configs_pools
