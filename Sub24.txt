@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-
-
 ✅ مناسب وب گردیvless://edddb2ac-f347-41f8-b158-6c263b3058d8@web.biatochannelv271g.shop:2083?encryption=none&security=tls&sni=web.biatochannelv271g.shop&type=grpc&serviceName=A&mode=gun#%40RIP_VPN╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +501,5 @@ vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443/?type=tcp&e
 vless://43b20356-d68c-410b-abab-8ee2b8bd0be8@m92a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%253E%253E%2540DailyV2RY%3A%3ADE
 vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=%2Fybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#%253E%253E%2540FreakConfig%3A%3AXX
 vless://45b3b7e0-7847-4c35-affa-f776cf4759b9@m75a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%253E%253E%2540DailyV2RY%3A%3AXX
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#%253E%253E%2540V2RAY_VMESS_free%3A%3AHK
+vless://440091fe-8adb-44f6-9646-efe52051aff5@www.speedtest.net:80?type=xhttp&encryption=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&host=vp6.mydatacloud1.ir&mode=auto&security=none#%253E%253E%2540DailyV2RY%3A%3ADE
