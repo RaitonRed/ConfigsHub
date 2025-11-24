@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://a8d29db1-b95e-4830-be63-1ae65076c1e8@151.101.3.8:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shaldbllu.global.ssl.fastly.net&type=xhttp#@confiig_hub
 vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=/&security=none&encryption=none&type=ws#@V2ray_confing33
 vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=/&security=none&encryption=none&type=ws#@meli_proxyy
 vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
@@ -502,4 +503,3 @@ vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tl
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=vkdoc.mail.ru#@meli_proxyy
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wap.yandex.com#@meli_proxyy
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=web.max.ru#@meli_proxyy
-vless://c34d5607-6e39-4378-9367-fda18d4b2efb@49.13.62.117:30052?type=tcp&security=none&headerType=none#@DoNaLD_VPN-🇺🇸
