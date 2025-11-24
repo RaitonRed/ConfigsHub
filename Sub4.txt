@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#join Sho @Iran_V2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#@v2rayNplus🇱🇹
@@ -502,4 +503,3 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.199.141.238:25670?security=none&
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@35.159.222.43:25670?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.53:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.4.39:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.112:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
