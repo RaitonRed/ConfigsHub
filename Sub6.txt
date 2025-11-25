@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://2097a5c6-c67e-4297-99e3-9996ee33a341@armanstore2.dynv6.net:37926?type=tcp&encryption=none&security=none#🇩🇪@armanstore2-کانفیگ نامحدود۲۹ هزار تومان
 vless://209eceac-fa95-4c2b-9921-e9098c5b7f99@70.34.207.109:12116?type=grpc&encryption=none&serviceName=&authority=&security=none#@armanstore2-کانفیگ اضطراری 5
 vless://20cf1bfb-c5ad-4a5f-85bf-ec14e89b1406@day.mtpmio.com:443?security=reality&encryption=none&pbk=KrOQ6UIhM_AXIEJZ31FsIXRbtN7TtFBykqmnnFECkEM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=duckduckgo.com&sid=1d72e9f5ba#telegram 🎯 v2ray_configs_pools
 vless://20eb2d5d-10ba-485d-b4c5-3ff2b8168225@78.47.216.178:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
@@ -503,3 +502,4 @@ vless://32a00f29-18d9-4afe-b8bc-c9393df63b9f@217.69.3.142:47916?type=ws&encrypti
 vless://32a786e6-f3dd-4184-8e3f-6fe290c2921e@v2ngnet.xero-network.ir:4455?encryption=none&type=xhttp&mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇫🇮 @V2ngNet
 vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&encryption=none&security=none#@V2rayNG3
 vless://32be834f-c85e-4561-8a93-eeede465baeb@104.27.6.84:80?encryption=none&security=none&type=xhttp&host=www.speedtest.net.visa.com.nobitex.com.novitex.com.soft98.ir.vigilante.ir.&path=/DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2048&mode=packet-up#Telegram:@Daily_Configs
+vless://32be834f-c85e-4561-8a93-eeede465baeb@172.66.45.63:80?encryption=none&security=none&type=xhttp&host=www.speedtest.net.visa.com.nobitex.com.novitex.com.soft98.ir.vigilante.ir.&path=/DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2048&mode=packet-up#Telegram:@Daily_Configs
