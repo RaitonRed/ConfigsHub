@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjIiLCJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwicG9ydCI6IjQzMyIsImlkIjoiRnJlZSIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMiJ9
 trojan://fe819d02-531b-456a-89db-060a779c8908@188.132.129.84:8443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/188.132.129.84=8443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A523
 trojan://f3851a0e-cedd-4955-bd52-5edc29f2b7c8@81.91.214.85:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/81.91.214.85=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A524
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUgMTMuN0tCL3MiLCJhZGQiOiI0Ny4yMzguNzEuMTY2IiwicG9ydCI6IjM3MjEiLCJpZCI6IjBiM2RhNmUwLTJhNDEtNDllNC04YmVlLWNmYTcwNWQ0NDhmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNSJ9
@@ -503,3 +502,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VG1PK0tFZ3owTjNxQjZhZmRzT1NqaWpYVlRVeGtwaCt
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXpJNU1tTXhZV1ptTmpOaU5HRTVOR0k1WVdRd1pqUTRZemM1TXpGa01qYz06Wm1abVptWm1abVptWm1GbU5EY3hOMkUxWWpBM09EazRNbU00TWpCak1ERT0=@77.221.154.173:45090#@sunflowerplato🌻
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXpJNU1tTXhZV1ptTmpOaU5HRTVOR0k1WVdRd1pqUTRZemM1TXpGa01qYz06Wm1abVptWm1abVptWm1GbU5EY3hOMkUxWWpBM09EazRNbU00TWpCak1ERT0@77.221.154.173:45090#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cFo0K1p1c2FnaG9rc0NVUjc1TDJUVlEwekZQdWdXd2dwdURweVh6eG1jYz06VC9BVXMvcHdNM0FkcXdYbG4wclAwWWlKdDdlcU0rZ0huVUFsVUpsUWFEQT0=@188.34.194.165:80#@daredevill_404
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MlF1Wjg5aWFaUUVsWUt5MWJEeU9W@77.246.107.222:443#@V2rayNGVPN <= کانفیگ رایگان
