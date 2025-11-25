@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://4182c59d-3b09-4bc9-ef7a-71e5628749e8@cafearz.com:8080?type=ws&encryption=none&path=/olem/ws?ed=1024&host=shad.ir.de.test.digicyber.click.&security=none#@melov2ray🇩🇪
-vless://41b55c53-7776-4727-b05d-1ccf9cc409a5@104.20.30.132:443?path=/Free-VPN-Geo-Project/91.187.93.166-443&security=tls&encryption=none&host=gamang.gpj2.dpdns.org&fp=chrome&type=ws&sni=gamang.gpj2.dpdns.org#@IRAN_V2RAY1
 vless://41b55c53-7776-4727-b05d-1ccf9cc409a5@104.20.30.132:443?path=/Free-VPN-Geo-Project/91.187.93.166-443&security=tls&encryption=none&host=gamang.gpj2.dpdns.org&fp=chrome&type=ws&sni=gamang.gpj2.dpdns.org#join Sho @Iran_V2ray1
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@104.26.0.108:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@104.26.1.108:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +501,5 @@ vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇫🇮 ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#@MARAMBASHI 🇮🇹
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#@meli_proxyy
+vless://5713fee0-2f51-4453-9502-b7fd38a657b6@38.180.105.166:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#@meli_proxyy
+vless://5713fee0-2f51-4453-9502-b7fd38a657b6@38.180.105.166:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇹🇷 ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام
