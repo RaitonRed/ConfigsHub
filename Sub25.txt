@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-hy2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@hk.xn--gmq00sc0nuve.shop:21268/#%253E%253E%2540oneclickvpnkeys%3A%3AHK
-hy2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@my.xn--gmq00sc0nuve.shop:21812/#%253E%253E%2540oneclickvpnkeys%3A%3AMY
 hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540ShadowsocksM%3A%3AFR
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%253E%253E%2540oneclickvpnkeys%3A%3AUS
@@ -503,3 +501,5 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#%F0%9F%87%B9%F
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0314
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.60-0317
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0327
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.100-0272
+vmess://ewogICAgImFkZCI6ICJuMTc0NDQ1MzMxOS5saWU1ZC5jeW91IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibjE3NDQ0NTMzMTkubGllNWQuY3lvdSIsCiAgICAiaWQiOiAiNjkyOGFmOTctYTIzZS00MDhjLTk1NmUtNWNkMjIwN2YzNTU3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3LjI0Mi4yNi4xNDQtNTQ3NyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIm4xNzQ0NDUzMzE5LmxpZTVkLmN5b3UiCn0=
