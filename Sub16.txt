@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=&encryption=none&type=grpc#@Selinc
@@ -503,3 +502,4 @@ vless://dfb01e06-7538-424b-8e83-b24d9760ef55@fi.crynasty.ru:443?security=reality
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#.
 vless://do_itforyou@167.71.128.234:50644?mode=gun&security=none&encryption=none&type=grpc#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e0012501-ce2c-456f-b928-c1d988e7ba96@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
+vless://e0408566-637f-4981-b4dd-36be7abc7ae0@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/joezizws&security=tls&encryption=none&host=638890561652289252.esfahan-prx-dnraaao.info&type=ws&sni=638890561652289252.esfahan-prx-dnraaao.info#✅ @v2ray_configs_pools (تلگرام)

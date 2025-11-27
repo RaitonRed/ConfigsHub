@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://39584f02-a282-437c-945b-e11805297ad0@bonefletcher.fonixapp.org:24888?security=reality&encryption=none&pbk=CrczDkPBN0FU0Ohui0vxOpHGMGHSwnzz0Vqujr7jUSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=12d75b#🇩🇪@FreakConfig
 vless://3965b145-aa45-4425-984f-7c69d209e735@m97a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp# telegram @mtmvpn
 vless://3965b145-aa45-4425-984f-7c69d209e735@m97a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://3965b145-aa45-4425-984f-7c69d209e735@m97a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@meli_proxyy
@@ -503,3 +502,4 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=non
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#telegram 🍊 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#telegram 🌺 v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.75.235.88:55605?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
+vless://47dc734a-15e8-4286-b09f-ad0404e85630@45.79.223.65:443?type=xhttp&path=/&host=&mode=stream-one&security=none#telegram 🍀 v2ray_configs_pools
