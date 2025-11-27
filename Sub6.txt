@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://06c31c1a-cfae-48fe-a4db-3bbe16663003@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 @G0dv2ray
 vless://06c31c1a-cfae-48fe-a4db-3bbe16663003@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 Telegram @SRCVPN ²
 vless://06c31c1a-cfae-48fe-a4db-3bbe16663003@G0dv2.fast.hosting-ip.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 @G0dv2ray
 vless://06c31c1a-cfae-48fe-a4db-3bbe16663003@srcvpn.fast.hosting-ip.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 Telegram @SRCVPN
@@ -503,3 +502,4 @@ vless://1fc319c6-fbfb-4054-9f58-806170f02a2a@167.235.68.235:8880?type=tcp&encryp
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=/containers/de&security=tls&encryption=none&host=om3.omidsuccess.uk&type=ws&sni=om3.omidsuccess.uk#All--@V2rayAlpha-40
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=/containers/de&security=tls&encryption=none&host=om3.omidsuccess.uk&type=ws&sni=om3.omidsuccess.uk#All-@V2rayAlpha--27
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=/containers/de&security=tls&encryption=none&host=om3.omidsuccess.uk&type=ws&sni=om3.omidsuccess.uk#Bya To:@IRAN_V2RAY1
+vless://1fe89578-87ab-4c8a-e169-efad229c1590@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@V2RAYROZ
