@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-481%40free-nodes
 trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-482%40free-nodes
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:16082?security=tls&sni=nh-hinet06.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-483%40free-nodes
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%E6%9C%AA%E7%9F%A5%20TROJAN-484%40free-nodes
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aFZvd2pjYzgycDZOdTlVdk9YaGhG@39.104.68.204:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ==@45.144.31.24:443#WiFi-@V2rayAlpha--5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ==@45.144.31.24:443#WiFi-@V2ray_Alpha--7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VHp0V0dLVWNLSm42OFh0STVZajA0@51.143.181.129:17415#@daredevill_404
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#✅سرورهایبیشتردرکانال:prrofile_purple@✅
