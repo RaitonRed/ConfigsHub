@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638901790535256085.brussels-prx-dnraaal.info&type=ws&alpn=&host=638901790535256085.brussels-prx-dnraaal.info&path=/citxcbws#telegram 🚀 v2ray_configs_pools
-vless://49d74535-837e-4132-90c7-4e06de7db303@89.58.55.196:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#🇩🇪 | @External_Net
 vless://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#IR--@V2ray_Alpha-9
 vless://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&encryption=none&security=none#@V2rayNG3
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#🇺🇸 @Evay_vpn
@@ -503,3 +501,5 @@ vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none
 vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@Daily_Configs
 vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇧🇷
 vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
+vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@V2rayBaaz&headerType=http&type=tcp#r♡ya
+vless://5deadb81-b6ac-4a15-9760-6a9915a83162@m13a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#🇫🇮[openproxylist.com] vless-FI
