@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://f8a6db2e-3cd5-4a9c-ae83-65a1337da847@ec2-3-87-68-123.compute-1.amazonaws.com:80?path=/&security=none&encryption=none&host=ec2-3-87-68-123.compute-1.amazonaws.com&fp=chrome&type=ws#@Selinc
 vless://f8a6db2e-3cd5-4a9c-ae83-65a1337da847@ec2-3-87-68-123.compute-1.amazonaws.com:80?path=/&security=none&encryption=none&host=ec2-3-87-68-123.compute-1.amazonaws.com&fp=chrome&type=ws#@meli_proxyy
 vless://f8a6db2e-3cd5-4a9c-ae83-65a1337da847@ec2-3-87-68-123.compute-1.amazonaws.com:80?path=/&security=none&encryption=none&host=ec2-3-87-68-123.compute-1.amazonaws.com&fp=chrome&type=ws#TEL-mtmvpn
 vless://f8a6db2e-3cd5-4a9c-ae83-65a1337da847@ec2-3-87-68-123.compute-1.amazonaws.com:80?path=/&security=none&encryption=none&host=ec2-3-87-68-123.compute-1.amazonaws.com&fp=chrome&type=ws#🇺🇸@FreakConfig
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiJkZTFlLXE2RnpnNDEzQzkudjJmcmVldnBuLmNvbSIsImFpZCI6IjAiLCJhbHBu
 vmess://eyJhZGQiOiJkZWRlLmJlZG9uZW1hcnouc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NmUwYjYxOS1iYjk4LTQ5Y2ItYTNmZC1mMGExY2ViZGQ0MzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NCIsInBzIjoi4pyF2LPYsdmI2LHZh9in24zYqNuM2LTYqtix2K/Ysdqp2KfZhtin2YQ6cHJyb2ZpbGVfcHVycGxlQOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkZWRlLmJlZG9uZW1hcnouc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NmUwYjYxOS1iYjk4LTQ5Y2ItYTNmZC1mMGExY2ViZGQ0MzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NCIsInBzIjoiQG9uZV9zaG9wX29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMTcwNDNiZi1jZjk2LTcwYzgtNTk1MC03NWYxZGNhNDA5YzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiJAaW50ZXJuZXRfc2VmaWQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMTcwNDNiZi1jZjk2LTcwYzgtNTk1MC03NWYxZGNhNDA5YzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
