@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.105:2376#@daredevill_404
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.37:2375#@daredevill_404
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#@daredevill_404
@@ -503,3 +502,4 @@ vless://0a83252b-df4e-4a09-a054-45d5a1f731eb@am255.amin5646.ir:2082?mode=auto&pa
 vless://0a83252b-df4e-4a09-a054-45d5a1f731eb@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://0a9bc93a-8d18-4fdd-807d-b93f266e36ca@84.201.149.75:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=moodle.sligvpn.ru#t.me/entryNET/config=1849973701079191
 vless://0a9bc93a-8d18-4fdd-807d-b93f266e36ca@84.201.149.75:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=moodle.sligvpn.ru#🇷🇺 ⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام
+vless://0a9bc93a-8d18-4fdd-807d-b93f266e36ca@91.84.112.89:443?mode=packet-up&path=/adv&security=reality&encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"headers":{},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=yandex.ru&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=xhttp&sni=www.microsoft.com#[🇳🇱]t.me/ConfigsHub
