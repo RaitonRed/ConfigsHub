@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=&type=ws&path=/http&encryption=none#%253E%253E%2540ShadowsocksM%3A%3AXX
 vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443/?type=ws&encryption=none&flow=&host=us1.candyfans.win&path=%2Fcgunws&security=tls&sni=us1.candyfans.win&allowInsecure=1#%253E%253E%2540oneclickvpnkeys%3A%3ACH
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@150.230.4.210:40721/?type=tcp&encryption=none&flow=&sni=www.icloud.com&fp=chrome&security=reality&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sid=c588#%253E%253E%2540oneclickvpnkeys%3A%3AJP
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052/?type=ws&encryption=none&flow=&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3AUS
