@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://bd60e683-4da1-4856-9451-991d40fed6a4@blogtest.ghazatehran.ir:2096?mode=auto&path=%2Fgame&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=blogtest.ghazatehran.ir&fp=chrome&type=xhttp&sni=blogtest.ghazatehran.ir#%253E%253E%2540FreakConfig%3A%3ASE
 vless://bd80ec19-d764-4826-a607-d42bb1b3bc48@185.36.145.127:6060?encryption=none&security=tls&sni=pmo.smnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%253E%253E%2540v2line%3A%3ABE
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#%253E%253E%2540FreakConfig%3A%3ADE
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%253E%253E%2540oneclickvpnkeys%3A%3AGB
@@ -502,4 +503,3 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.181-0182
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.174-0193
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.164-0192

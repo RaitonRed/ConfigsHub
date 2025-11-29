@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+ss://YWVzLTI1Ni1nY206Mno5dGtYVktpS2RGT2RuRk1VRUR1R0lJOEtEM3p1cGFGZ2lHRG1RM2NJST0=@31.47.45.146:13130#@daredevill_404
 ss://YWVzLTI1Ni1nY206MzE3NjE4OTgtNjVhYi00ZWY0LTk1NmUtZGE3ZDk3OGViZTJl@172.236.150.129:8443?note=--Telegram--@NetifyVPN--#🇸🇬[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇬🇧[openproxylist.com] ss-GB
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#🇩🇪[openproxylist.com] ss-DE
@@ -502,4 +503,3 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@35.159.222.43:25670?security=none&e
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.53:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.4.39:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.112:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
