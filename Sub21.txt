@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?path=/&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&fp=chrome&type=ws&sni=GRouND-sloth.zulair.SIte.#@Selinc
 vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?path=/&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&fp=chrome&type=ws&sni=GRouND-sloth.zulair.SIte.#@V2ray1_Ng
 vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?path=/&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&fp=chrome&type=ws&sni=GRouND-sloth.zulair.SIte.#All-@V2ray_Alpha--22
 vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.148.22:2096?path=/&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&fp=chrome&type=ws&sni=GRouND-sloth.zulair.SIte.#@V2ray1_Ng
@@ -503,3 +502,4 @@ vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=/?ed=2048J--_T
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=/?ed=2048J--_T&security=tls&encryption=none&host=snippets.nneko.netlib.re&type=ws&sni=snippets.nneko.netlib.re#@V2ray_confing33
 vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://f65006fc-2fa4-4860-b036-0cdb11a10e24@172.66.40.99:80?path=/telegram-v2ray_configs_pools,telegram-v2ray_configs_,telegram-v2ray_conf?ed=80&security=none&encryption=none&host=ab.shangoli5.motorphrotan.ir.&type=ws#telegram ⚡️ v2ray_configs_pools
+vless://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dl.frnsoft.com#🇹🇷@FreakConfig
