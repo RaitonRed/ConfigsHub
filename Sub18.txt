@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@corey.ns.cloudflare.com:443?path=/harman&security=tls&encryption=none&fp=chrome&type=ws&sni=puemo.tiger-positions.info#@SkyPro_Vpn ⚡
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@corey.ns.cloudflare.com:443?path=/harman&security=tls&encryption=none&fp=chrome&type=ws&sni=puemo.tiger-positions.info#@internet_sefid
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@corey.ns.cloudflare.com:443?path=/harman&security=tls&encryption=none&fp=chrome&type=ws&sni=puemo.tiger-positions.info#@meli_proxyy
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@corey.ns.cloudflare.com:443?path=/harman&security=tls&encryption=none&fp=chrome&type=ws&sni=puemo.tiger-positions.info#🇩🇪@FreakConfig
@@ -503,3 +502,4 @@ vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&p
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&path=/gftrdd?ed=2560&host=take5.global.ssl.fastly.net&mode=auto&security=none#telegram 🍀 v2ray_configs_pools
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&path=/gftrdd?ed=2560&host=take5.global.ssl.fastly.net&mode=auto&security=none#telegram 🍊 v2ray_configs_pools
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&path=/gftrdd?ed=2560&host=take5.global.ssl.fastly.net&mode=auto&security=none#telegram 🎯 v2ray_configs_pools
+vless://d62f1926-a61e-4c00-baa5-740a523aca16@[2001:41d0:801:1000::930]:40717?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#✅سرورهایبیشتردرکانال:prrofile_purple@✅

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443/?type=grpc&encryption=none&flow=#⚒️37@oneclickvpnkeys
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
@@ -503,3 +502,4 @@ vless://3fc4876d-9b5a-4c78-9504-33d054c49e3f@rack4.biseda2.eu:443?security=reali
 vless://3fc4876d-9b5a-4c78-9504-33d054c49e3f@rack4.biseda2.eu:443?security=reality&encryption=none&pbk=WNcXg-3WpjyiJ0bZiQ9xeQz954-l8DHWUa2tikS2WWg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rack4.biseda2.eu&sid=7e66#🇫🇷 | @External_Net
 vless://3ff64b58-31f5-4d2c-b3fb-b15e20403f72@45.144.54.240:443?security=reality&encryption=none&pbk=yski3zjhH8-MlTkM6eV2rZanvJpOd8nJ5aUFvH7swhE&headerType=none&fp=chrome&spx=/&type=tcp&sni=free2.tunnely.ru&sid=c018#@meli_proxyy
 vless://400f06ce-2b69-4444-a398-47b7166ccb54@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://400f06ce-2b69-4444-a398-47b7166ccb54@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
