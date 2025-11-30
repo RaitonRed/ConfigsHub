@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?flow=&type=ws&host=&path=/xjfclmws&security=tls&sni=638996506447943078.soul-amsih.info&fp=chrome&allowInsecure=0#@meli_proxyy
 vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=/xjfclmws&security=tls&encryption=none&fp=chrome&type=ws&sni=638996506447943078.soul-amsih.info#@meli_proxyy
 vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=/xjfclmws&security=tls&encryption=none&fp=chrome&type=ws&sni=638996506447943078.soul-amsih.info#🇫🇷@FreakConfig
 vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=/xjfclmws&security=tls&encryption=none&type=ws&sni=638996506447943078.soul-amsih.info#@vmesskhodam
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiIzNi41MC45MC4yNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIzOC4xNC45OS4xNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1OTgwNyIsInBzIjoi8J+OtTc0QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzOC4xNC45OS4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1OTgwNyIsInBzIjoi8J+HuvCfh7hARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIzOC4xNC45OS4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1OTgwNyIsInBzIjoi8J+OtTcyQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIzOC4xNC45OS4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1OTgwNyIsInBzIjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
