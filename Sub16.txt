@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://TelegramChannel:daredevill_404@91.98.229.73:20569?mode=auto&path=/@daredevill_404&security=&encryption=none&type=xhttp#@daredevill_404
 vless://TelegramChannel:daredevill_404@91.98.229.73:2957?type=xhttp&encryption=none&path=/@daredevill_404&host=&mode=auto&security=none#@daredevill_404
 vless://Telegram_daredevill_404@91.98.229.73:2957?mode=auto&path=/@daredevill_404&security=&encryption=none&type=xhttp#@daredevill_404
 vless://ViP_Fragmemt_V2ray@nl.2.tryfreenet24.xyz:8023?mode=auto&path=/@U3er1&security=reality&encryption=none&pbk=IeLdc7dCgdzACeAK1wq4rxuuBmp9kTh4Wq_pjZhJeXo&host=www.speedtest.net&fp=chrome&spx=/HiCPdGMQ1LBImzd&type=xhttp&sni=zhaket.xom&sid=62e9#✅سرورهایبیشتردرکانال:prrofile_purple@✅
@@ -503,3 +502,4 @@ vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&p
 vless://b20c12e7-f071-4829-94e7-17dc4e43a37a@silverzebra.fonixapp.org:31502?security=reality&encryption=none&pbk=oenAlMhG602prGwOqnAt5yZ55yuDEfZwGZXn-WaxizM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=e1814a#Join To @Iran_v2ray1
 vless://b20c12e7-f071-4829-94e7-17dc4e43a37a@silverzebra.fonixapp.org:31502?security=reality&encryption=none&pbk=oenAlMhG602prGwOqnAt5yZ55yuDEfZwGZXn-WaxizM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=e1814a#🇩🇪@AZARBAYJAB1
 vless://b20c12e7-f071-4829-94e7-17dc4e43a37a@silverzebra.fonixapp.org:31502?security=reality&encryption=none&pbk=oenAlMhG602prGwOqnAt5yZ55yuDEfZwGZXn-WaxizM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=e1814a#All-@V2rayAlpha--26
+vless://b20d5f96-bf91-4483-a866-e587036bdf09@62.60.248.14:28485?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc&spx=/#MdVpnSec
