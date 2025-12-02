@@ -6,7 +6,6 @@
 
 
 
-
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJhZGQiOiJ0YWIuZG9kb2xsdGFsYS5nYSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNjE1NzhlMi1kN2MwLTRkMTUtOWVmOC03MzE2NGQwM2QwMjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6ImljZXNvdXJjZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
 
 
@@ -503,3 +502,4 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encrypti
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80/?type=ws&encryption=none&flow=&host=cdn.ir&path=%2Fnews#%253E%253E%2540oneclickvpnkeys%3A%3ADE
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com#%253E%253E%2540oneclickvpnkeys%3A%3AXX
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&type=ws&sni=gb-8981.shenzogmbh.com#%253E%253E%2540outline_vpn%3A%3AXX
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2F&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#%253E%253E%2540FreakConfig%3A%3AUS
