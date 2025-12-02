@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mindbox.ru&sid=19aa22f681923dc8#🇵🇱⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام
-vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mindbox.ru&sid=19aa22f681923dc8#@MARAMBASHI 🇧🇷
 vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mindbox.ru&sid=19aa22f681923dc8#@V2rayNGVPN <= کانفیگ رایگان
 vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.mindbox.ru&sid=19aa22f681923dc8#🇵🇱@FreakConfig
 vless://26874748-86d4-4c3e-a3c6-2c56618cf801@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -503,3 +501,5 @@ vless://32a569a9-9a45-41ba-af1d-41222d4de04b@94.131.111.38:443?note=---Telegram-
 vless://32a569a9-9a45-41ba-af1d-41222d4de04b@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=638999788656454329.vitara-amsim.info&type=ws&path=/bvyuajws#@Daily_Configs
 vless://32a569a9-9a45-41ba-af1d-41222d4de04b@clyde.ns.cloudflare.com:443?path=/bvyuajws&security=tls&encryption=none&type=ws&sni=638999788656454329.vitara-amsim.info#Channel : @Mrsoulb 🏴🏳
 vless://32a569a9-9a45-41ba-af1d-41222d4de04b@clyde.ns.cloudflare.com:443?path=/bvyuajws&security=tls&encryption=none&type=ws&sni=638999788656454329.vitara-amsim.info#🇩🇪@FreakConfig
+vless://32a786e6-f3dd-4184-8e3f-6fe290c2921e@v2ngnet.xero-network.ir:4455?encryption=none&type=xhttp&mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇫🇮 @V2ngNet
+vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&encryption=none&security=none#@V2rayNG3

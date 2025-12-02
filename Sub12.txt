@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://676a0fd3-f87b-4c14-ae1b-c982dd8ea266@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#qe7qcl6s
-vless://676a0fd3-f87b-4c14-ae1b-c982dd8ea266@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#qe7qcl6s  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@103.35.191.221:443?security=reality&encryption=none&pbk=xZ0pVv73Je0cD-3zCB5ABlRROIbWqTLt5YSE3FlA7GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=efe06ff4#@HiByeVPNN❤️‍🔥🔥✨
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@103.35.191.221:443?security=reality&encryption=none&pbk=xZ0pVv73Je0cD-3zCB5ABlRROIbWqTLt5YSE3FlA7GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=efe06ff4#All--@IRAN_V2RAY1
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@103.35.191.221:443?security=reality&encryption=none&pbk=xZ0pVv73Je0cD-3zCB5ABlRROIbWqTLt5YSE3FlA7GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=efe06ff4#All--@V2ray_Alpha-22
@@ -503,3 +501,5 @@ vless://7a5a596b-fc7c-40d6-b8cb-fc6b850ad7ef@194.182.79.236:24558?mode=gun&secur
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-12.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-12.LeIlA.DpDnS.OrG#🆔@DarkHub_VPN (تلگرام)
+vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443/?type=grpc&encryption=none&flow=&serviceName=dcfc23920fc8a07991dda30d&sni=www.microsoft.com&fp=chrome&security=reality&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53#⚱️64@oneclickvpnkeys
