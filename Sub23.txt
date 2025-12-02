@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+اینم افزونه Xray Plugin مخصوص همین برنامه ماتسوری هست که اینم حتمن باید نصب کنید تا سرورهای خاصی مثه vless براتون کار کنه@v2rayNG_VPN
 
 
 همراه اول/سرورvlessافزونه Xray حتمن باید نصب و توی برنامه ماتسوری فعالش کرده باشید،وگرنه کار نمیکنهسرعت دانلود وآپلودی خیلی خوبی دارهvless://30fa6fab-661a-490c-bbc5-06e2f3a9826e@www.speedtest.net:443/?encryption=none&type=ws&host=free.kiava.workers.dev&path=%2Fadws&security=tls&sni=free.kiava.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%0A%40v2rayNG_VPN@v2rayNG_VPN
@@ -501,5 +502,4 @@ vmess://eyJpZCI6ImNmMTNkNmVjLTAxZjAtNGI4YS1hYjczLTYxNmNlM2MxZTUxOSIsInBzIjoic3Vz
 
 
 vless://6479e444-f0b1-4bfb-963d-ce1e04e8b159@v.abolfazlsafeti.top:46801?type=ws&security=none&path=%2F#%D9%88%DB%8C%DA%98%D9%87لینک برای ویپی ان nv پولیه بزنید جدیده✅
-
 
