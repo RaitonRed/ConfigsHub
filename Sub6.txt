@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.110.1.203:8009#t.me/entryNET/config=1850473253477542
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#@V2rayNG3
@@ -31,13 +32,13 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.143.66.87:5003#@V2rayNG3
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.6:8882#@daredevill_404
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.158.56.196:8882#@daredevill_404
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#All-#V2rayAlpha--2
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#t.me/entryNET/config=1850390204052447
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#🇨🇱59@vpnserverrr
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881?note=--Telegram--@NetifyVPN--#🇨🇱[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206ajhGRzN4ekpIemlZbVBSdHBaODZMRDcrQkV6YlRodkZVdG96Si9Mei9kRT0=@5.180.182.20:14884#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام | 🇳🇱
 ss://YWVzLTI1Ni1nY206b2VoZXBlUFFQaGZtY1o3SUJEUWR0V1NUcmQ3bVNubWFrbytsM1hwOW5IQT0=@57.128.219.94:8443#All-@V2ray_Alpha--27
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMlpHTm1ZbUk1WlMwM01qbGtMVFJqWTJFdFlqTTRZeTB6WWpjMk5UTXdaVEkxWTJR@free.2weradf.xyz:36241#t.me/entryNET/config=1850461289656360
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMlpHTm1ZbUk1WlMwM01qbGtMVFJqWTJFdFlqTTRZeTB6WWpjMk5UTXdaVEkxWTJR@free.2weradf.xyz:36371#[🇨🇳]t.me/ConfigsHub
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31173#t.me/entryNET/config=1850465064309878
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvellUa3lOVE13WlMxbE1XSmxMVFF5TTJFdE9UVmxaaTFpT0RsaU5XUmxaRFEzTkRj@free.2weradf.xyz:36741#t.me/entryNET/config=1850453740274496
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVkyWTBZVGhpT0MwMU5XWXhMVFJqTW1VdE9XWTBNaTA1TUdFNE1qbGxOMk5qWTJV@free.2apzhfa.xyz:31411#t.me/entryNET/config=1850408441206110
@@ -119,6 +120,7 @@ trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=/azadnet-bd
 trojan://d06a636e-5aa7-4ee9-a38d-baae9c13facd@82.148.2.86:443?path=/Free-VPN-CF-Geo-Project/82.148.2.86=443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام 🇺🇿
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
 trojan://dbq-xg26UXrhLA50236LzydDHgp2bn@94.103.169.70:8443/?type=tcp&security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&allowInsecure=1&fp=chrome#🎁5@oneclickvpnkeys
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2ray1_Ng
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:702?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2rayAlpha--5
 trojan://df277997-c6df-4a8c-b079-30cfd9c6572a@193.180.211.52:443?path=/Free-VPN-CF-Geo-Project/193.180.211.52=443&security=tls&host=joss.gpj.web.id&fp=chrome&type=ws&sni=joss.gpj.web.id#⚜️𝗝𝗼𝗶𝗻 ➠ @tik7net_vpn کانال تلگرام 🇩🇰
 trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#WiFi-@V2ray_Alpha--2
@@ -501,5 +503,3 @@ vless://0c7bd9e3-7310-4add-95a6-70d3c4ebe235@193.46.81.151:50853?security=realit
 vless://0c7bd9e3-7310-4add-95a6-70d3c4ebe235@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#🇩🇪 Telegram @SRCVPN
 vless://0c7bd9e3-7310-4add-95a6-70d3c4ebe235@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#@v2rayfast_7❤️‍🔥1
 vless://0c85916a-3b36-4cfa-d536-428d537c0206@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
-vless://0c9b80aa-9eb4-4608-da57-ffcef6f24afb@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=shop.slimshopboyss.ir&type=xhttp#@TEHRANARGO 🎖️🚀 عضو شو
-vless://0c9b80aa-9eb4-4608-da57-ffcef6f24afb@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#🇩🇪@FreakConfig
