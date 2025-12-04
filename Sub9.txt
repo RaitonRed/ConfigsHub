@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#@V2rayNG3
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNG3
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@IRAN_V2RAY1
@@ -503,3 +502,4 @@ vless://12f154c9-83b9-493c-8635-481198a6fad2@test.fast.hosting-ip.com:80?type=xh
 vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639003456253079909.defender-amsis.info&path=/dupbatws&security=tls&sni=639003456253079909.defender-amsis.info&allowInsecure=1#🔴47@oneclickvpnkeys
 vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=/dupbatws&security=tls&encryption=none&host=639003456253079909.defender-amsis.info&type=ws&sni=639003456253079909.defender-amsis.info#All-@V2rayAlpha-31
 vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=/dupbatws&security=tls&encryption=none&host=639003456253079909.defender-amsis.info&type=ws&sni=639003456253079909.defender-amsis.info#🇳🇱[openproxylist.com] vless-NL
+vless://134a7b17-df2f-46ff-80b3-e612bd245e5b@212.134.84.115:597?security=reality&encryption=none&pbk=_SqgdwQPy596-CVJEp1pSSYZKx9hPJ-h4sX1ONLn3GQ&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=www.cdn77.com&sid=785891acea1f52#✅سرورهایبیشتردرکانال:prrofile_purple@✅
