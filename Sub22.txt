@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?flow=&type=ws&host=&path=/&security=tls&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&allowInsecure=0#@vmessorg
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#JOIN ➪@FILTERK0SH
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#MCI--@IRAN_V2RAY1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?encryption=none&type=ws&host=smart.trevanda.info&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=smart.trevanda.info&alpn=h3,h2#🇺🇸 | @EVAY_VPN
@@ -503,3 +500,6 @@ vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.60.73:80?mode=auto&path=/&se
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.80.66:80?mode=auto&path=/&security=&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆¹
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.80.66:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--1
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@162.159.48.140:80?mode=auto&path=/&security=&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#🇩🇪@FreakConfig
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@188.114.97.139:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--2
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@198.41.192.125:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--3
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@www.speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#Channel : @Mrsoulb 🏴🏳

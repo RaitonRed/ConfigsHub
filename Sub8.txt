@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV2c3SEVKM0JtVkV5UURnUkUvTk9LSTlUUlpCdCtYcmc0ZlVZRGEwNDJRPQ==@3.71.48.11:2087#@daredevill_404
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#🎶48@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZTBTMGs5VVFadUpTNE41cEVIODBF@145.249.109.148:16548#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZTBTMGs5VVFadUpTNE41cEVIODBF@145.249.109.148:16548#ری اکشن بزن @Skypro_vpn 💙🎀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZTBTMGs5VVFadUpTNE41cEVIODBF@145.249.109.148:16548#✅
@@ -503,3 +500,6 @@ vless://--LegenderY_Servers--@85.194.137.201:443?mode=gun&security=reality&encry
 vless://...mahanvpn..++@www.speedtest.net:2052?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-vip
 vless://...mahanvpn..+@www.speedtest.net:2052?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-vip
 vless://...mahanvpn..@172.67.160.192:2052?type=httpupgrade&path=/mAhAnteaM,?ed=2560&host=mAhaNteAm.noD32Cpu.iR.&security=none#🇩🇪🔑Tel@mahanvpn-vip
+vless://...mahanvpn..@www.speedtest.net:2052?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#
+vless://...mahanvpn..@www.speedtest.net:2052?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-vip
+vless://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082?mode=auto&path=/?ed=1024&security=none&encryption=none&host=chat.learningaii.ir&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
