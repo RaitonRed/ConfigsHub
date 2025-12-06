@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=freudd.info&path=%2Fxxvclws#%3E%3E%40v2ray_configs_pool%3A%3AXX
-vless://ed159d76-80be-4e34-aa56-a5f14c28bbfc@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639003543855624492.prius-amsit.info&path=%2Fmphirfws&security=tls&sni=639003543855624492.prius-amsit.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003338940169118.highlander-amsis.info&type=ws&host=639003338940169118.highlander-amsis.info&path=/prheflws#%3E%3E%40DailyV2RY%3A%3AES
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@162.159.48.140:80?mode=auto&path=%2F&security=&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#%3E%3E%40FreakConfig%3A%3AXX
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@www.speedtest.net:80?type=xhttp&encryption=none&path=%2F&host=vp3.mydatacloud2.ir&mode=auto&security=none#%3E%3E%40DailyV2RY%3A%3AXX
@@ -503,3 +500,6 @@ ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#%F0%9F%87%B5%F0%
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-0289
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.119.77:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.119.77-0272
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#%F0%9F%87%B8%F0%9F%87%AASE-70.34.218.149-1239
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.188-0342
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.18-0355
+vmess://ewogICAgImFkZCI6ICIyMGZiNmM0Ny10NnI1czAtdGlmbml4LTFybzhzLmhrMy5wNXB2LmNvbSIsCiAgICAiYWlkIjogMiwKICAgICJob3N0IjogIjIwZmI2YzQ3LXQ2cjVzMC10aWZuaXgtMXJvOHMuaGszLnA1cHYuY29tIiwKICAgICJpZCI6ICJhMThlZjE4ZS0yOTNhLTExZWYtYjc2ZS1mMjNjOTFjZmJiYzkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HrfCfh7BISy0yMTkuNzkuNDkuNjEtMzMxNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
