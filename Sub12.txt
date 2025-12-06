@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@151.145.73.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.co.jp&fp=chrome&security=reality&pbk=SrzkOMOCoKm8kB1Lfhi5x6WzO-EajWyGo2JHJzh9FA4&sid=16d2d2121c724993#🟢74@oneclickvpnkeys
 vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@151.244.214.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=SZFtIuW-boSaWMV3h6B1fkNDBQxjYPLu88mEPQJkvBg&sid=7ca4da3d4d5875#🟢63@oneclickvpnkeys
 vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@152.67.217.247:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=iZStU8hKa_laN-saNonk-Pw9TPWh07yc_m89tBn5O2M&sid=44af#🟢77@oneclickvpnkeys
 vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@152.70.99.167:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.co.jp&fp=chrome&security=reality&pbk=xa1XgvqG6TbLl1sq2WsB6Yvh-Px2mEjgVmC1Cmr06XA&sid=5e1ebc#🟢75@oneclickvpnkeys
@@ -326,7 +327,6 @@ vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none
 vless://5558694b-d1b7-4060-bf15-39abdf51302c@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://5562b859-cd73-9cd2-98ec-c3f308ce63a2@fr.zeroboostspeed.org:1231/?encryption=none&host=Fast.com&type=tcp&headerType=http#@Geek_Spot
 vless://55b7d103-5d93-4835-80d8-3074774d574e@95.179.253.176:21423?security=reality&encryption=none&pbk=49SRcrvAi15y2ao-X3YkliGxW83Sb9rBu9dABW2wTRk&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=969c794705af#@Daily_Configs
-vless://55b7d103-5d93-4835-80d8-3074774d574e@95.179.253.176:21423?security=reality&encryption=none&pbk=49SRcrvAi15y2ao-X3YkliGxW83Sb9rBu9dABW2wTRk&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=969c794705af#⚡ @Fast78_Channel | Best Free Configs
 vless://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?path=/pvoxsaws&security=tls&encryption=none&host=639002442881637239.supra-amsir.info&type=ws&sni=639002442881637239.supra-amsir.info#All-@V2rayAlpha-36
 vless://55fcbc64-7e4e-49fa-95f1-bb44a1efcbbf@88.198.160.200:42671?type=tcp&security=none#Donald_vpn-15
 vless://55fdba7f-8ae4-47f3-ad23-86b25c049b0d@172.67.136.244:2053?path=/R8aKBOK1R7OBYYMZ&security=tls&encryption=none&host=full.app-browser.org&type=ws&sni=full.app-browser.org#All-@V2rayAlpha--32
@@ -366,7 +366,6 @@ vless://57d4fb9d-435a-40b0-951a-c638704ba2e5@91.99.175.173:1001?security=reality
 vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638895063452643248.paris-prx-dnraaay.info&type=ws&alpn=&host=638895063452643248.paris-prx-dnraaay.info&path=/urdpjvws#telegram 🍊 v2ray_configs_pools
 vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638901504444939106.esfahan-prx-dnraabg.info&type=ws&alpn=&host=638901504444939106.esfahan-prx-dnraabg.info&path=/urdpjvws#telegram 🌟 v2ray_configs_pools
 vless://584bb6f2-aaf3-48a6-b154-b03238bb1e07@v2hich.fast.hosting-ip.com:80?path=/@SvnProBot?ed=2560&security=none&encryption=none&host=shad.ir&type=ws#@CaV2ray ⚡️
-vless://58a2d971-ab7d-4895-b9f6-96b929cc85ad@crtvbyun.global.ssl.fastly.net:80?mode=auto&path=/&security=&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#⚡ @Fast78_Channel | Best Free Configs
 vless://58a2d971-ab7d-4895-b9f6-96b929cc85ad@crtvbyun.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#@Daily_Configs
 vless://58a6047f-b46e-4e7a-c7d0-c08b48f3c505@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://58a6047f-b46e-4e7a-c7d0-c08b48f3c505@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -503,3 +502,4 @@ vless://5eaf918b-910f-4870-a427-28ba6e3dc6c2@V2ngnet.huqpmfood.ir:4455?mode=auto
 vless://5eb849b4-b1e5-46d8-97ac-253e7d34908d@151.101.3.8:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shcareld.global.ssl.fastly.net&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-021.shenzogmbh.com&fp=chrome&type=ws&sni=gb-021.shenzogmbh.com#All-@V2rayAlpha--11
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#All-@V2rayAlpha--15
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&type=ws&sni=gb-8981.shenzogmbh.com#All-@V2ray_Alpha--14
