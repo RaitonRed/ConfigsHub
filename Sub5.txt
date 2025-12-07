@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1545%20%7C%20free-nodes
-trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1546%20%7C%20free-nodes
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1547%20%7C%20free-nodes
-trojan://253bc477d4e43c209f2d427272968280@160.16.68.250:4451?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1548%20%7C%20free-nodes
-trojan://telegram-id-privatevpns@63.181.113.103:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1549%20%7C%20free-nodes
-trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1550%20%7C%20free-nodes
-trojan://vip@www.zsu.gov.ua:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1551%20%7C%20free-nodes
-trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1552%20%7C%20free-nodes
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1553%20%7C%20free-nodes
-trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes#%E6%9C%AA%E7%9F%A5%20TROJAN-1554%20%7C%20free-nodes
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10824?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1555%20%7C%20free-nodes
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&path=/tr4BCdusB84159lWnu&Host=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%E6%9C%AA%E7%9F%A5%20TROJAN-1556%20%7C%20free-nodes
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@31.72img.xyz:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1557%20%7C%20free-nodes
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@iplc.xiaohouzi.club:20036?security=tls&sni=$$nazhk03.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1558%20%7C%20free-nodes
@@ -503,3 +492,14 @@ hy2://6e3ee1de-381f-11ee-87f9-f23c91cfbbc9@06bcb005-t70f40-tnqudu-1mim2.hk1.hyhu
 hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#🟠11@oneclickvpnkeys
 hy2://759bf004-6137-11ec-bd7c-f23c913c8d2b@0a355d13-t53wg0-thiwul-1gcq2.us.hyhuawei.com:443/?insecure=1&sni=0a355d13-t53wg0-thiwul-1gcq2.us.hyhuawei.com#🔴73@oneclickvpnkeys
 hy2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989/?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#🟢52@oneclickvpnkeys
+hy2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989/?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&note=@freeOnlineVPN#🇸🇪 - SE - @freeOnlineVPN
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056/?insecure=1&sni=cc1.mangshe.xyz#KR
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=lsj3.mangshe.xyz#美国
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056/?insecure=1&sni=mg1.mangshe.xyz#美国
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056/?insecure=1&sni=xg1.mangshe.xyz#香港
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#SG
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp2.mangshe.xyz:2060/?insecure=1&sni=xjp2.mangshe.xyz#新加坡
+hy2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789/?insecure=1&sni=iij.mggl.wang#🟢14@oneclickvpnkeys
+hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#UK家宽
