@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://eb42bd57-656f-4446-9456-0437d99d5df4@test.fast.hosting-ip.com:80?type=xhttp&encryption=none&path=/Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&host=starboy.ir&mode=auto&security=none#[🇩🇪] @EXPRESSVPN_420
 vless://eb43a7d5-1b3e-4887-f4b1-f551df7079b8@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://eb577431-3b16-4a8f-953b-7bcfb573b025@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638899496845219812.kish-prx-dnraabd.info&type=ws&alpn=&host=638899496845219812.kish-prx-dnraabd.info&path=/kskoxmws#telegram ☂️ v2ray_configs_pools
 vless://eb577431-3b16-4a8f-953b-7bcfb573b025@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638901446244340634.dezful-prx-dnraabg.info&type=ws&alpn=&host=638901446244340634.dezful-prx-dnraabg.info&path=/kskoxmws#telegram 🚀 v2ray_configs_pools
@@ -502,4 +503,3 @@ vless://telegram-id-Arfilter@172.66.40.99:443?path=/telegram-v2ray_configs_pools
 vless://telegram-id-Arfilter@172.66.40.99:443?path=/v2ray_configs_pools,telegram-ArV2ray,telegram-v2ray_configs_pools?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDi.SpEeDtEsT2029.CoM&fp=chrome&type=ws&sni=eDi.SpEeDtEsT2029.CoM#✅ @v2ray_configs_pools (تلگرام)
 vless://telegram@v2rayng_76@bm.boulvarmoein.shop:2095?path=/Telegram@v2rayng_76=?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#🆔 @EXPRESSVPN_420
 vless://turboo-server@146.75.55.82:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#https://t.me/v2raynplus |🇳🇱
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=truboo-server.us&type=xhttp#https://t.me/v2raynplus |🇺🇸
