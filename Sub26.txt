@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : United Statesvmess://eyJhZGQiOiIxNzMuMjU1LjI0MS44NSIsImFpZCI6IjAiLCJob3N0Ijoic29mdDk4LmlyIiwiaWQiOiIxNjY1MmEzNS0xY2EwLTRjNzUtZDcwYi1lOWYxMjljYzc5YmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJpY2Vzb3VyY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
-
-
 
 
 کانفیگ جدید vmess | پرسرعت و جدید🚩 کشور : Germanyvmess://eyJ2IjogIjIiLCAicHMiOiAiaWNlc291cmNlIiwgImFkZCI6ICI5MS4xMDcuMjUwLjE3NyIsICJwb3J0IjogNDg3MDYsICJpZCI6ICIxOWZhYjAyZC05ZmRiLTRhMWQtZmYyYy00Mzg3N2RlYjg1YzIiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiaHR0cHM6Ly9zbmFwcGZvb2QuaXIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJub25lIn0=⚙️ نوع کانفیگ : vmess▰▰▰▰▰▰▰▰▰▰🆔 @V2RayOxygen
@@ -503,3 +500,6 @@ vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@medium.com:443?security=tls&sni=rAy
 
 vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.44
 
+vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
+
+vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
