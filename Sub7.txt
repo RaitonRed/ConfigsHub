@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990#🇲🇩V2WRAY𓄂𓆃
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990?note=@freeOnlineVPN#🇲🇩 - MD - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#🔸@IRAN_V2RAY1💘
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990?note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.237.185.89:990?note=@freeOnlineVPN#🇱🇹 - LT - @freeOnlineVPN
@@ -503,3 +501,5 @@ trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electr
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#@Daily_Configs
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🟢81@oneclickvpnkeys
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#13🔵@oneclickvpnkeys
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3111 | Japan
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2ray1_Ng
