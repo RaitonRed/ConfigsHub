@@ -436,6 +436,8 @@ ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@77.105.166.51:2096#@daredevill_404
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#All--@V2rayAlpha--2
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#[🇮🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#t.me/entryNET/config=1851050169921418
+ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc@146.70.90.196:17454#[🇮🇪]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc@146.70.90.196:17454#t.me/entryNET/config=1851050810389892
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzdAMTQ2LjcwLjkwLjE5NjoxNzQ1NA==#Channel+id:+@ShadowProxy66+🇮🇪 🇨🇭
 ss://YWVzLTEyOC1nY206djMyYzFmYjV5MGY1OXByYncydDU=@185.212.171.204:18672#All-#V2rayAlpha--1
 ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#All--@V2rayAlpha--3
@@ -501,5 +503,3 @@ trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&securi
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000/?type=tcp&security=tls&sni=aliyun.com&allowInsecure=1#🇭🇰 HK
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-18
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--@V2rayAlpha-20
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
-trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#🏴‍☠️@FreakConfig
