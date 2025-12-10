@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SVNTEAN🇩🇪TCP-45
 vless://88f30f27-b786-4e09-9be4-9dfdc0f93cba@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=eMPatHic-Bird.oneEat.Co&type=ws#telegram ⚡️ v2ray_configs_pools
 vless://88f30f27-b786-4e09-9be4-9dfdc0f93cba@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=eMPatHic-Bird.oneEat.Co&type=ws#telegram 🌟 v2ray_configs_pools
 vless://88f30f27-b786-4e09-9be4-9dfdc0f93cba@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=eMPatHic-Bird.oneEat.Co&type=ws#telegram 🎪 v2ray_configs_pools
@@ -503,3 +502,4 @@ vless://9f8a9503-562a-4c09-87e5-e90c9599e852@rep.en.xpnvip.ir:2689?mode=gun&secu
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@rep.neth.electroluxxv.ir:2689?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#🇳🇱 | @External_Net
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@rep.usa.spouver.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#🇺🇸 | @External_Net
 vless://9fbfeb23-9b2e-4891-b609-857c1d082ccd@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=triplef_sony.global.ssl.fastly.net&type=xhttp#@sunflowerplato🌻
+vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#@vmesskhodam
