@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?encryption=none&type=ws&host=smart.taron01.info&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=smart.taron01.info&alpn=h3,h2#🇺🇸 | @EVAY_VPN
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#@sunflowerplato🌻
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#@HiByeVPNN❤️‍🔥💎✨
@@ -503,3 +502,4 @@ vless://2a2a6062-003c-4f44-b293-ee0d0416afee@144.124.252.219:443/?type=tcp&encry
 vless://2a2a6062-003c-4f44-b293-ee0d0416afee@144.124.254.31:1443/?type=grpc&encryption=none&flow=&serviceName=admin&sni=ozon.ru&fp=chrome&security=reality&pbk=JuDrUZsgHt0i_hz3kOhQbiX708vbjR9uHHFwi3fWqSc&sid=47e92a4b0513b27f#♾️47@oneclickvpnkeys
 vless://2a2a6062-003c-4f44-b293-ee0d0416afee@91.84.118.130:1443/?type=grpc&encryption=none&flow=&serviceName=admin&sni=ozon.ru&fp=chrome&security=reality&pbk=JuDrUZsgHt0i_hz3kOhQbiX708vbjR9uHHFwi3fWqSc&sid=47e92a4b0513b27f#♾️35@oneclickvpnkeys
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&fp=chrome&type=ws#Bya To:@IRAN_V2RAY1
+vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
