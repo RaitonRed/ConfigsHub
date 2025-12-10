@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🎯 v2ray_configs_pools
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?mode=auto&path=/&security=reality&encryption=none&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=89#telegram 🍀 v2ray_configs_pools
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&sni=yahoo.com&sid=89&spx=/#telegram 🍀 v2ray_configs_pools
 vless://31d35cbe-92d1-44cd-9991-e58d00499fb2@magnataur.fonixapp.org:10922?security=reality&encryption=none&pbk=BWGB4WcFMvsxbu7rfyGTqVSWVlxNUz0HbmotfvlXuxg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=d2900d#MCI-@V2ray_Alpha--9
@@ -502,4 +503,3 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&sec
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=maquery.ir.xmhkjgqwzneevm.mapircdn.com&fp=chrome&type=ws&sni=maquery.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=mercimovie.ir.oadeflantrogmnl5.abrirmahan.com&fp=chrome&type=ws&sni=mercimovie.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&host=irancellapp.ir.turcancowntiv.airasiadl.com&fp=chrome&type=ws&sni=irancellapp.ir#@CaV2ray ⚡️
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&host=vikimovie.ir.uiblapridayavl.iranaircdn.com&fp=chrome&type=ws&sni=vikimovie.ir#@CaV2ray ⚡️
