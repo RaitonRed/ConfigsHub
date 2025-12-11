@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
 vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KUHJho91NIJLrX&security=tls&alpn=http%2F1.1&encryption=none&host=wwwwwdrt.444682.xyz&type=ws&sni=wwWwWDrt.444682.XyZ#%40Daily_Configs
 vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?path=%2Fnodudrws&security=tls&encryption=none&host=638874929583386193.zagreb-prx-dnraaad.info&type=ws&sni=638874929583386193.zagreb-prx-dnraaad.info#%40mtmvpn
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0N4NkFmZkVwWTNlUVFnSmtCYkha@62.133.60.60:7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0N4NkFmZkVwWTNlUVFnSmtCYkha@62.133.60.60:7048?note=--Telegram--@NetifyVPN--#🇩🇪[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#🇫🇮49@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#SS-@V2rayAlpha--7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Z1NYTFRDckw4emVLYjJuNm1naEs4SjI2R1ZIV21aQTRweXk4NFB5ZzZFPQ==@45.67.32.147:13896#@daredevill_404

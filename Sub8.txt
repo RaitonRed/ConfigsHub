@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#All--@V2rayAlpha--3
 ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#r♡ya
 ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁴
@@ -503,3 +502,4 @@ vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#Join To : @IRAN_V2RAY1
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://0d266ab5-36ea-4654-b979-365e3f583cd1@91.107.181.137:1241?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha-33
+vless://0d266ab5-36ea-4654-b979-365e3f583cd1@91.107.181.137:8443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ

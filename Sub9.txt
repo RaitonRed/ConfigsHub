@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://0d266ab5-36ea-4654-b979-365e3f583cd1@91.107.181.137:8443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://0d2b6505-c554-43db-95f0-0b51bac41f48@199.232.208.18:80?mode=auto&path=/msproxyx&security=none&encryption=none&host=aliirancel12.global.ssl.fastly.net&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?type=tcp&headerType=none&security=none#3 🇩🇪 | @Evay_vpn
 vless://0dc68b86-9b13-4f9d-9315-bdeabf54feec@65.109.212.126:2080?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
@@ -503,3 +502,4 @@ vless://2437d38a-546f-4ecf-a5d1-3cfb28036982@193.46.81.151:50853?security=realit
 vless://2437d38a-546f-4ecf-a5d1-3cfb28036982@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#@V2RAYNG_IP❤️‍🔥1
 vless://2437d38a-546f-4ecf-a5d1-3cfb28036982@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#@v2rayfast_7❤️‍🔥1
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?encryption=none&type=ws&path=/Telegram🇨🇳&security=tls&sni=fast01.0860852.xyz#AKLISvpn🏴󠁧󠁢󠁥󠁮󠁧󠁿
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=/Telegram🇨🇳&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Join To : @IRAN_V2RAY1
