@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b797d2a9-37b7-47e2-a7d2-d5f4c41c28e9@84.201.4.247:15349?security=none&type=grpc&headerType=&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&authority=&mode=gun#@EXPRESSVPN_420
 vless://b797d2a9-37b7-47e2-a7d2-d5f4c41c28e9@84.201.4.247:15940?security=reality&type=tcp&headerType=none&path=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&host=&sni=refersion.com&fp=chrome&pbk=Q7B94qjnMk48_2054jmhOKdPbqRkyUbLIHSNLb8Zz2w&sid=90658dac0f08c239#☀ @EXPRESSVPN_420
 vless://b7f13ff2-bfa9-41bd-af8b-998a49d3b5e6@V2ngnet.huqpmfood.ir:4455?mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @v2ngnet
 vless://b807c5f7-98b4-4a91-9e1e-98865d949a51@uuk4v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#telegram 🎪 v2ray_configs_pools
@@ -503,3 +502,4 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@ip.sb:443?path=/&security=tls&encry
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@ip.sb:443?path=/&security=tls&encryption=none&host=azadnet-1cm.pages.dev&fp=chrome&type=ws&sni=azadnet-1cm.pages.dev#🏴‍☠️@FreakConfig
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@ip.sb:443?path=/&security=tls&encryption=none&insecure=0&host=azadnet-1cm.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-1cm.pages.dev#V2RAy
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=a.azadnet002.ddns-ip.net#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus |🇩🇪23
