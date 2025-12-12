@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%E6%9C%AA%E7%9F%A5128
+trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%E6%9C%AA%E7%9F%A5129
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@103.135.103.229:443?security=tls#%E6%9C%AA%E7%9F%A5130
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@fra13.yukiss.eu.org:18818?security=tls#%E6%9C%AA%E7%9F%A5131
+trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#%E6%9C%AA%E7%9F%A5132
+trojan://76d630f2af6619c4a5de0ef953df3c6a@153.121.73.102:1331?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5133
+trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5134
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.65.107:3169?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5135
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%E6%9C%AA%E7%9F%A5136
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:3296?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5137
@@ -496,10 +503,3 @@ trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni
 trojan://vip@104.18.42.163:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-432%20%7C%20free-nodes
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:7177?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-433%20%7C%20free-nodes
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-434%20%7C%20free-nodes
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-435%20%7C%20free-nodes
-trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-436%20%7C%20free-nodes
-trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#%E6%9C%AA%E7%9F%A5%20TROJAN-437%20%7C%20free-nodes
-trojan://telegram-id-privatevpns@15.237.12.5:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-438%20%7C%20free-nodes
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-439%20%7C%20free-nodes
-trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-440%20%7C%20free-nodes
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:18436?security=tls&sni=$$avas01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-441%20%7C%20free-nodes
