@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@142.171.156.182:15801/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome&packetEncoding=xudp#🇺🇸US
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@192.0.54.32:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#JOIN ➪@FILTERK0SH
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@Daily_Configs
 vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@MARAMBASHI 🇧🇷
@@ -503,3 +502,4 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/?TELEG
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?security=tls&type=ws&headerType=&path=/&host=lease-20.access.name.ng&sni=lease-20.access.name.ng&fp=#telegram 🎯 v2ray_configs_pools
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray ⚡️
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray ⚡️
+vless://ccf0e99f-959e-4555-ea9a-e79d153284e1@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
