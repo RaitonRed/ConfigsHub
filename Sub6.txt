@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1983%20%7C%20free-nodes
+trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1984%20%7C%20free-nodes
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10826?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1985%20%7C%20free-nodes
+trojan://253bc477d4e43c209f2d427272968280@160.16.57.238:449?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1986%20%7C%20free-nodes
+trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1987%20%7C%20free-nodes
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.144.208:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1988%20%7C%20free-nodes
+trojan://d86c421f-dbfe-4507-a864-f8f9e29d80e4@de-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1989%20%7C%20free-nodes
+trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1990%20%7C%20free-nodes
+trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@gz01.xiaohouzi.club:37548?security=tls&sni=aru01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-1991%20%7C%20free-nodes
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4317?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1992%20%7C%20free-nodes
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.130.66:3093?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1993%20%7C%20free-nodes
+trojan://BxceQaOe@13.231.156.35:968?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1994%20%7C%20free-nodes
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1995%20%7C%20free-nodes
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1996%20%7C%20free-nodes
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1997%20%7C%20free-nodes
 trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tls&sni=zi.you.usdtvfk.top#%E6%9C%AA%E7%9F%A5%20TROJAN-1998%20%7C%20free-nodes
@@ -490,16 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.240.238:443#@Ca
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#✅ @v2ray_configs_pools (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#✅ @v2ray_configs_pools (تلگرام)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVmMmMxZC1hMzE3LTQ1YTgtYjIzMC1lNDIwNTY2YTdmNjI@69.30.251.122:51004#https://t.me/v2raynplus |🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNTUzZDJiMTY5OTllMmUx@82.23.146.56:57456#t.me/entryNET/config=1851204940188630
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUpvZ0t1RnNpVmE1U3JoRDd2UG44UDI4c2U5REJBVDU2NFhUR0RuRTloNUhaUGg1OTNiekpSeFlhdld6cnlhY3I2Q0FONW5IRm04UnBzSGZxUm5hc3loYnNSelk0TnA@94.131.22.134:40565#https://t.me/v2raynplus |🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@backup.fleetfoxi.link:44884#@HiByeVPNNBot✨❤️‍🔥💥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUWpNUWpVcmpKTTNST1cxa0lNcGZN@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3p0czZ1Q0hNQWNTeHZPY2xuU1FR@103.35.190.211:55672#@daredevill_404
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToydTI2ZlNOZUgwWnQ5MTdkdnR4UzFQ@62.133.63.21:65262?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDVkYmY4NDJiY2U0YjY2@lv.ssvpnapp.win:57456#[🇱🇻]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDVkYmY4NDJiY2U0YjY2@lv.ssvpnapp.win:57456#👉🆔 @v2ray_configs_pool 📡 🇱🇻LV 🧭 3.0MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDVkYmY4NDJiY2U0YjY2@nd-tor.vmagnum.win:57456#t.me/entryNET/config=1851247102605318
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNWQwZWYyZi1lMjBmLTRmY2ItYmM1ZC1mMDE2MGM3ZDFmYzg@183.240.138.163:15211#🇭🇰香港
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNWQwZWYyZi1lMjBmLTRmY2ItYmM1ZC1mMDE2MGM3ZDFmYzg@36.141.40.46:15121#🇨🇳台湾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNWQwZWYyZi1lMjBmLTRmY2ItYmM1ZC1mMDE2MGM3ZDFmYzg@36.141.40.46:15131#🇯🇵日本
