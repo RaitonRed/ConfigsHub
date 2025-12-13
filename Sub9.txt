@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=none&encryption=none&type=grpc#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://076fdc56-4bf7-45d1-b70e-01f54e4a6d1f@104.27.39.172:2086?path=/@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPNـ@DarkHub_VPN?ed=8880&security=none&encryption=none&host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&type=httpupgrade#Join -to▶️ @DarkHub_VPN.10
 vless://0771a171-7eea-4272-a6b1-3e29478e4473@helsinki.fonixapp.org:443?security=reality&encryption=none&pbk=C5xoRWKopqNXP5xmZsJQdejPRIoZpzWRgrtlNticyQA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients4.google.com&sid=78e514cf#All-@V2rayAlpha--22
 vless://0771a171-7eea-4272-a6b1-3e29478e4473@helsinki.fonixapp.org:443?security=reality&encryption=none&pbk=C5xoRWKopqNXP5xmZsJQdejPRIoZpzWRgrtlNticyQA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients4.google.com&sid=78e514cf#🇫🇮@FreakConfig
@@ -503,3 +502,4 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#r♡ya
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#🇩🇪@FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&allowinsecure=0&type=ws&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
