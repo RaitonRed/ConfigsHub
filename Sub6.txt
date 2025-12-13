@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
+trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1982%20%7C%20free-nodes
+trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1983%20%7C%20free-nodes
+trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1984%20%7C%20free-nodes
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10826?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1985%20%7C%20free-nodes
 trojan://253bc477d4e43c209f2d427272968280@160.16.57.238:449?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1986%20%7C%20free-nodes
 trojan://6711c6cf-847a-4177-b059-55f519b09de4@103.173.155.72:38000?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1987%20%7C%20free-nodes
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.144.208:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1988%20%7C%20free-nodes
@@ -499,7 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUWpNUWpVcmpKTTNST1cxa0lNcGZN@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3p0czZ1Q0hNQWNTeHZPY2xuU1FR@103.35.190.211:55672#@daredevill_404
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToydTI2ZlNOZUgwWnQ5MTdkdnR4UzFQ@62.133.63.21:65262?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDVkYmY4NDJiY2U0YjY2@desrv.ssvpnapp.win:57456#t.me/entryNET/config=1851343356216910
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNWQwZWYyZi1lMjBmLTRmY2ItYmM1ZC1mMDE2MGM3ZDFmYzg@183.240.138.163:15211#🇭🇰香港
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNWQwZWYyZi1lMjBmLTRmY2ItYmM1ZC1mMDE2MGM3ZDFmYzg@36.141.40.46:15121#🇨🇳台湾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNWQwZWYyZi1lMjBmLTRmY2ItYmM1ZC1mMDE2MGM3ZDFmYzg@36.141.40.46:15131#🇯🇵日本
