@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/RaitonRed/ConfigsHub
 #profile-web-page-url: https://github.com/RaitonRed/ConfigsHub
-vless://068990bb-5454-4b7e-8aad-46135451f332@185.113.10.29:443?security=reality&encryption=none&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=3650a4286bf867e9#@HiByeVPNNBot✨❤️‍🔥💥
-vless://068bb3d1-952e-4496-a19a-56c358fd624f@151.101.3.8:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-e7ax795f
 vless://06a0f312-d5a1-4a47-baef-91f367eefc8b@traxex.fonixapp.org:30295?security=reality&encryption=none&pbk=ytFEE1Ae7cboXEsIhJt5ry8qv2hGZ41jAWyGhHjZXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=9d6aa524#@sunflowerplato🌻
 vless://06b13d5c-d8d0-4385-b321-17986328a79d@fs2.greenetplus.ir:36158?path=/&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://06c4d024-6079-430e-bbc4-53a340ac933e@167.172.51.202:2096?mode=gun&security=reality&encryption=none&pbk=29iCBehXD9OCK1B5fDd7hwiOZEtm7BXiwzZpwggESzo&fp=chrome&type=grpc&sni=zula.ir#All-@IRAN_V2RAY1
@@ -503,3 +501,5 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#Channel : @Mrsoulb 🏴🏳
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#Channel : @vpnserverrr
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#🇩🇪@FreakConfig
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
